@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="4574.2543 12017.5 900.448 414.948" width="900.448" height="414.948">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="14" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="02_nearby_friends" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>02.nearby friends</title>
+    <g id="02_nearby_friends_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_461">
+        <rect x="5296.5023" y="12042.552" width="168" height="286.448" fill="white"/>
+        <path d="M 5296.5023 12042.552 L 5464.5023 12042.552 L 5464.5023 12329 L 5296.5023 12329 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_460">
+        <rect x="4916.0023" y="12042.552" width="209" height="369.448" fill="white"/>
+        <path d="M 4916.0023 12042.552 L 5125.0023 12042.552 L 5125.0023 12412 L 4916.0023 12412 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_459">
+        <rect x="4574.7543" y="12129" width="187" height="101.948" fill="white"/>
+        <path d="M 4574.7543 12129 L 4761.7543 12129 L 4761.7543 12230.948 L 4574.7543 12230.948 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_443">
+        <rect x="4600.7543" y="12152.422" width="135" height="54.5" fill="white"/>
+        <rect x="4600.7543" y="12152.422" width="135" height="54.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(4605.7543 12170.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="39.092" y="15">User 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_445">
+        <path d="M 4952.9023 12065.5 L 5088.1023 12065.5 C 5097.431 12065.5 5105.0023 12077.372 5105.0023 12092 C 5105.0023 12106.628 5097.431 12118.5 5088.1023 12118.5 L 4952.9023 12118.5 C 4943.5735 12118.5 4936.0023 12106.628 4936.0023 12092 C 4936.0023 12077.372 4943.5735 12065.5 4952.9023 12065.5" fill="white"/>
+        <path d="M 4952.9023 12065.5 L 5088.1023 12065.5 C 5097.431 12065.5 5105.0023 12077.372 5105.0023 12092 C 5105.0023 12106.628 5097.431 12118.5 5088.1023 12118.5 L 4952.9023 12118.5 C 4943.5735 12118.5 4936.0023 12106.628 4936.0023 12092 C 4936.0023 12077.372 4943.5735 12065.5 4952.9023 12065.5 M 5088.1023 12065.5 C 5078.7735 12065.5 5071.2023 12077.372 5071.2023 12092 C 5071.2023 12106.628 5078.7735 12118.5 5088.1023 12118.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_444">
+        <text transform="translate(4978.0023 12073.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19895197e-20" y="15">Geohash:</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8" y="33.448">9q8zn6</tspan>
+        </text>
+      </g>
+      <g id="Graphic_447">
+        <path d="M 4952.9023 12153.5 L 5088.1023 12153.5 C 5097.431 12153.5 5105.0023 12165.372 5105.0023 12180 C 5105.0023 12194.628 5097.431 12206.5 5088.1023 12206.5 L 4952.9023 12206.5 C 4943.5735 12206.5 4936.0023 12194.628 4936.0023 12180 C 4936.0023 12165.372 4943.5735 12153.5 4952.9023 12153.5" fill="white"/>
+        <path d="M 4952.9023 12153.5 L 5088.1023 12153.5 C 5097.431 12153.5 5105.0023 12165.372 5105.0023 12180 C 5105.0023 12194.628 5097.431 12206.5 5088.1023 12206.5 L 4952.9023 12206.5 C 4943.5735 12206.5 4936.0023 12194.628 4936.0023 12180 C 4936.0023 12165.372 4943.5735 12153.5 4952.9023 12153.5 M 5088.1023 12153.5 C 5078.7735 12153.5 5071.2023 12165.372 5071.2023 12180 C 5071.2023 12194.628 5078.7735 12206.5 5088.1023 12206.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_446">
+        <text transform="translate(4978.0023 12161.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19895197e-20" y="15">Geohash:</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.704" y="33.448">9q8znd</tspan>
+        </text>
+      </g>
+      <g id="Graphic_451">
+        <path d="M 4952.9023 12248.552 L 5088.1023 12248.552 C 5097.431 12248.552 5105.0023 12260.424 5105.0023 12275.052 C 5105.0023 12289.68 5097.431 12301.552 5088.1023 12301.552 L 4952.9023 12301.552 C 4943.5735 12301.552 4936.0023 12289.68 4936.0023 12275.052 C 4936.0023 12260.424 4943.5735 12248.552 4952.9023 12248.552" fill="white"/>
+        <path d="M 4952.9023 12248.552 L 5088.1023 12248.552 C 5097.431 12248.552 5105.0023 12260.424 5105.0023 12275.052 C 5105.0023 12289.68 5097.431 12301.552 5088.1023 12301.552 L 4952.9023 12301.552 C 4943.5735 12301.552 4936.0023 12289.68 4936.0023 12275.052 C 4936.0023 12260.424 4943.5735 12248.552 4952.9023 12248.552 M 5088.1023 12248.552 C 5078.7735 12248.552 5071.2023 12260.424 5071.2023 12275.052 C 5071.2023 12289.68 5078.7735 12301.552 5088.1023 12301.552" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_450">
+        <text transform="translate(4978.0023 12256.604)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19895197e-20" y="15">Geohash:</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.08" y="33.448">9q8znf</tspan>
+        </text>
+      </g>
+      <g id="Graphic_449">
+        <path d="M 4952.9023 12336.552 L 5088.1023 12336.552 C 5097.431 12336.552 5105.0023 12348.424 5105.0023 12363.052 C 5105.0023 12377.68 5097.431 12389.552 5088.1023 12389.552 L 4952.9023 12389.552 C 4943.5735 12389.552 4936.0023 12377.68 4936.0023 12363.052 C 4936.0023 12348.424 4943.5735 12336.552 4952.9023 12336.552" fill="white"/>
+        <path d="M 4952.9023 12336.552 L 5088.1023 12336.552 C 5097.431 12336.552 5105.0023 12348.424 5105.0023 12363.052 C 5105.0023 12377.68 5097.431 12389.552 5088.1023 12389.552 L 4952.9023 12389.552 C 4943.5735 12389.552 4936.0023 12377.68 4936.0023 12363.052 C 4936.0023 12348.424 4943.5735 12336.552 4952.9023 12336.552 M 5088.1023 12336.552 C 5078.7735 12336.552 5071.2023 12348.424 5071.2023 12363.052 C 5071.2023 12377.68 5078.7735 12389.552 5088.1023 12389.552" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_448">
+        <text transform="translate(4978.0023 12344.604)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19895197e-20" y="15">Geohash:</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8" y="33.448">9q8zn3</tspan>
+        </text>
+      </g>
+      <g id="Line_452">
+        <line x1="4735.7543" y1="12179.735" x2="4926.1024" y2="12179.912" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_455">
+        <rect x="5322.5383" y="12059.052" width="109.96403" height="54.5" fill="white"/>
+        <rect x="5322.5383" y="12059.052" width="109.96403" height="54.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5327.5383 12077.078)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.574014" y="15">User 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_453">
+        <rect x="5322.0023" y="12247.052" width="109.96403" height="54.5" fill="white"/>
+        <rect x="5322.0023" y="12247.052" width="109.96403" height="54.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5327.0023 12265.078)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.574014" y="15">User 3</tspan>
+        </text>
+      </g>
+      <g id="Line_456">
+        <path d="M 5105.0023 12180 L 5272.8137 12180 L 5272.8137 12086.302 L 5312.6383 12086.302" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_458">
+        <path d="M 5105.0023 12180 L 5272.948 12180 L 5272.948 12274.302 L 5312.1023 12274.302" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_462">
+        <text transform="translate(4581.2864 12231.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7531753e-19" y="15">WebSocket connections</tspan>
+        </text>
+      </g>
+      <g id="Graphic_463">
+        <rect x="4811.575" y="12156.394" width="77.94554" height="46.895996" fill="white"/>
+        <text transform="translate(4816.575 12161.394)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.004767" y="15">Location </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.924767" y="33.448">update</tspan>
+        </text>
+      </g>
+      <g id="Group_464">
+        <g id="Graphic_466">
+          <circle cx="4802.0473" cy="12179.198" r="11.0949220984036" fill="white"/>
+          <circle cx="4802.0473" cy="12179.198" r="11.0949220984036" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_465">
+          <text transform="translate(4798.1553 12171.476)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" x="0" y="13">1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_471">
+        <text transform="translate(4965.5663 12413)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Redis Pub/Sub</tspan>
+        </text>
+      </g>
+      <g id="Graphic_472">
+        <text transform="translate(5293.5344 12334.604)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7531753e-19" y="15">WebSocket connections</tspan>
+        </text>
+      </g>
+      <g id="Graphic_473">
+        <text transform="translate(5287.3023 12018.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7105427e-19" y="15">Users in geohash: 9q8nzd</tspan>
+        </text>
+      </g>
+      <g id="Graphic_541">
+        <rect x="5169.6003" y="12165.448" width="82.304" height="28.447998" fill="white"/>
+        <text transform="translate(5174.6003 12170.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="42632564e-21" y="15">Subscribe</tspan>
+        </text>
+      </g>
+      <g id="Group_468">
+        <g id="Graphic_470">
+          <circle cx="5159.3834" cy="12179.828" r="11.094922098403" fill="white"/>
+          <circle cx="5159.3834" cy="12179.828" r="11.094922098403" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_469">
+          <text transform="translate(5155.4914 12172.106)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" x="0" y="13">2</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_542">
+        <rect x="5322.5383" y="12152.422" width="109.96403" height="54.5" fill="white"/>
+        <rect x="5322.5383" y="12152.422" width="109.96403" height="54.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5327.5383 12170.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.574014" y="15">User 2</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

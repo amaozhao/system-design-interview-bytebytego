@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="949.5 13566.5 479.2116 282" width="479.2116" height="282">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="04_message_queue" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>04.message queue</title>
+    <g id="04_message_queue_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_533">
+        <rect x="1204" y="13750" width="206" height="98" fill="white"/>
+        <rect x="1204" y="13750" width="206" height="98" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1209 13824.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-2</tspan>
+        </text>
+      </g>
+      <g id="Group_522">
+        <g id="Group_524">
+          <g id="Graphic_532">
+            <rect x="1306.75" y="13765" width="87.75" height="42.96154" fill="#c0ffc0"/>
+            <rect x="1306.75" y="13765" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_531">
+            <rect x="1310.4503" y="13769.462" width="8.457831" height="34" fill="white"/>
+            <rect x="1310.4503" y="13769.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_530">
+            <rect x="1322.4322" y="13769.462" width="8.457831" height="34" fill="white"/>
+            <rect x="1322.4322" y="13769.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_529">
+            <rect x="1334.4142" y="13769.462" width="8.457831" height="34" fill="white"/>
+            <rect x="1334.4142" y="13769.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_528">
+            <rect x="1346.3961" y="13769.462" width="8.457831" height="34" fill="white"/>
+            <rect x="1346.3961" y="13769.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_527">
+            <rect x="1358.378" y="13769.462" width="8.457831" height="34" fill="white"/>
+            <rect x="1358.378" y="13769.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_526">
+            <rect x="1370.36" y="13769.462" width="8.457831" height="34" fill="white"/>
+            <rect x="1370.36" y="13769.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_525">
+            <rect x="1382.3419" y="13769.462" width="8.457831" height="34" fill="white"/>
+            <rect x="1382.3419" y="13769.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_523">
+          <text transform="translate(1227.2754 13768.033)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-2</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_521">
+        <rect x="950" y="13750" width="206" height="98" fill="#ffffc0"/>
+        <rect x="950" y="13750" width="206" height="98" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(955 13824.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_520">
+        <rect x="1233.6513" y="13567" width="147" height="63" fill="white"/>
+        <rect x="1233.6513" y="13567" width="147" height="63" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1238.6513 13589.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31.452" y="15">Consumer</tspan>
+        </text>
+      </g>
+      <g id="Line_519">
+        <path d="M 1233.6513 13598.736 C 1179.8204 13601.768 1109.3494 13612.225 1068.8005 13644.214 C 1033.8054 13671.821 1029.095 13709.157 1033.4976 13740.243" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_518">
+        <rect x="981.9631" y="13614.818" width="190" height="47" fill="white"/>
+        <text transform="translate(987.0031 13619.818)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">1. join consumer group-1</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.28" y="33.448">&amp; subscribe topic-A</tspan>
+        </text>
+      </g>
+      <g id="Line_517">
+        <path d="M 1086.9985 13750 C 1105.3628 13726.894 1130.9856 13698.837 1163.4241 13673.246 C 1184.5423 13656.586 1205.6367 13643.269 1224.9044 13632.766" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_516">
+        <rect x="1054.4503" y="13669.335" width="191" height="30" fill="white"/>
+        <text transform="translate(1059.8463 13674.335)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.224" y="15">2. partition-2 dispatched </tspan>
+        </text>
+      </g>
+      <g id="Line_515">
+        <path d="M 1322.8162 13765 C 1305.4186 13749.135 1285.0936 13725.376 1278.4779 13696.77 C 1273.547 13675.448 1277.1603 13655.448 1283.2667 13639.128" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_514">
+        <rect x="1214.9125" y="13701.555" width="141" height="30" fill="white"/>
+        <text transform="translate(1220.0605 13706.555)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7673862e-19" y="15">3. fetch messages</tspan>
+        </text>
+      </g>
+      <g id="Line_513">
+        <path d="M 1339.8168 13630 C 1351.2978 13644.281 1362.6106 13662.958 1367.7252 13685.074 C 1373.8713 13711.65 1369.6251 13736.954 1363.828 13755.638" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_512">
+        <rect x="1302.7116" y="13654.041" width="126" height="47" fill="white"/>
+        <text transform="translate(1308.0636 13659.041)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.224" y="15">4. process data </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.304" y="33.448">&amp; commit offset</tspan>
+        </text>
+      </g>
+      <g id="Graphic_511">
+        <text transform="translate(970.616 13789)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2842171e-20" y="15">Coordinator of group-1</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

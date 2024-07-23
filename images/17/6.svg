@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2126.5 7131 828.5 295" width="828.5" height="295">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="01_proximity_service" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>01.proximity service</title>
+    <g id="01_proximity_service_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_47">
+        <rect x="2496.5" y="7131.5" width="90" height="49.5" fill="white"/>
+        <rect x="2496.5" y="7131.5" width="90" height="49.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2501.5 7147.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="20.296" y="15">Index</tspan>
+        </text>
+      </g>
+      <g id="Graphic_48">
+        <rect x="2274.5" y="7251" width="90" height="49.5" fill="white"/>
+        <rect x="2274.5" y="7251" width="90" height="49.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2279.5 7266.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21.48" y="15">Hash</tspan>
+        </text>
+      </g>
+      <g id="Graphic_49">
+        <rect x="2717" y="7251" width="90" height="49.5" fill="white"/>
+        <rect x="2717" y="7251" width="90" height="49.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2722 7266.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="25.032" y="15">Tree</tspan>
+        </text>
+      </g>
+      <g id="Graphic_50">
+        <rect x="2127" y="7376" width="90" height="49.5" fill="#ffc0ff"/>
+        <rect x="2127" y="7376" width="90" height="49.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2132 7391.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.888" y="15">Even Grid</tspan>
+        </text>
+      </g>
+      <g id="Graphic_51">
+        <rect x="2274.5" y="7376" width="90" height="49.5" fill="#ffc0ff"/>
+        <rect x="2274.5" y="7376" width="90" height="49.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2279.5 7391.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.848" y="15">Geohash</tspan>
+        </text>
+      </g>
+      <g id="Graphic_52">
+        <rect x="2422" y="7376" width="90" height="49.5" fill="white"/>
+        <rect x="2422" y="7376" width="90" height="49.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2427 7382.302)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.928" y="15">Cartesian</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.672" y="33.448">Tiers</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <rect x="2569.5" y="7376" width="90" height="49.5" fill="#ffc0ff"/>
+        <rect x="2569.5" y="7376" width="90" height="49.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2574.5 7391.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.8" y="15">Quadtree</tspan>
+        </text>
+      </g>
+      <g id="Graphic_54">
+        <rect x="2864.5" y="7376" width="90" height="49.5" fill="white"/>
+        <rect x="2864.5" y="7376" width="90" height="49.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2869.5 7391.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.696" y="15">RTree</tspan>
+        </text>
+      </g>
+      <g id="Line_55">
+        <line x1="2496.5" y1="7180.473" x2="2364.5" y2="7251.527" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_56">
+        <line x1="2586.5" y1="7180.638" x2="2717" y2="7251.362" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_57">
+        <line x1="2732.795" y1="7300.5" x2="2643.705" y2="7376" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_58">
+        <line x1="2791.205" y1="7300.5" x2="2880.295" y2="7376" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_59">
+        <line x1="2319.5" y1="7300.5" x2="2319.5" y2="7376" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_60">
+        <line x1="2290.295" y1="7300.5" x2="2201.205" y2="7376" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_61">
+        <line x1="2348.705" y1="7300.5" x2="2437.795" y2="7376" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_453">
+        <rect x="2717" y="7376" width="90" height="49.5" fill="#ffc0ff"/>
+        <rect x="2717" y="7376" width="90" height="49.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2722 7391.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.224" y="15">Google S2</tspan>
+        </text>
+      </g>
+      <g id="Line_454">
+        <line x1="2762" y1="7300.5" x2="2762" y2="7376" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

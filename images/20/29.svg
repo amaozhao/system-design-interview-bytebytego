@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2160.5 7750.5 909.5 642.9017" width="909.5" height="642.9017">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="04_message_queue" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>04.message queue</title>
+    <g id="04_message_queue_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_1466">
+        <rect x="2161" y="7751" width="206" height="153.97866" fill="white"/>
+        <rect x="2161" y="7751" width="206" height="153.97866" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2166 7881.531)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-1</tspan>
+        </text>
+      </g>
+      <g id="Group_1455">
+        <g id="Group_1457">
+          <g id="Graphic_1465">
+            <rect x="2263.75" y="7766" width="87.75" height="42.96154" fill="#c0ffc0"/>
+            <rect x="2263.75" y="7766" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1464">
+            <rect x="2267.4503" y="7770.462" width="8.457831" height="34" fill="white"/>
+            <rect x="2267.4503" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1463">
+            <rect x="2279.4322" y="7770.462" width="8.457831" height="34" fill="white"/>
+            <rect x="2279.4322" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1462">
+            <rect x="2291.4142" y="7770.462" width="8.457831" height="34" fill="white"/>
+            <rect x="2291.4142" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1461">
+            <rect x="2303.396" y="7770.462" width="8.457831" height="34" fill="white"/>
+            <rect x="2303.396" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1460">
+            <rect x="2315.378" y="7770.462" width="8.457831" height="34" fill="white"/>
+            <rect x="2315.378" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1459">
+            <rect x="2327.36" y="7770.462" width="8.457831" height="34" fill="white"/>
+            <rect x="2327.36" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1458">
+            <rect x="2339.342" y="7770.462" width="8.457831" height="34" fill="white"/>
+            <rect x="2339.342" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_1456">
+          <text transform="translate(2184.2754 7769.033)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_1454">
+        <rect x="2402.75" y="7751" width="206" height="153.97866" fill="white"/>
+        <rect x="2402.75" y="7751" width="206" height="153.97866" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2407.75 7881.531)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-2</tspan>
+        </text>
+      </g>
+      <g id="Group_1431">
+        <g id="Group_1443">
+          <g id="Group_1445">
+            <g id="Graphic_1453">
+              <rect x="2498" y="7766" width="87.75" height="42.96154" fill="white"/>
+              <rect x="2498" y="7766" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1452">
+              <rect x="2501.7003" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2501.7003" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1451">
+              <rect x="2513.6822" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2513.6822" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1450">
+              <rect x="2525.6642" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2525.6642" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1449">
+              <rect x="2537.646" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2537.646" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1448">
+              <rect x="2549.628" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2549.628" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1447">
+              <rect x="2561.61" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2561.61" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1446">
+              <rect x="2573.592" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2573.592" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Graphic_1444">
+            <text transform="translate(2418.328 7769.033)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-1</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_1432">
+          <g id="Group_1434">
+            <g id="Graphic_1442">
+              <rect x="2498" y="7826" width="87.75" height="42.96154" fill="#c0ffc0"/>
+              <rect x="2498" y="7826" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1441">
+              <rect x="2501.7003" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2501.7003" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1440">
+              <rect x="2513.6822" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2513.6822" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1439">
+              <rect x="2525.6642" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2525.6642" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1438">
+              <rect x="2537.646" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2537.646" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1437">
+              <rect x="2549.628" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2549.628" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1436">
+              <rect x="2561.61" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2561.61" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1435">
+              <rect x="2573.592" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2573.592" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Graphic_1433">
+            <text transform="translate(2418.328 7829.033)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-2</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_1430">
+        <rect x="2633.125" y="7751" width="206" height="153.97866" fill="white"/>
+        <rect x="2633.125" y="7751" width="206" height="153.97866" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2638.125 7881.531)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-3</tspan>
+        </text>
+      </g>
+      <g id="Group_1407">
+        <g id="Group_1419">
+          <g id="Group_1421">
+            <g id="Graphic_1429">
+              <rect x="2732.25" y="7766" width="87.75" height="42.96154" fill="white"/>
+              <rect x="2732.25" y="7766" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1428">
+              <rect x="2735.9503" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2735.9503" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1427">
+              <rect x="2747.9322" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2747.9322" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1426">
+              <rect x="2759.914" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2759.914" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1425">
+              <rect x="2771.896" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2771.896" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1424">
+              <rect x="2783.878" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2783.878" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1423">
+              <rect x="2795.86" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2795.86" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1422">
+              <rect x="2807.842" y="7770.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2807.842" y="7770.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Graphic_1420">
+            <text transform="translate(2652.578 7769.033)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-1</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_1408">
+          <g id="Group_1410">
+            <g id="Graphic_1418">
+              <rect x="2732.25" y="7826" width="87.75" height="42.96154" fill="white"/>
+              <rect x="2732.25" y="7826" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1417">
+              <rect x="2735.9503" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2735.9503" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1416">
+              <rect x="2747.9322" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2747.9322" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1415">
+              <rect x="2759.914" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2759.914" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1414">
+              <rect x="2771.896" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2771.896" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1413">
+              <rect x="2783.878" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2783.878" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1412">
+              <rect x="2795.86" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2795.86" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1411">
+              <rect x="2807.842" y="7830.462" width="8.457831" height="34" fill="white"/>
+              <rect x="2807.842" y="7830.462" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Graphic_1409">
+            <text transform="translate(2652.578 7829.033)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-2</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_1406">
+        <path d="M 2603.1202 7922.97 L 2637.3606 7922.97 L 2637.3606 7951.97 L 2654.4808 7951.97 L 2620.2404 7976.97 L 2586 7951.97 L 2603.1202 7951.97 Z" fill="white"/>
+        <path d="M 2603.1202 7922.97 L 2637.3606 7922.97 L 2637.3606 7951.97 L 2654.4808 7951.97 L 2620.2404 7976.97 L 2586 7951.97 L 2603.1202 7951.97 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1405">
+        <rect x="2161" y="7994.962" width="206" height="153.97866" fill="white"/>
+        <rect x="2161" y="7994.962" width="206" height="153.97866" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2166 8125.492)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-1</tspan>
+        </text>
+      </g>
+      <g id="Group_1394">
+        <g id="Group_1396">
+          <g id="Graphic_1404">
+            <rect x="2263.75" y="8009.962" width="87.75" height="42.96154" fill="#c0ffc0"/>
+            <rect x="2263.75" y="8009.962" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1403">
+            <rect x="2267.4503" y="8014.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2267.4503" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1402">
+            <rect x="2279.4322" y="8014.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2279.4322" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1401">
+            <rect x="2291.4142" y="8014.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2291.4142" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1400">
+            <rect x="2303.396" y="8014.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2303.396" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1399">
+            <rect x="2315.378" y="8014.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2315.378" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1398">
+            <rect x="2327.36" y="8014.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2327.36" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1397">
+            <rect x="2339.342" y="8014.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2339.342" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_1395">
+          <text transform="translate(2184.2754 8012.994)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_1393">
+        <rect x="2402.75" y="7994.962" width="206" height="153.97866" fill="white"/>
+        <rect x="2402.75" y="7994.962" width="206" height="153.97866" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2407.75 8125.492)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-2</tspan>
+        </text>
+      </g>
+      <g id="Group_1370">
+        <g id="Group_1382">
+          <g id="Group_1384">
+            <g id="Graphic_1392">
+              <rect x="2498" y="8009.962" width="87.75" height="42.96154" fill="white"/>
+              <rect x="2498" y="8009.962" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1391">
+              <rect x="2501.7003" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2501.7003" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1390">
+              <rect x="2513.6822" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2513.6822" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1389">
+              <rect x="2525.6642" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2525.6642" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1388">
+              <rect x="2537.646" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2537.646" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1387">
+              <rect x="2549.628" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2549.628" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1386">
+              <rect x="2561.61" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2561.61" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1385">
+              <rect x="2573.592" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2573.592" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Graphic_1383">
+            <text transform="translate(2418.328 8012.994)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-1</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_1371">
+          <g id="Group_1373">
+            <g id="Graphic_1381">
+              <rect x="2498" y="8069.962" width="87.75" height="42.96154" fill="#c0ffc0"/>
+              <rect x="2498" y="8069.962" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1380">
+              <rect x="2501.7003" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2501.7003" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1379">
+              <rect x="2513.6822" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2513.6822" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1378">
+              <rect x="2525.6642" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2525.6642" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1377">
+              <rect x="2537.646" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2537.646" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1376">
+              <rect x="2549.628" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2549.628" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1375">
+              <rect x="2561.61" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2561.61" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1374">
+              <rect x="2573.592" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2573.592" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Graphic_1372">
+            <text transform="translate(2418.328 8072.994)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-2</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_1369">
+        <rect x="2633.125" y="7994.962" width="206" height="153.97866" fill="white"/>
+        <rect x="2633.125" y="7994.962" width="206" height="153.97866" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2638.125 8125.492)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-3</tspan>
+        </text>
+      </g>
+      <g id="Group_1346">
+        <g id="Group_1358">
+          <g id="Group_1360">
+            <g id="Graphic_1368">
+              <rect x="2732.25" y="8009.962" width="87.75" height="42.96154" fill="white"/>
+              <rect x="2732.25" y="8009.962" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1367">
+              <rect x="2735.9503" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2735.9503" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1366">
+              <rect x="2747.9322" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2747.9322" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1365">
+              <rect x="2759.914" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2759.914" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1364">
+              <rect x="2771.896" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2771.896" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1363">
+              <rect x="2783.878" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2783.878" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1362">
+              <rect x="2795.86" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2795.86" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1361">
+              <rect x="2807.842" y="8014.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2807.842" y="8014.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Graphic_1359">
+            <text transform="translate(2652.578 8012.994)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-1</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_1347">
+          <g id="Group_1349">
+            <g id="Graphic_1357">
+              <rect x="2732.25" y="8069.962" width="87.75" height="42.96154" fill="white"/>
+              <rect x="2732.25" y="8069.962" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1356">
+              <rect x="2735.9503" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2735.9503" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1355">
+              <rect x="2747.9322" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2747.9322" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1354">
+              <rect x="2759.914" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2759.914" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1353">
+              <rect x="2771.896" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2771.896" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1352">
+              <rect x="2783.878" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2783.878" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1351">
+              <rect x="2795.86" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2795.86" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1350">
+              <rect x="2807.842" y="8074.423" width="8.457831" height="34" fill="white"/>
+              <rect x="2807.842" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Graphic_1348">
+            <text transform="translate(2652.578 8072.994)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-2</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_1345">
+        <rect x="2863.5" y="7994.962" width="206" height="153.97866" fill="white"/>
+        <rect x="2863.5" y="7994.962" width="206" height="153.97866" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2868.5 8125.492)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-4</tspan>
+        </text>
+      </g>
+      <g id="Group_1336">
+        <g id="Group_1338">
+          <g id="Graphic_1344">
+            <rect x="2966.5" y="8069.962" width="87.75" height="42.96154" fill="#ffffc0"/>
+            <rect x="2966.5" y="8069.962" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1343">
+            <rect x="2970.2003" y="8074.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2970.2003" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1342">
+            <rect x="2982.1822" y="8074.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2982.1822" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1341">
+            <rect x="2994.164" y="8074.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2994.164" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1340">
+            <rect x="3006.146" y="8074.423" width="8.457831" height="34" fill="white"/>
+            <rect x="3006.146" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1339">
+            <rect x="3018.128" y="8074.423" width="8.457831" height="34" fill="white"/>
+            <rect x="3018.128" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_1337">
+          <text transform="translate(2886.828 8072.994)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-2</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1325">
+        <g id="Group_1327">
+          <g id="Graphic_1335">
+            <rect x="2263.75" y="7826.979" width="87.75" height="42.96154" fill="white"/>
+            <rect x="2263.75" y="7826.979" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1334">
+            <rect x="2267.4503" y="7831.44" width="8.457831" height="34" fill="white"/>
+            <rect x="2267.4503" y="7831.44" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1333">
+            <rect x="2279.4322" y="7831.44" width="8.457831" height="34" fill="white"/>
+            <rect x="2279.4322" y="7831.44" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1332">
+            <rect x="2291.4142" y="7831.44" width="8.457831" height="34" fill="white"/>
+            <rect x="2291.4142" y="7831.44" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1331">
+            <rect x="2303.396" y="7831.44" width="8.457831" height="34" fill="white"/>
+            <rect x="2303.396" y="7831.44" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1330">
+            <rect x="2315.378" y="7831.44" width="8.457831" height="34" fill="white"/>
+            <rect x="2315.378" y="7831.44" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1329">
+            <rect x="2327.36" y="7831.44" width="8.457831" height="34" fill="white"/>
+            <rect x="2327.36" y="7831.44" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1328">
+            <rect x="2339.342" y="7831.44" width="8.457831" height="34" fill="white"/>
+            <rect x="2339.342" y="7831.44" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_1326">
+          <text transform="translate(2184.078 7830.011)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-2</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1314">
+        <g id="Group_1316">
+          <g id="Graphic_1324">
+            <rect x="2263.75" y="8069.962" width="87.75" height="42.96154" fill="white"/>
+            <rect x="2263.75" y="8069.962" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1323">
+            <rect x="2267.4503" y="8074.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2267.4503" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1322">
+            <rect x="2279.4322" y="8074.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2279.4322" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1321">
+            <rect x="2291.4142" y="8074.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2291.4142" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1320">
+            <rect x="2303.396" y="8074.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2303.396" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1319">
+            <rect x="2315.378" y="8074.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2315.378" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1318">
+            <rect x="2327.36" y="8074.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2327.36" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1317">
+            <rect x="2339.342" y="8074.423" width="8.457831" height="34" fill="white"/>
+            <rect x="2339.342" y="8074.423" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_1315">
+          <text transform="translate(2184.078 8072.994)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-2</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_1313">
+        <rect x="2161" y="8238.923" width="206" height="153.97866" fill="white"/>
+        <rect x="2161" y="8238.923" width="206" height="153.97866" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2166 8369.454)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-1</tspan>
+        </text>
+      </g>
+      <g id="Group_1302">
+        <g id="Group_1304">
+          <g id="Graphic_1312">
+            <rect x="2263.75" y="8253.923" width="87.75" height="42.96154" fill="#c0ffc0"/>
+            <rect x="2263.75" y="8253.923" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1311">
+            <rect x="2267.4503" y="8258.385" width="8.457831" height="34" fill="white"/>
+            <rect x="2267.4503" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1310">
+            <rect x="2279.4322" y="8258.385" width="8.457831" height="34" fill="white"/>
+            <rect x="2279.4322" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1309">
+            <rect x="2291.4142" y="8258.385" width="8.457831" height="34" fill="white"/>
+            <rect x="2291.4142" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1308">
+            <rect x="2303.396" y="8258.385" width="8.457831" height="34" fill="white"/>
+            <rect x="2303.396" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1307">
+            <rect x="2315.378" y="8258.385" width="8.457831" height="34" fill="white"/>
+            <rect x="2315.378" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1306">
+            <rect x="2327.36" y="8258.385" width="8.457831" height="34" fill="white"/>
+            <rect x="2327.36" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1305">
+            <rect x="2339.342" y="8258.385" width="8.457831" height="34" fill="white"/>
+            <rect x="2339.342" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_1303">
+          <text transform="translate(2184.2754 8256.956)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_1301">
+        <rect x="2402.75" y="8238.923" width="206" height="153.97866" fill="white"/>
+        <rect x="2402.75" y="8238.923" width="206" height="153.97866" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2407.75 8369.454)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-2</tspan>
+        </text>
+      </g>
+      <g id="Group_1278">
+        <g id="Group_1290">
+          <g id="Group_1292">
+            <g id="Graphic_1300">
+              <rect x="2498" y="8253.923" width="87.75" height="42.96154" fill="white"/>
+              <rect x="2498" y="8253.923" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1299">
+              <rect x="2501.7003" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2501.7003" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1298">
+              <rect x="2513.6822" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2513.6822" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1297">
+              <rect x="2525.6642" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2525.6642" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1296">
+              <rect x="2537.646" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2537.646" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1295">
+              <rect x="2549.628" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2549.628" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1294">
+              <rect x="2561.61" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2561.61" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1293">
+              <rect x="2573.592" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2573.592" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Graphic_1291">
+            <text transform="translate(2418.328 8256.956)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-1</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_1279">
+          <g id="Group_1281">
+            <g id="Graphic_1289">
+              <rect x="2498" y="8313.923" width="87.75" height="42.96154" fill="#c0ffc0"/>
+              <rect x="2498" y="8313.923" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1288">
+              <rect x="2501.7003" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2501.7003" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1287">
+              <rect x="2513.6822" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2513.6822" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1286">
+              <rect x="2525.6642" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2525.6642" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1285">
+              <rect x="2537.646" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2537.646" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1284">
+              <rect x="2549.628" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2549.628" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1283">
+              <rect x="2561.61" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2561.61" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1282">
+              <rect x="2573.592" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2573.592" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Graphic_1280">
+            <text transform="translate(2418.328 8316.956)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-2</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_1277">
+        <rect x="2633.125" y="8238.923" width="206" height="153.97866" fill="white"/>
+        <rect x="2633.125" y="8238.923" width="206" height="153.97866" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2638.125 8369.454)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-3</tspan>
+        </text>
+      </g>
+      <g id="Group_1254">
+        <g id="Group_1266">
+          <g id="Group_1268">
+            <g id="Graphic_1276">
+              <rect x="2732.25" y="8253.923" width="87.75" height="42.96154" fill="white"/>
+              <rect x="2732.25" y="8253.923" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1275">
+              <rect x="2735.9503" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2735.9503" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1274">
+              <rect x="2747.9322" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2747.9322" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1273">
+              <rect x="2759.914" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2759.914" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1272">
+              <rect x="2771.896" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2771.896" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1271">
+              <rect x="2783.878" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2783.878" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1270">
+              <rect x="2795.86" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2795.86" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1269">
+              <rect x="2807.842" y="8258.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2807.842" y="8258.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Graphic_1267">
+            <text transform="translate(2652.578 8256.956)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-1</tspan>
+            </text>
+          </g>
+        </g>
+        <g id="Group_1255">
+          <g id="Group_1257">
+            <g id="Graphic_1265">
+              <rect x="2732.25" y="8313.923" width="87.75" height="42.96154" fill="white"/>
+              <rect x="2732.25" y="8313.923" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1264">
+              <rect x="2735.9503" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2735.9503" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1263">
+              <rect x="2747.9322" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2747.9322" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1262">
+              <rect x="2759.914" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2759.914" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1261">
+              <rect x="2771.896" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2771.896" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1260">
+              <rect x="2783.878" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2783.878" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1259">
+              <rect x="2795.86" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2795.86" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+            <g id="Graphic_1258">
+              <rect x="2807.842" y="8318.385" width="8.457831" height="34" fill="white"/>
+              <rect x="2807.842" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+          <g id="Graphic_1256">
+            <text transform="translate(2652.578 8316.956)" fill="black">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-2</tspan>
+            </text>
+          </g>
+        </g>
+      </g>
+      <g id="Graphic_1253">
+        <rect x="2863.5" y="8238.923" width="206" height="153.97866" fill="white"/>
+        <rect x="2863.5" y="8238.923" width="206" height="153.97866" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2868.5 8369.454)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-4</tspan>
+        </text>
+      </g>
+      <g id="Group_1242">
+        <g id="Group_1244">
+          <g id="Graphic_1252">
+            <rect x="2966.5" y="8313.923" width="87.75" height="42.96154" fill="white"/>
+            <rect x="2966.5" y="8313.923" width="87.75" height="42.96154" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1251">
+            <rect x="2970.2003" y="8318.385" width="8.457831" height="34" fill="white"/>
+            <rect x="2970.2003" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1250">
+            <rect x="2982.1822" y="8318.385" width="8.457831" height="34" fill="white"/>
+            <rect x="2982.1822" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1249">
+            <rect x="2994.164" y="8318.385" width="8.457831" height="34" fill="white"/>
+            <rect x="2994.164" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1248">
+            <rect x="3006.146" y="8318.385" width="8.457831" height="34" fill="white"/>
+            <rect x="3006.146" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1247">
+            <rect x="3018.128" y="8318.385" width="8.457831" height="34" fill="white"/>
+            <rect x="3018.128" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1246">
+            <rect x="3030.11" y="8318.385" width="8.457831" height="34" fill="white"/>
+            <rect x="3030.11" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+          <g id="Graphic_1245">
+            <rect x="3042.092" y="8318.385" width="8.457831" height="34" fill="white"/>
+            <rect x="3042.092" y="8318.385" width="8.457831" height="34" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+        <g id="Graphic_1243">
+          <text transform="translate(2886.828 8316.956)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.856" y="15">Topic-A </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Partition-2</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_1241">
+        <path d="M 2603.1202 8166.932 L 2637.3606 8166.932 L 2637.3606 8195.932 L 2654.4808 8195.932 L 2620.2404 8220.932 L 2586 8195.932 L 2603.1202 8195.932 Z" fill="white"/>
+        <path d="M 2603.1202 8166.932 L 2637.3606 8166.932 L 2637.3606 8195.932 L 2654.4808 8195.932 L 2620.2404 8220.932 L 2586 8195.932 L 2603.1202 8195.932 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1240">
+        <text transform="translate(2789.5 7931.47)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Broker-4 added, Partition-2 should be </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">distributed in broker (2, 3, 4)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1239">
+        <text transform="translate(2771.5 8175.432)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">After the replica in Broker-4 catches up, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">remove the redundant replica in Broker-1</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

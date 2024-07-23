@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1372 5026 587 264" width="587" height="264">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="07_hotel" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>07.hotel</title>
+    <g id="07_hotel_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_10">
+        <rect x="1595" y="5026.5" width="141" height="47" fill="white"/>
+        <rect x="1595" y="5026.5" width="141" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1600 5040.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="36.012" y="15">Pending</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <rect x="1595" y="5134.5" width="141" height="47" fill="white"/>
+        <rect x="1595" y="5134.5" width="141" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1600 5148.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="49.5" y="15">Paid</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <rect x="1595" y="5242.5" width="141" height="47" fill="white"/>
+        <rect x="1595" y="5242.5" width="141" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1600 5256.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="30.676" y="15">Refunded</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <rect x="1372.5" y="5134.5" width="141" height="47" fill="white"/>
+        <rect x="1372.5" y="5134.5" width="141" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1377.5 5148.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31.572" y="15">Canceled</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <rect x="1817.5" y="5134.5" width="141" height="47" fill="white"/>
+        <rect x="1817.5" y="5134.5" width="141" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1822.5 5148.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="33.796" y="15">Rejected</tspan>
+        </text>
+      </g>
+      <g id="Line_15">
+        <line x1="1665.5" y1="5073.5" x2="1665.5" y2="5124.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_16">
+        <line x1="1665.5" y1="5181.5" x2="1665.5" y2="5232.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_17">
+        <path d="M 1595 5048.6666 C 1572.619 5050.9515 1547.723 5056.29 1524.7706 5067.431 C 1492.209 5083.2364 1471.4683 5106.88 1459.0245 5126.046" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_18">
+        <path d="M 1736 5048.347 C 1756.8533 5050.6596 1779.962 5055.897 1801.8349 5066.514 C 1834.7445 5082.488 1856.777 5106.719 1870.3199 5126.231" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

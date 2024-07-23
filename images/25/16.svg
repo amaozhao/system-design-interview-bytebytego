@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-483.5 8859.31 403.822 497.474" width="403.822" height="497.474">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="09_s3" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>09.s3</title>
+    <g id="09_s3_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_5033">
+        <rect x="-343.134" y="8859.81" width="122.912" height="20.447998" fill="white"/>
+        <rect x="-343.134" y="8859.81" width="122.912" height="20.447998" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5032">
+        <rect x="-371.428" y="8957.224" width="179.5" height="20.447998" fill="white"/>
+        <rect x="-371.428" y="8957.224" width="179.5" height="20.447998" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4382">
+        <rect x="-483" y="9015.948" width="88.356" height="103.336" fill="white"/>
+        <rect x="-483" y="9015.948" width="88.356" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4381">
+        <path d="M -465.822 9024.698 L -462.322 9028.198 L -465.822 9031.698 L -469.322 9028.198 Z" fill="#ffc0ff"/>
+        <path d="M -465.822 9024.698 L -462.322 9028.198 L -465.822 9031.698 L -469.322 9028.198 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4380">
+        <rect x="-455.822" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4379">
+        <rect x="-442.322" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4378">
+        <rect x="-428.822" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4377">
+        <rect x="-469.322" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4376">
+        <rect x="-455.822" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4375">
+        <rect x="-442.322" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4374">
+        <rect x="-428.822" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4373">
+        <rect x="-469.322" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4372">
+        <rect x="-455.822" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4371">
+        <rect x="-442.322" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4370">
+        <rect x="-428.822" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4369">
+        <rect x="-469.322" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4368">
+        <rect x="-455.822" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4367">
+        <rect x="-442.322" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4366">
+        <rect x="-428.822" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4365">
+        <rect x="-469.322" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4364">
+        <rect x="-455.822" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4363">
+        <rect x="-442.322" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4362">
+        <rect x="-428.822" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4361">
+        <rect x="-415.322" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4360">
+        <rect x="-415.322" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4359">
+        <rect x="-415.322" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4358">
+        <rect x="-415.322" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4357">
+        <rect x="-415.322" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4356">
+        <text transform="translate(-478.944 9103.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Failure Domain</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4355">
+        <rect x="-483" y="9134.448" width="88.356" height="103.336" fill="white"/>
+        <rect x="-483" y="9134.448" width="88.356" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4354">
+        <rect x="-469.322" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4353">
+        <rect x="-455.822" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4352">
+        <rect x="-442.322" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4351">
+        <rect x="-428.822" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4350">
+        <rect x="-469.322" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4349">
+        <path d="M -452.322 9160.198 L -448.822 9163.698 L -452.322 9167.198 L -455.822 9163.698 Z" fill="#ffc0ff"/>
+        <path d="M -452.322 9160.198 L -448.822 9163.698 L -452.322 9167.198 L -455.822 9163.698 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4348">
+        <rect x="-442.322" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4347">
+        <rect x="-428.822" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4346">
+        <rect x="-469.322" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4345">
+        <rect x="-455.822" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4344">
+        <rect x="-442.322" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4343">
+        <rect x="-428.822" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4342">
+        <rect x="-469.322" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4341">
+        <rect x="-455.822" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4340">
+        <rect x="-442.322" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4339">
+        <rect x="-428.822" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4338">
+        <rect x="-469.322" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4337">
+        <rect x="-455.822" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4336">
+        <rect x="-442.322" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4335">
+        <rect x="-428.822" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4334">
+        <rect x="-415.322" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4333">
+        <rect x="-415.322" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4332">
+        <rect x="-415.322" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4331">
+        <rect x="-415.322" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4330">
+        <rect x="-415.322" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4329">
+        <text transform="translate(-478.944 9222.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Failure Domain</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4328">
+        <rect x="-483" y="9252.948" width="88.356" height="103.336" fill="white"/>
+        <rect x="-483" y="9252.948" width="88.356" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4327">
+        <rect x="-469.322" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4326">
+        <rect x="-455.822" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4325">
+        <rect x="-442.322" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4324">
+        <rect x="-428.822" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4323">
+        <rect x="-469.322" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4322">
+        <rect x="-455.822" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4321">
+        <rect x="-442.322" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4320">
+        <rect x="-428.822" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4319">
+        <rect x="-469.322" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4318">
+        <rect x="-455.822" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4317">
+        <rect x="-442.322" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4316">
+        <rect x="-428.822" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4315">
+        <path d="M -463.34713 9313.723 C -461.9803 9315.09 -461.9803 9317.306 -463.34713 9318.673 C -464.71396 9320.04 -466.93004 9320.04 -468.29687 9318.673 C -469.6637 9317.306 -469.6637 9315.09 -468.29687 9313.723 C -466.93004 9312.356 -464.71396 9312.356 -463.34713 9313.723" fill="#8080ff"/>
+        <path d="M -463.34713 9313.723 C -461.9803 9315.09 -461.9803 9317.306 -463.34713 9318.673 C -464.71396 9320.04 -466.93004 9320.04 -468.29687 9318.673 C -469.6637 9317.306 -469.6637 9315.09 -468.29687 9313.723 C -466.93004 9312.356 -464.71396 9312.356 -463.34713 9313.723" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4314">
+        <rect x="-455.822" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4313">
+        <rect x="-442.322" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4312">
+        <rect x="-428.822" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4311">
+        <rect x="-469.322" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-469.322" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4310">
+        <rect x="-455.822" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-455.822" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4309">
+        <rect x="-442.322" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-442.322" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4308">
+        <rect x="-428.822" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-428.822" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4307">
+        <rect x="-415.322" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4306">
+        <rect x="-415.322" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4305">
+        <rect x="-415.322" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4304">
+        <rect x="-415.322" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4303">
+        <rect x="-415.322" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-415.322" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4302">
+        <text transform="translate(-478.944 9340.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Failure Domain</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4301">
+        <rect x="-378.178" y="9015.948" width="88.356" height="103.336" fill="white"/>
+        <rect x="-378.178" y="9015.948" width="88.356" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4300">
+        <rect x="-364.5" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4299">
+        <rect x="-351" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4298">
+        <path d="M -334 9024.698 L -330.5 9028.198 L -334 9031.698 L -337.5 9028.198 Z" fill="#ffc0ff"/>
+        <path d="M -334 9024.698 L -330.5 9028.198 L -334 9031.698 L -337.5 9028.198 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4297">
+        <rect x="-324" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4296">
+        <rect x="-364.5" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4295">
+        <rect x="-351" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4294">
+        <rect x="-337.5" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4293">
+        <rect x="-324" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4292">
+        <rect x="-364.5" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4291">
+        <rect x="-351" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4290">
+        <rect x="-337.5" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4289">
+        <rect x="-324" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4288">
+        <rect x="-364.5" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4287">
+        <rect x="-351" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4286">
+        <rect x="-337.5" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4285">
+        <rect x="-324" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4284">
+        <rect x="-364.5" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4283">
+        <rect x="-351" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4282">
+        <rect x="-337.5" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4281">
+        <rect x="-324" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4280">
+        <rect x="-310.5" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4279">
+        <rect x="-310.5" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4278">
+        <rect x="-310.5" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4277">
+        <rect x="-310.5" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4276">
+        <rect x="-310.5" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4275">
+        <text transform="translate(-374.122 9103.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Failure Domain</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4274">
+        <rect x="-378.178" y="9134.448" width="88.356" height="103.336" fill="white"/>
+        <rect x="-378.178" y="9134.448" width="88.356" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4273">
+        <rect x="-364.5" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4272">
+        <rect x="-351" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4271">
+        <rect x="-337.5" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4270">
+        <rect x="-324" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4269">
+        <rect x="-364.5" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4268">
+        <rect x="-351" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4267">
+        <rect x="-337.5" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4266">
+        <rect x="-324" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4265">
+        <rect x="-364.5" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4264">
+        <rect x="-351" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4263">
+        <rect x="-337.5" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4262">
+        <rect x="-324" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4261">
+        <rect x="-364.5" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4260">
+        <rect x="-351" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4259">
+        <rect x="-337.5" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4258">
+        <rect x="-324" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4257">
+        <rect x="-364.5" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4256">
+        <rect x="-351" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4255">
+        <rect x="-337.5" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4254">
+        <rect x="-324" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4253">
+        <rect x="-310.5" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4252">
+        <circle cx="-307" cy="9163.698" r="3.50000559265643" fill="#8080ff"/>
+        <circle cx="-307" cy="9163.698" r="3.50000559265643" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4251">
+        <rect x="-310.5" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4250">
+        <rect x="-310.5" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4249">
+        <rect x="-310.5" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4248">
+        <text transform="translate(-374.122 9222.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Failure Domain</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4247">
+        <rect x="-378.178" y="9252.948" width="88.356" height="103.336" fill="white"/>
+        <rect x="-378.178" y="9252.948" width="88.356" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4246">
+        <rect x="-364.5" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4245">
+        <rect x="-351" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4244">
+        <rect x="-337.5" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4243">
+        <rect x="-324" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4242">
+        <rect x="-364.5" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4241">
+        <rect x="-351" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4240">
+        <rect x="-337.5" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4239">
+        <rect x="-324" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4238">
+        <rect x="-364.5" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4237">
+        <rect x="-351" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4236">
+        <rect x="-337.5" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4235">
+        <rect x="-324" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4234">
+        <rect x="-364.5" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4233">
+        <rect x="-351" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4232">
+        <rect x="-337.5" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4231">
+        <path d="M -320.5 9312.698 L -317 9316.198 L -320.5 9319.698 L -324 9316.198 Z" fill="#ffc0ff"/>
+        <path d="M -320.5 9312.698 L -317 9316.198 L -320.5 9319.698 L -324 9316.198 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4230">
+        <rect x="-364.5" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-364.5" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4229">
+        <rect x="-351" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-351" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4228">
+        <rect x="-337.5" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-337.5" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4227">
+        <rect x="-324" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-324" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4226">
+        <rect x="-310.5" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4225">
+        <rect x="-310.5" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4224">
+        <rect x="-310.5" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4223">
+        <rect x="-310.5" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4222">
+        <rect x="-310.5" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-310.5" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4221">
+        <text transform="translate(-374.122 9340.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Failure Domain</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4220">
+        <rect x="-273.356" y="9015.948" width="88.356" height="103.336" fill="white"/>
+        <rect x="-273.356" y="9015.948" width="88.356" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4219">
+        <rect x="-259.678" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4218">
+        <rect x="-246.178" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4217">
+        <rect x="-232.678" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4216">
+        <rect x="-219.178" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4215">
+        <rect x="-259.678" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4214">
+        <rect x="-246.178" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4213">
+        <path d="M -229.178 9041.698 L -225.678 9045.198 L -229.178 9048.698 L -232.678 9045.198 Z" fill="#ffc0ff"/>
+        <path d="M -229.178 9041.698 L -225.678 9045.198 L -229.178 9048.698 L -232.678 9045.198 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4212">
+        <rect x="-219.178" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4211">
+        <rect x="-259.678" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4210">
+        <rect x="-246.178" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4209">
+        <rect x="-232.678" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4208">
+        <rect x="-219.178" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4207">
+        <rect x="-259.678" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4206">
+        <rect x="-246.178" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4205">
+        <rect x="-232.678" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4204">
+        <rect x="-219.178" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4203">
+        <rect x="-259.678" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4202">
+        <rect x="-246.178" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4201">
+        <rect x="-232.678" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4200">
+        <rect x="-219.178" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4199">
+        <rect x="-205.678" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4198">
+        <rect x="-205.678" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4197">
+        <rect x="-205.678" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4196">
+        <rect x="-205.678" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4195">
+        <rect x="-205.678" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4194">
+        <text transform="translate(-269.3 9103.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Failure Domain</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4193">
+        <rect x="-273.356" y="9134.448" width="88.356" height="103.336" fill="white"/>
+        <rect x="-273.356" y="9134.448" width="88.356" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4192">
+        <rect x="-259.678" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4191">
+        <rect x="-246.178" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4190">
+        <rect x="-232.678" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4189">
+        <rect x="-219.178" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4188">
+        <rect x="-259.678" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4187">
+        <rect x="-246.178" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4186">
+        <rect x="-232.678" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4185">
+        <rect x="-219.178" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4184">
+        <rect x="-259.678" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4183">
+        <circle cx="-242.678" cy="9180.698" r="3.50000559265619" fill="#8080ff"/>
+        <circle cx="-242.678" cy="9180.698" r="3.50000559265619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4182">
+        <rect x="-232.678" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4181">
+        <rect x="-219.178" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4180">
+        <rect x="-259.678" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4179">
+        <rect x="-246.178" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4178">
+        <rect x="-232.678" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4177">
+        <rect x="-219.178" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4176">
+        <rect x="-259.678" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4175">
+        <rect x="-246.178" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4174">
+        <rect x="-232.678" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4173">
+        <rect x="-219.178" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4172">
+        <rect x="-205.678" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4171">
+        <rect x="-205.678" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4170">
+        <rect x="-205.678" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4169">
+        <rect x="-205.678" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4168">
+        <rect x="-205.678" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4167">
+        <text transform="translate(-269.3 9222.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Failure Domain</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4166">
+        <rect x="-273.356" y="9252.948" width="88.356" height="103.336" fill="white"/>
+        <rect x="-273.356" y="9252.948" width="88.356" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4165">
+        <rect x="-259.678" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4164">
+        <rect x="-246.178" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4163">
+        <rect x="-232.678" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4162">
+        <rect x="-219.178" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4161">
+        <rect x="-259.678" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4160">
+        <rect x="-246.178" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4159">
+        <rect x="-232.678" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4158">
+        <rect x="-219.178" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4157">
+        <rect x="-259.678" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4156">
+        <rect x="-246.178" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4155">
+        <rect x="-232.678" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4154">
+        <rect x="-219.178" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4153">
+        <rect x="-259.678" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4152">
+        <rect x="-246.178" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4151">
+        <rect x="-232.678" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-232.678" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4150">
+        <rect x="-219.178" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4149">
+        <rect x="-259.678" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-259.678" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4148">
+        <rect x="-246.178" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-246.178" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4147">
+        <path d="M -229.178 9329.698 L -225.678 9333.198 L -229.178 9336.698 L -232.678 9333.198 Z" fill="#ffc0ff"/>
+        <path d="M -229.178 9329.698 L -225.678 9333.198 L -229.178 9336.698 L -232.678 9333.198 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4146">
+        <rect x="-219.178" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-219.178" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4145">
+        <rect x="-205.678" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4144">
+        <rect x="-205.678" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4143">
+        <rect x="-205.678" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4142">
+        <rect x="-205.678" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4141">
+        <rect x="-205.678" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-205.678" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4140">
+        <text transform="translate(-269.3 9340.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Failure Domain</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4139">
+        <rect x="-168.534" y="9015.948" width="88.356" height="103.336" fill="white"/>
+        <rect x="-168.534" y="9015.948" width="88.356" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4138">
+        <rect x="-154.856" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4137">
+        <rect x="-141.356" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4136">
+        <rect x="-127.856" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4135">
+        <path d="M -110.856 9024.698 L -107.356 9028.198 L -110.856 9031.698 L -114.356 9028.198 Z" fill="#ffc0ff"/>
+        <path d="M -110.856 9024.698 L -107.356 9028.198 L -110.856 9031.698 L -114.356 9028.198 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4134">
+        <rect x="-154.856" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4133">
+        <rect x="-141.356" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4132">
+        <rect x="-127.856" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4131">
+        <rect x="-114.356" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4130">
+        <rect x="-154.856" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4129">
+        <rect x="-141.356" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4128">
+        <rect x="-127.856" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4127">
+        <rect x="-114.356" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4126">
+        <rect x="-154.856" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4125">
+        <rect x="-141.356" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4124">
+        <rect x="-127.856" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4123">
+        <rect x="-114.356" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4122">
+        <rect x="-154.856" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4121">
+        <rect x="-141.356" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4120">
+        <rect x="-127.856" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4119">
+        <rect x="-114.356" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4118">
+        <rect x="-100.856" y="9024.698" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9024.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4117">
+        <rect x="-100.856" y="9041.698" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9041.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4116">
+        <rect x="-100.856" y="9058.698" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9058.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4115">
+        <rect x="-100.856" y="9075.698" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9075.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4114">
+        <rect x="-100.856" y="9092.698" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9092.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4113">
+        <text transform="translate(-164.478 9103.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Failure Domain</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4112">
+        <rect x="-168.534" y="9134.448" width="88.356" height="103.336" fill="white"/>
+        <rect x="-168.534" y="9134.448" width="88.356" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4111">
+        <rect x="-154.856" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4110">
+        <rect x="-141.356" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4109">
+        <rect x="-127.856" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4108">
+        <rect x="-114.356" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4107">
+        <rect x="-154.856" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4106">
+        <rect x="-141.356" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4105">
+        <rect x="-127.856" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4104">
+        <rect x="-114.356" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4103">
+        <rect x="-154.856" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4102">
+        <rect x="-141.356" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4101">
+        <rect x="-127.856" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4100">
+        <rect x="-114.356" y="9177.198" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9177.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4099">
+        <rect x="-154.856" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4098">
+        <rect x="-141.356" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4097">
+        <rect x="-127.856" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4096">
+        <rect x="-114.356" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4095">
+        <rect x="-154.856" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4094">
+        <rect x="-141.356" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4093">
+        <rect x="-127.856" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4092">
+        <rect x="-114.356" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4091">
+        <rect x="-100.856" y="9143.198" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9143.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4090">
+        <rect x="-100.856" y="9160.198" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9160.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4089">
+        <circle cx="-97.356" cy="9180.698" r="3.50000559265619" fill="#8080ff"/>
+        <circle cx="-97.356" cy="9180.698" r="3.50000559265619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4088">
+        <rect x="-100.856" y="9194.198" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9194.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4087">
+        <rect x="-100.856" y="9211.198" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9211.198" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4086">
+        <text transform="translate(-164.478 9222.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Failure Domain</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4085">
+        <rect x="-168.534" y="9252.948" width="88.356" height="103.336" fill="white"/>
+        <rect x="-168.534" y="9252.948" width="88.356" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4084">
+        <rect x="-154.856" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4083">
+        <rect x="-141.356" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4082">
+        <rect x="-127.856" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4081">
+        <rect x="-114.356" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4080">
+        <rect x="-154.856" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4079">
+        <rect x="-141.356" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4078">
+        <rect x="-127.856" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4077">
+        <rect x="-114.356" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4076">
+        <rect x="-154.856" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4075">
+        <rect x="-141.356" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4074">
+        <rect x="-127.856" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4073">
+        <rect x="-114.356" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4072">
+        <rect x="-154.856" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4071">
+        <rect x="-141.356" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4070">
+        <rect x="-127.856" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4069">
+        <rect x="-114.356" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-114.356" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4068">
+        <rect x="-154.856" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-154.856" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4067">
+        <rect x="-141.356" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-141.356" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4066">
+        <rect x="-127.856" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-127.856" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4065">
+        <path d="M -110.856 9329.698 L -107.356 9333.198 L -110.856 9336.698 L -114.356 9333.198 Z" fill="#ffc0ff"/>
+        <path d="M -110.856 9329.698 L -107.356 9333.198 L -110.856 9336.698 L -114.356 9333.198 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4064">
+        <rect x="-100.856" y="9261.698" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9261.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4063">
+        <rect x="-100.856" y="9278.698" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9278.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4062">
+        <rect x="-100.856" y="9295.698" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9295.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4061">
+        <rect x="-100.856" y="9312.698" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9312.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4060">
+        <rect x="-100.856" y="9329.698" width="7" height="7" fill="white"/>
+        <rect x="-100.856" y="9329.698" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4059">
+        <text transform="translate(-164.478 9340.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Failure Domain</tspan>
+        </text>
+      </g>
+      <g id="Group_4046">
+        <g id="Graphic_4058">
+          <path d="M -358.678 8963.948 L -355.178 8967.448 L -358.678 8970.948 L -362.178 8967.448 Z" fill="#ffc0ff"/>
+          <path d="M -358.678 8963.948 L -355.178 8967.448 L -358.678 8970.948 L -362.178 8967.448 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4057">
+          <path d="M -344.678 8963.948 L -341.178 8967.448 L -344.678 8970.948 L -348.178 8967.448 Z" fill="#ffc0ff"/>
+          <path d="M -344.678 8963.948 L -341.178 8967.448 L -344.678 8970.948 L -348.178 8967.448 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4056">
+          <path d="M -330.678 8963.948 L -327.178 8967.448 L -330.678 8970.948 L -334.178 8967.448 Z" fill="#ffc0ff"/>
+          <path d="M -330.678 8963.948 L -327.178 8967.448 L -330.678 8970.948 L -334.178 8967.448 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4055">
+          <path d="M -316.678 8963.948 L -313.178 8967.448 L -316.678 8970.948 L -320.178 8967.448 Z" fill="#ffc0ff"/>
+          <path d="M -316.678 8963.948 L -313.178 8967.448 L -316.678 8970.948 L -320.178 8967.448 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4054">
+          <path d="M -302.678 8963.948 L -299.178 8967.448 L -302.678 8970.948 L -306.178 8967.448 Z" fill="#ffc0ff"/>
+          <path d="M -302.678 8963.948 L -299.178 8967.448 L -302.678 8970.948 L -306.178 8967.448 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4053">
+          <path d="M -288.678 8963.948 L -285.178 8967.448 L -288.678 8970.948 L -292.178 8967.448 Z" fill="#ffc0ff"/>
+          <path d="M -288.678 8963.948 L -285.178 8967.448 L -288.678 8970.948 L -292.178 8967.448 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4052">
+          <path d="M -274.678 8963.948 L -271.178 8967.448 L -274.678 8970.948 L -278.178 8967.448 Z" fill="#ffc0ff"/>
+          <path d="M -274.678 8963.948 L -271.178 8967.448 L -274.678 8970.948 L -278.178 8967.448 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4051">
+          <path d="M -260.678 8963.948 L -257.178 8967.448 L -260.678 8970.948 L -264.178 8967.448 Z" fill="#ffc0ff"/>
+          <path d="M -260.678 8963.948 L -257.178 8967.448 L -260.678 8970.948 L -264.178 8967.448 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4050">
+          <circle cx="-246.678" cy="8967.448" r="3.50000559265619" fill="#8080ff"/>
+          <circle cx="-246.678" cy="8967.448" r="3.50000559265619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4049">
+          <circle cx="-232.678" cy="8967.448" r="3.50000559265619" fill="#8080ff"/>
+          <circle cx="-232.678" cy="8967.448" r="3.50000559265619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4048">
+          <circle cx="-218.678" cy="8967.448" r="3.50000559265619" fill="#8080ff"/>
+          <circle cx="-218.678" cy="8967.448" r="3.50000559265619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4047">
+          <circle cx="-204.678" cy="8967.448" r="3.50000559265619" fill="#8080ff"/>
+          <circle cx="-204.678" cy="8967.448" r="3.50000559265619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Line_4045">
+        <line x1="-463.5884" y1="9026.932" x2="-365.43506" y2="8971.279" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_4044">
+        <line x1="-334.52323" y1="9025.221" x2="-343.25457" y2="8975.546" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_4043">
+        <line x1="-113.55837" y1="9027.4" x2="-308.98833" y2="8969.718" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_4042">
+        <line x1="-231.15987" y1="9043.68" x2="-324.56807" y2="8972.128" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_4041">
+        <line x1="-450.8078" y1="9161.712" x2="-307.34523" y2="8973.569" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_4040">
+        <line x1="-305.97147" y1="9160.352" x2="-249.23433" y2="8975.765" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_4039">
+        <line x1="-242.51405" y1="9177.202" x2="-233.08553" y2="8976.138" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_4038">
+        <line x1="-99.08716" y1="9177.655" x2="-214.37547" y2="8975.011" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_4037">
+        <line x1="-463.7239" y1="9313.396" x2="-209.89292" y2="8974.412" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_4036">
+        <line x1="-320.20734" y1="9312.991" x2="-289.44317" y2="8975.834" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_4035">
+        <line x1="-229.56523" y1="9330.085" x2="-273.64882" y2="8975.721" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Line_4034">
+        <line x1="-111.87308" y1="9330.715" x2="-257.6898" y2="8974.743" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_4033">
+        <rect x="-334.178" y="8866.534" width="7" height="7" fill="white"/>
+        <rect x="-334.178" y="8866.534" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4032">
+        <rect x="-320.178" y="8866.534" width="7" height="7" fill="white"/>
+        <rect x="-320.178" y="8866.534" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4031">
+        <rect x="-306.178" y="8866.534" width="7" height="7" fill="white"/>
+        <rect x="-306.178" y="8866.534" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4030">
+        <rect x="-292.178" y="8866.534" width="7" height="7" fill="white"/>
+        <rect x="-292.178" y="8866.534" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4029">
+        <rect x="-278.178" y="8866.534" width="7" height="7" fill="white"/>
+        <rect x="-278.178" y="8866.534" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4028">
+        <rect x="-264.178" y="8866.534" width="7" height="7" fill="white"/>
+        <rect x="-264.178" y="8866.534" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4027">
+        <rect x="-250.178" y="8866.534" width="7" height="7" fill="white"/>
+        <rect x="-250.178" y="8866.534" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4026">
+        <rect x="-236.178" y="8866.534" width="7" height="7" fill="white"/>
+        <rect x="-236.178" y="8866.534" width="7" height="7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4025">
+        <text transform="translate(-342.134 8909.517)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1278977e-19" y="15">Math Calculation</tspan>
+        </text>
+      </g>
+      <g id="Line_4024">
+        <line x1="-281.678" y1="8957.224" x2="-281.678" y2="8938.865" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4023">
+        <line x1="-281.678" y1="8908.517" x2="-281.678" y2="8890.158" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

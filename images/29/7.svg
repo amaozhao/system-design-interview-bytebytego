@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1450.5 7919.752 509 151.396" width="509" height="151.396">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="13_stock" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>13.stock</title>
+    <g id="13_stock_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_329">
+        <rect x="1451" y="7970" width="134" height="44.5" fill="white"/>
+        <rect x="1451" y="7970" width="134" height="44.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1456 7983.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.912" y="15">Order Manager</tspan>
+        </text>
+      </g>
+      <g id="Graphic_330">
+        <rect x="1825" y="7970" width="134" height="44.5" fill="white"/>
+        <rect x="1825" y="7970" width="134" height="44.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1830 7983.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.8" y="15">Match Engine</tspan>
+        </text>
+      </g>
+      <g id="Group_356">
+        <g id="Graphic_331">
+          <rect x="1664.2" y="7940.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1664.2" y="7940.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_332">
+          <rect x="1673.7" y="7940.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1673.7" y="7940.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_334">
+          <rect x="1683.2" y="7940.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1683.2" y="7940.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_333">
+          <rect x="1692.7" y="7940.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1692.7" y="7940.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_342">
+          <rect x="1702.2" y="7940.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1702.2" y="7940.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_341">
+          <rect x="1711.7" y="7940.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1711.7" y="7940.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_340">
+          <rect x="1721.2" y="7940.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1721.2" y="7940.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_339">
+          <rect x="1730.7" y="7940.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1730.7" y="7940.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_357">
+        <g id="Graphic_350">
+          <rect x="1664.2" y="8020.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1664.2" y="8020.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_349">
+          <rect x="1673.7" y="8020.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1673.7" y="8020.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_348">
+          <rect x="1683.2" y="8020.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1683.2" y="8020.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_347">
+          <rect x="1692.7" y="8020.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1692.7" y="8020.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_346">
+          <rect x="1702.2" y="8020.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1702.2" y="8020.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_345">
+          <rect x="1711.7" y="8020.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1711.7" y="8020.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_344">
+          <rect x="1721.2" y="8020.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1721.2" y="8020.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_343">
+          <rect x="1730.7" y="8020.2" width="9.5" height="30.5" fill="white"/>
+          <rect x="1730.7" y="8020.2" width="9.5" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Line_351">
+        <line x1="1585" y1="7975.916" x2="1654.5817" y2="7958.953" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_352">
+        <line x1="1740.2" y1="7956.567" x2="1815.3627" y2="7974.235" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_353">
+        <line x1="1825" y1="8010.739" x2="1749.7433" y2="8031.506" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_354">
+        <line x1="1664.2" y1="8034.091" x2="1594.5179" y2="8014.1485" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_355">
+        <text transform="translate(1631.808 7920.752)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Inbound Sequencer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_358">
+        <text transform="translate(1625.28 8051.7)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7105427e-20" y="15">Outbound Sequencer</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

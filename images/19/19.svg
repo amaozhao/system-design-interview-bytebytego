@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2821 8172.5 386 142" width="386" height="142">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="03_google_map" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>03.google map</title>
+    <g id="03_google_map_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_268">
+        <rect x="2821.5" y="8173" width="77" height="47" fill="white"/>
+        <path d="M 2821.5 8173 L 2898.5 8173 L 2898.5 8220 L 2821.5 8220 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(2826.5 8180.108)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.388" y="15">r_1</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="15.506" y="29.447998">(origin)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_269">
+        <rect x="2898.5" y="8173" width="77" height="47" fill="white"/>
+        <path d="M 2898.5 8173 L 2975.5 8173 L 2975.5 8220 L 2898.5 8220 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(2903.5 8187.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.388" y="15">r_2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_270">
+        <rect x="3129.5" y="8267" width="77" height="47" fill="white"/>
+        <path d="M 3129.5 8267 L 3206.5 8267 L 3206.5 8314 L 3129.5 8314 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(3134.5 8274.108)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.388" y="15">r_7</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x=".83" y="29.447998">(destination)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_271">
+        <rect x="2975.5" y="8173" width="77" height="47" fill="white"/>
+        <path d="M 2975.5 8173 L 3052.5 8173 L 3052.5 8220 L 2975.5 8220 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(2980.5 8187.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.388" y="15">r_3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_272">
+        <rect x="3052.5" y="8173" width="77" height="47" fill="white"/>
+        <path d="M 3052.5 8173 L 3129.5 8173 L 3129.5 8220 L 3052.5 8220 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(3057.5 8187.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.388" y="15">r_4</tspan>
+        </text>
+      </g>
+      <g id="Graphic_273">
+        <rect x="3052.5" y="8220" width="77" height="47" fill="white"/>
+        <path d="M 3052.5 8220 L 3129.5 8220 L 3129.5 8267 L 3052.5 8267 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(3057.5 8234.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.388" y="15">r_5</tspan>
+        </text>
+      </g>
+      <g id="Graphic_274">
+        <rect x="3052.5" y="8267" width="77" height="47" fill="white"/>
+        <path d="M 3052.5 8267 L 3129.5 8267 L 3129.5 8314 L 3052.5 8314 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(3057.5 8281.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.388" y="15">r_6</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

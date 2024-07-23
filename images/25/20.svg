@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="780.822 11392.448 563 535.896" width="563" height="535.896">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="09_s3" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>09.s3</title>
+    <g id="09_s3_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_3929">
+        <rect x="781.322" y="11392.948" width="562" height="513" fill="white"/>
+        <rect x="781.322" y="11392.948" width="562" height="513" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3928">
+        <path d="M 1143.322 11693.56 L 1324.226 11693.56 L 1324.226 11820.76 C 1269.9548 11804.86 1197.5932 11868.46 1143.322 11836.66 Z" fill="white"/>
+        <path d="M 1143.322 11693.56 L 1324.226 11693.56 L 1324.226 11820.76 C 1269.9548 11804.86 1197.5932 11868.46 1143.322 11836.66 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1148.322 11755.886)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="34.620003" y="15">Empty spaces</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3927">
+        <rect x="1143.322" y="11435.448" width="79.904" height="34.336" fill="white"/>
+        <rect x="1143.322" y="11435.448" width="79.904" height="34.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1148.322 11443.392)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.056" y="15">object 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3926">
+        <rect x="1143.322" y="11469.784" width="79.904" height="59.664" fill="white"/>
+        <rect x="1143.322" y="11469.784" width="79.904" height="59.664" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1148.322 11490.392)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.056" y="15">object 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3925">
+        <rect x="1143.322" y="11529.448" width="79.904" height="42" fill="white"/>
+        <rect x="1143.322" y="11529.448" width="79.904" height="42" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1148.322 11541.224)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.056" y="15">object 3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3924">
+        <rect x="1143.322" y="11571.448" width="79.904" height="20.447998" fill="white"/>
+        <rect x="1143.322" y="11571.448" width="79.904" height="20.447998" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1148.322 11572.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.056" y="15">object 4</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3923">
+        <rect x="1143.322" y="11591.896" width="79.904" height="103.336" fill="white"/>
+        <rect x="1143.322" y="11591.896" width="79.904" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1148.322 11634.34)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.056" y="15">object 5</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3922">
+        <rect x="971.322" y="11435.448" width="135" height="445" fill="white"/>
+        <rect x="971.322" y="11435.448" width="135" height="445" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3921">
+        <rect x="971.322" y="11435.448" width="135" height="59.664" fill="white"/>
+        <rect x="971.322" y="11435.448" width="135" height="59.664" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3920">
+        <rect x="971.322" y="11495.112" width="135" height="42" fill="white"/>
+        <rect x="971.322" y="11495.112" width="135" height="42" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3919">
+        <rect x="971.322" y="11537.112" width="135" height="20.447998" fill="white"/>
+        <rect x="971.322" y="11537.112" width="135" height="20.447998" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3918">
+        <rect x="971.322" y="11557.56" width="135" height="103.336" fill="white"/>
+        <rect x="971.322" y="11557.56" width="135" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3917">
+        <rect x="971.322" y="11660.896" width="135" height="42" fill="white"/>
+        <rect x="971.322" y="11660.896" width="135" height="42" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3916">
+        <rect x="971.322" y="11702.896" width="135" height="59.664" fill="white"/>
+        <rect x="971.322" y="11702.896" width="135" height="59.664" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3915">
+        <rect x="971.322" y="11860" width="135" height="20.447998" fill="#ffc0ff"/>
+        <rect x="971.322" y="11860" width="135" height="20.447998" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(976.322 11861)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.26" y="15">Checksum</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3914">
+        <rect x="799.322" y="11435.448" width="135" height="445" fill="white"/>
+        <rect x="799.322" y="11435.448" width="135" height="445" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3913">
+        <rect x="799.322" y="11500.112" width="135" height="42" fill="white"/>
+        <rect x="799.322" y="11500.112" width="135" height="42" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3912">
+        <rect x="799.322" y="11588.78" width="135" height="20.447998" fill="white"/>
+        <rect x="799.322" y="11588.78" width="135" height="20.447998" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3911">
+        <rect x="799.322" y="11752.06" width="135" height="42" fill="white"/>
+        <rect x="799.322" y="11752.06" width="135" height="42" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3910">
+        <text transform="translate(815.414 11408.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Read-only File</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3909">
+        <text transform="translate(987.414 11408.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Read-only File</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3908">
+        <text transform="translate(1179.862 11408.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2557954e-19" y="15">Read-write File</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3907">
+        <text transform="translate(999.202 11908.896)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7958079e-19" y="15">Local File System</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3906">
+        <rect x="1223.226" y="11435.448" width="101" height="34.336" fill="#ffc0ff"/>
+        <rect x="1223.226" y="11435.448" width="101" height="34.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1228.226 11443.392)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.26" y="15">Checksum</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3905">
+        <rect x="1223.226" y="11469.784" width="101" height="59.664" fill="#ffc0ff"/>
+        <rect x="1223.226" y="11469.784" width="101" height="59.664" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1228.226 11490.392)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.26" y="15">Checksum</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3904">
+        <rect x="1223.226" y="11529.448" width="101" height="42" fill="#ffc0ff"/>
+        <rect x="1223.226" y="11529.448" width="101" height="42" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1228.226 11541.224)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.26" y="15">Checksum</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3903">
+        <rect x="1223.226" y="11571.448" width="101" height="20.447998" fill="#ffc0ff"/>
+        <rect x="1223.226" y="11571.448" width="101" height="20.447998" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1228.226 11572.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.26" y="15">Checksum</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3902">
+        <rect x="1223.226" y="11591.896" width="101" height="103.336" fill="#ffc0ff"/>
+        <rect x="1223.226" y="11591.896" width="101" height="103.336" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1228.226 11634.34)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.26" y="15">Checksum</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3901">
+        <rect x="799.322" y="11860" width="135" height="20.447998" fill="#ffc0ff"/>
+        <rect x="799.322" y="11860" width="135" height="20.447998" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(804.322 11861)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.26" y="15">Checksum</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

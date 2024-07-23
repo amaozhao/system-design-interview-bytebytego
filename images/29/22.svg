@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="5826.872 9124.052 501.2757 127.396" width="501.2757" height="127.396">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="13_stock" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>13.stock</title>
+    <g id="13_stock_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_920">
+        <line x1="5827.372" y1="9158.5" x2="6317.748" y2="9158.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_898">
+        <rect x="5840" y="9144.5" width="9" height="28" fill="#00bfc0"/>
+        <rect x="5840" y="9144.5" width="9" height="28" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_899">
+        <rect x="5849" y="9144.5" width="53" height="28" fill="white"/>
+        <rect x="5849" y="9144.5" width="53" height="28" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_901">
+        <rect x="5910.8" y="9144.5" width="4.924911" height="28" fill="#00bfc0"/>
+        <rect x="5910.8" y="9144.5" width="4.924911" height="28" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_900">
+        <rect x="5915.6" y="9144.5" width="40.60009" height="28" fill="white"/>
+        <rect x="5915.6" y="9144.5" width="40.60009" height="28" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_903">
+        <rect x="5966.52" y="9144.5" width="13.324998" height="28" fill="#00bfc0"/>
+        <rect x="5966.52" y="9144.5" width="13.324998" height="28" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_902">
+        <rect x="5979.845" y="9144.5" width="117.275" height="28" fill="white"/>
+        <rect x="5979.845" y="9144.5" width="117.275" height="28" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_904">
+        <rect x="6108.32" y="9144.5" width="36.36" height="28" fill="#00bfc0"/>
+        <rect x="6108.32" y="9144.5" width="36.36" height="28" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_906">
+        <rect x="6155.88" y="9144.5" width="9.124998" height="28" fill="#00bfc0"/>
+        <rect x="6155.88" y="9144.5" width="9.124998" height="28" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_905">
+        <rect x="6165.005" y="9144.5" width="68.675" height="28" fill="white"/>
+        <rect x="6165.005" y="9144.5" width="68.675" height="28" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_907">
+        <text transform="translate(5846 9125.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Term 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_908">
+        <text transform="translate(5910.1 9125.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Term 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_909">
+        <text transform="translate(6006.37 9125.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Term 3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_910">
+        <text transform="translate(6102.34 9125.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Term 4</tspan>
+        </text>
+      </g>
+      <g id="Graphic_911">
+        <text transform="translate(6170.88 9125.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Term 5</tspan>
+        </text>
+      </g>
+      <g id="Graphic_912">
+        <text transform="translate(5849.541 9232)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="55422333e-20" y="15">Elections</tspan>
+        </text>
+      </g>
+      <g id="Line_913">
+        <line x1="5876.8544" y1="9231" x2="5851.193" y2="9181.297" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_914">
+        <line x1="5886.8905" y1="9231" x2="5909.9354" y2="9181.476" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_915">
+        <text transform="translate(5950.116 9232)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Normal Operation</tspan>
+        </text>
+      </g>
+      <g id="Line_916">
+        <line x1="6004.0705" y1="9231" x2="5955.846" y2="9179.712" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_917">
+        <line x1="6016.749" y1="9231" x2="6031.443" y2="9181.983" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_918">
+        <text transform="translate(6106.092 9232)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Split Vote</tspan>
+        </text>
+      </g>
+      <g id="Line_919">
+        <line x1="6138.482" y1="9231" x2="6130.428" y2="9182.268" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_921">
+        <rect x="6261.897" y="9144.276" width="40.832" height="28.447998" fill="white"/>
+        <text transform="translate(6266.897 9149.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">time</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

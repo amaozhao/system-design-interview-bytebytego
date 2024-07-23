@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2356.2816 8810.5 561.4 389.8" width="561.4" height="389.8">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="11_payment" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>11.payment</title>
+    <g id="11_payment_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_290">
+        <rect x="2356.7816" y="8811" width="560.4" height="154.2" fill="white"/>
+        <path d="M 2356.7816 8811 L 2917.1816 8811 L 2917.1816 8965.2 L 2356.7816 8965.2 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_289">
+        <rect x="2356.7816" y="9013" width="560.4" height="186.8" fill="white"/>
+        <path d="M 2356.7816 9013 L 2917.1816 9013 L 2917.1816 9199.8 L 2356.7816 9199.8 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_274">
+        <rect x="2379" y="8868" width="83.93443" height="40" fill="white"/>
+        <rect x="2379" y="8868" width="83.93443" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2384 8878.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.375213" y="15">Client</tspan>
+        </text>
+      </g>
+      <g id="Graphic_273">
+        <rect x="2807.8" y="8868" width="83.93443" height="40" fill="white"/>
+        <rect x="2807.8" y="8868" width="83.93443" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2812.8 8869.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.3992127" y="15">Payment </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.143213" y="33.448">System</tspan>
+        </text>
+      </g>
+      <g id="Line_275">
+        <path d="M 2461.3392 8868 C 2497.905 8852.659 2556.8872 8834.091 2628.1818 8834.091 C 2696.323 8834.091 2757.7383 8851.052 2798.5338 8865.947" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_276">
+        <path d="M 2807.8 8905.818 C 2767.508 8920.716 2702.0598 8939.545 2628.6364 8939.545 C 2563.8907 8939.545 2509.1704 8924.904 2472.1803 8911.227" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_277">
+        <rect x="2521.584" y="8823.96" width="230.784" height="20.447998" fill="white"/>
+        <text transform="translate(2522.584 8824.96)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">POST {idempotency-key: UUID}</tspan>
+        </text>
+      </g>
+      <g id="Graphic_278">
+        <rect x="2556.1892" y="8925.321" width="144.976" height="28.447998" fill="white"/>
+        <text transform="translate(2561.1892 8930.321)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Charge succeeded</tspan>
+        </text>
+      </g>
+      <g id="Graphic_279">
+        <text transform="translate(2376.3672 8909)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="35527137e-20" y="15">First request</tspan>
+        </text>
+      </g>
+      <g id="Graphic_286">
+        <rect x="2379" y="9069.509" width="83.93443" height="40" fill="white"/>
+        <rect x="2379" y="9069.509" width="83.93443" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2384 9080.285)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.375213" y="15">Client</tspan>
+        </text>
+      </g>
+      <g id="Graphic_285">
+        <rect x="2807.8" y="9069.509" width="83.93443" height="40" fill="white"/>
+        <rect x="2807.8" y="9069.509" width="83.93443" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2812.8 9071.061)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.3992127" y="15">Payment </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.143213" y="33.448">System</tspan>
+        </text>
+      </g>
+      <g id="Line_284">
+        <path d="M 2461.3392 9069.509 C 2497.905 9054.168 2556.8872 9035.6 2628.1818 9035.6 C 2696.323 9035.6 2757.7383 9052.562 2798.5338 9067.456" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_283">
+        <path d="M 2807.8 9107.327 C 2767.508 9122.225 2702.0598 9141.055 2628.6364 9141.055 C 2563.8907 9141.055 2509.1704 9126.413 2472.1803 9112.737" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_282">
+        <rect x="2521.584" y="9025.47" width="230.784" height="20.447998" fill="white"/>
+        <text transform="translate(2522.584 9026.47)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">POST {idempotency-key: UUID}</tspan>
+        </text>
+      </g>
+      <g id="Graphic_281">
+        <rect x="2532.5493" y="9126.831" width="192.256" height="28.447998" fill="white"/>
+        <text transform="translate(2537.5493 9131.831)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="61106675e-20" y="15">Return previous message</tspan>
+        </text>
+      </g>
+      <g id="Graphic_280">
+        <text transform="translate(2402.0072 9110.509)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Retry</tspan>
+        </text>
+      </g>
+      <g id="Graphic_287">
+        <text transform="translate(2800.7673 9110.509)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="20.446" y="11">Server has </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="4.99" y="25.336">already seen the </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="1.87" y="39.671997">idempotency</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" y="39.671997"> key. </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="7.99" y="54.007996">Do not process </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="2.542" y="68.343994">the request again</tspan>
+        </text>
+      </g>
+      <g id="Graphic_291">
+        <path d="M 2608.6987 8969.14 L 2665.2532 8969.14 L 2665.2532 8998.06 L 2693.5305 8998.06 L 2636.976 9009.06 L 2580.4214 8998.06 L 2608.6987 8998.06 Z" fill="white"/>
+        <path d="M 2608.6987 8969.14 L 2665.2532 8969.14 L 2665.2532 8998.06 L 2693.5305 8998.06 L 2636.976 9009.06 L 2580.4214 8998.06 L 2608.6987 8998.06 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_292">
+        <text transform="translate(2618.016 8976.396)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Retry</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

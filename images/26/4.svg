@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2347.5 7521.5 535.00004 191.5" width="535.00004" height="191.5">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="10_gaming_leaderboard" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>10.gaming leaderboard</title>
+    <g id="10_gaming_leaderboard_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_649">
+        <rect x="2348" y="7593" width="85.5" height="48.5" fill="white"/>
+        <rect x="2348" y="7593" width="85.5" height="48.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2353 7598.802)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.262" y="15">Game </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.422" y="33.448">service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_650">
+        <path d="M 2549.55 7593 L 2625.95 7593 C 2631.2216 7593 2635.5 7603.864 2635.5 7617.25 C 2635.5 7630.636 2631.2216 7641.5 2625.95 7641.5 L 2549.55 7641.5 C 2544.2784 7641.5 2540 7630.636 2540 7617.25 C 2540 7603.864 2544.2784 7593 2549.55 7593" fill="white"/>
+        <path d="M 2549.55 7593 L 2625.95 7593 C 2631.2216 7593 2635.5 7603.864 2635.5 7617.25 C 2635.5 7630.636 2631.2216 7641.5 2625.95 7641.5 L 2549.55 7641.5 C 2544.2784 7641.5 2540 7630.636 2540 7617.25 C 2540 7603.864 2544.2784 7593 2549.55 7593 M 2625.95 7593 C 2620.6784 7593 2616.4 7603.864 2616.4 7617.25 C 2616.4 7630.636 2620.6784 7641.5 2625.95 7641.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_651">
+        <line x1="2433.5" y1="7617.25" x2="2530.1" y2="7617.25" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_652">
+        <text transform="translate(2563.658 7608.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31974423e-20" y="15">Kafka</tspan>
+        </text>
+      </g>
+      <g id="Graphic_653">
+        <rect x="2742" y="7522" width="140.00004" height="48.5" fill="white"/>
+        <rect x="2742" y="7522" width="140.00004" height="48.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2747 7527.802)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.360023" y="15">Leaderboard </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="39.672023" y="33.448">service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_654">
+        <rect x="2742" y="7593" width="140.00004" height="48.5" fill="white"/>
+        <rect x="2742" y="7593" width="140.00004" height="48.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2747 7598.802)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="36.704023" y="15">Analytic</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="39.672023" y="33.448">service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_655">
+        <rect x="2742" y="7664" width="140.00004" height="48.5" fill="white"/>
+        <rect x="2742" y="7664" width="140.00004" height="48.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2747 7669.802)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.960023" y="15">Push Notification</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="39.672023" y="33.448">service</tspan>
+        </text>
+      </g>
+      <g id="Line_656">
+        <line x1="2633.599" y1="7602.734" x2="2732.5618" y2="7571.401" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_657">
+        <line x1="2635.5" y1="7617.25" x2="2732.1" y2="7617.25" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_658">
+        <line x1="2633.599" y1="7631.766" x2="2732.5618" y2="7663.099" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

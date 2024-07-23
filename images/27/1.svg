@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1360.7 8444.104 487.33443 163.596" width="487.33443" height="163.596">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="11_payment" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>11.payment</title>
+    <g id="11_payment_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_97">
+        <rect x="1361.2" y="8567.2" width="83.93443" height="40" fill="white"/>
+        <rect x="1361.2" y="8567.2" width="83.93443" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1366.2 8568.752)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="15.335213" y="15">Credit </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.631213" y="33.448">Card</tspan>
+        </text>
+      </g>
+      <g id="Graphic_98">
+        <rect x="1562.4" y="8567.2" width="83.93443" height="40" fill="white"/>
+        <rect x="1562.4" y="8567.2" width="83.93443" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1567.4 8568.752)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.591213" y="15">Bank </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.183213" y="33.448">Account</tspan>
+        </text>
+      </g>
+      <g id="Graphic_99">
+        <rect x="1763.6" y="8567.2" width="83.93443" height="40" fill="white"/>
+        <rect x="1763.6" y="8567.2" width="83.93443" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1768.6 8568.752)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.591213" y="15">Bank </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.183213" y="33.448">Account</tspan>
+        </text>
+      </g>
+      <g id="Graphic_100">
+        <title>Person</title>
+        <path d="M 1403.1672 8504 C 1407.5872 8504 1411.1672 8500.42 1411.1672 8496 C 1411.1672 8491.58 1407.5872 8488 1403.1672 8488 C 1398.7472 8488 1395.1672 8491.58 1395.1672 8496 C 1395.1672 8500.42 1398.7472 8504 1403.1672 8504 Z M 1403.1672 8508 C 1397.8272 8508 1387.1672 8510.68 1387.1672 8516 L 1387.1672 8520 L 1419.1672 8520 L 1419.1672 8516 C 1419.1672 8510.68 1408.5072 8508 1403.1672 8508 Z" fill="black"/>
+      </g>
+      <g id="Graphic_101">
+        <title>Person</title>
+        <path d="M 1805.5672 8504 C 1809.9872 8504 1813.5672 8500.42 1813.5672 8496 C 1813.5672 8491.58 1809.9872 8488 1805.5672 8488 C 1801.1472 8488 1797.5672 8491.58 1797.5672 8496 C 1797.5672 8500.42 1801.1472 8504 1805.5672 8504 Z M 1805.5672 8508 C 1800.2272 8508 1789.5672 8510.68 1789.5672 8516 L 1789.5672 8520 L 1821.5672 8520 L 1821.5672 8516 C 1821.5672 8510.68 1810.9072 8508 1805.5672 8508 Z" fill="black"/>
+      </g>
+      <g id="Graphic_102">
+        <title>Add Shopping Cart</title>
+        <path d="M 1604.2072 8499 L 1608.2072 8499 L 1608.2072 8493 L 1614.2072 8493 L 1614.2072 8489 L 1608.2072 8489 L 1608.2072 8483 L 1604.2072 8483 L 1604.2072 8489 L 1598.2072 8489 L 1598.2072 8493 L 1604.2072 8493 L 1604.2072 8499 Z M 1596.2072 8517 C 1594.0072 8517 1592.2272 8518.8 1592.2272 8521 C 1592.2272 8523.2 1594.0072 8525 1596.2072 8525 C 1598.4072 8525 1600.2072 8523.2 1600.2072 8521 C 1600.2072 8518.8 1598.4072 8517 1596.2072 8517 Z M 1616.2072 8517 C 1614.0072 8517 1612.2272 8518.8 1612.2272 8521 C 1612.2272 8523.2 1614.0072 8525 1616.2072 8525 C 1618.4072 8525 1620.2072 8523.2 1620.2072 8521 C 1620.2072 8518.8 1618.4072 8517 1616.2072 8517 Z M 1596.5472 8510.5 L 1596.6072 8510.26 L 1598.4072 8507 L 1613.3072 8507 C 1614.8072 8507 1616.1272 8506.18 1616.8072 8504.94 L 1624.5272 8490.92 L 1621.0472 8489 L 1621.0272 8489 L 1618.8272 8493 L 1613.3072 8503 L 1599.2672 8503 L 1599.0072 8502.46 L 1594.5272 8493 L 1592.6272 8489 L 1590.7472 8485 L 1584.2072 8485 L 1584.2072 8489 L 1588.2072 8489 L 1595.4072 8504.18 L 1592.7072 8509.08 C 1592.3872 8509.64 1592.2072 8510.3 1592.2072 8511 C 1592.2072 8513.2 1594.0072 8515 1596.2072 8515 L 1620.2072 8515 L 1620.2072 8511 L 1597.0472 8511 C 1596.7872 8511 1596.5472 8510.78 1596.5472 8510.5 Z" fill="black"/>
+      </g>
+      <g id="Line_103">
+        <line x1="1403.1672" y1="8520" x2="1403.1672" y2="8567.2" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_104">
+        <line x1="1604.3672" y1="8525" x2="1604.3672" y2="8567.2" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_105">
+        <line x1="1805.5672" y1="8520" x2="1805.5672" y2="8567.2" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_110">
+        <text transform="translate(1382.2792 8464.2)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8277823e-19" y="15">Buyer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_111">
+        <text transform="translate(1785.5752 8464.2)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18829382e-20" y="15">Seller</tspan>
+        </text>
+      </g>
+      <g id="Graphic_112">
+        <text transform="translate(1558.4232 8445.104)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">E-commerce</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="17.36" y="33.448">Website</tspan>
+        </text>
+      </g>
+      <g id="Line_113">
+        <line x1="1445.1344" y1="8587.2" x2="1552.5" y2="8587.2" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_114">
+        <line x1="1646.3344" y1="8587.2" x2="1753.7" y2="8587.2" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_115">
+        <rect x="1474.4602" y="8572.976" width="55.632" height="28.447998" fill="white"/>
+        <text transform="translate(1479.4602 8577.976)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="71409545e-20" y="15">Pay-in</tspan>
+        </text>
+      </g>
+      <g id="Graphic_116">
+        <rect x="1665.9151" y="8572.976" width="66.304" height="28.447998" fill="white"/>
+        <text transform="translate(1670.9151 8577.976)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4618528e-20" y="15">Pay-out</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

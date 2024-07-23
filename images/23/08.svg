@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2122.014 7803.552 459.74427 464.14504" width="459.74427" height="464.14504">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="14" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="22" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="07_hotel" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>07.hotel</title>
+    <g id="07_hotel_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_178">
+        <title>Person</title>
+        <path d="M 2139.5 7840 C 2143.92 7840 2147.5 7836.42 2147.5 7832 C 2147.5 7827.58 2143.92 7824 2139.5 7824 C 2135.08 7824 2131.5 7827.58 2131.5 7832 C 2131.5 7836.42 2135.08 7840 2139.5 7840 Z M 2139.5 7844 C 2134.16 7844 2123.5 7846.68 2123.5 7852 L 2123.5 7856 L 2155.5 7856 L 2155.5 7852 C 2155.5 7846.68 2144.84 7844 2139.5 7844 Z" fill="black"/>
+      </g>
+      <g id="Graphic_179">
+        <rect x="2465.5" y="7816.5" width="115.75827" height="47" fill="white"/>
+        <rect x="2465.5" y="7816.5" width="115.75827" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2470.5 7821.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.511135" y="15">Reservation </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.367135" y="33.448">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_181">
+        <rect x="2135" y="7895" width="9.5" height="366" fill="white"/>
+        <rect x="2135" y="7895" width="9.5" height="366" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_184">
+        <line x1="2144.5" y1="7947" x2="2508.729" y2="7947" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_186">
+        <rect x="2250.068" y="7932.776" width="201.12" height="28.447998" fill="white"/>
+        <text transform="translate(2255.068 7937.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Generate reservation order</tspan>
+        </text>
+      </g>
+      <g id="Group_187">
+        <g id="Graphic_189">
+          <circle cx="2240.507" cy="7947.092" r="9.5609763162852" fill="white"/>
+          <circle cx="2240.507" cy="7947.092" r="9.5609763162852" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_188">
+          <text transform="translate(2236.059 7938.276)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31974423e-20" y="15">1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_190">
+        <line x1="2518.629" y1="8014.348" x2="2154.4" y2="8014.348" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_191">
+        <rect x="2206.7782" y="8000.124" width="286.736" height="28.447998" fill="white"/>
+        <text transform="translate(2211.7782 8005.124)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="39790393e-20" y="15">Show reservation page (reservation_id)</tspan>
+        </text>
+      </g>
+      <g id="Group_192">
+        <g id="Graphic_194">
+          <circle cx="2197.2172" cy="8014.44" r="9.56097631628465" fill="white"/>
+          <circle cx="2197.2172" cy="8014.44" r="9.56097631628465" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_193">
+          <text transform="translate(2192.7692 8005.624)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31974423e-20" y="15">2</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_195">
+        <line x1="2144.5" y1="8113.478" x2="2508.729" y2="8113.478" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_196">
+        <rect x="2217.6597" y="8099.254" width="256.848" height="28.447998" fill="white"/>
+        <text transform="translate(2222.6597 8104.254)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8952838e-19" y="15">Submit reservation (reservation_id)</tspan>
+        </text>
+      </g>
+      <g id="Group_197">
+        <g id="Graphic_199">
+          <circle cx="2208.761" cy="8113.57" r="9.56097631628496" fill="white"/>
+          <circle cx="2208.761" cy="8113.57" r="9.56097631628496" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_198">
+          <text transform="translate(2201.11 8105.782)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" x="0" y="13">3a</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_201">
+        <line x1="2144.5" y1="8173.696" x2="2508.729" y2="8173.696" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_200">
+        <rect x="2216.5939" y="8159.472" width="256.848" height="28.447998" fill="white"/>
+        <text transform="translate(2221.5939 8164.472)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8952838e-19" y="15">Submit reservation (reservation_id)</tspan>
+        </text>
+      </g>
+      <g id="Group_202">
+        <g id="Graphic_204">
+          <circle cx="2208.761" cy="8173.787" r="9.56097631628471" fill="white"/>
+          <circle cx="2208.761" cy="8173.787" r="9.56097631628471" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_203">
+          <text transform="translate(2200.718 8166)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" x="0" y="13">3b</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_205">
+        <line x1="2523.363" y1="7863.5" x2="2523.0932" y2="8259.322" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_206">
+        <line x1="2140.0424" y1="7851.695" x2="2139.9864" y2="7895" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_207">
+        <rect x="2485.6" y="8157.837" width="13.396" height="28.615997" fill="white"/>
+        <text transform="translate(2486.6 8158.837)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-size="22" font-weight="400" fill="#ff2600" x="3206324e-19" y="21">x</tspan>
+        </text>
+      </g>
+      <g id="Graphic_208">
+        <text transform="translate(2325.9558 8233.913)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" x="7.0276776" y="13">Unique constraint is violated </tspan>
+          <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" x="48.52368" y="29.392">(reservation_id)</tspan>
+        </text>
+      </g>
+      <g id="Line_209">
+        <line x1="2437.4812" y1="8232.913" x2="2478.969" y2="8186.921" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_210">
+        <text transform="translate(2123.014 7804.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7851497e-19" y="15">User</tspan>
+        </text>
+      </g>
+      <g id="Graphic_182">
+        <rect x="2518.629" y="7934.5" width="9.5" height="91.5" fill="white"/>
+        <rect x="2518.629" y="7934.5" width="9.5" height="91.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_183">
+        <rect x="2518.629" y="8097" width="9.5" height="91.5" fill="white"/>
+        <rect x="2518.629" y="8097" width="9.5" height="91.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

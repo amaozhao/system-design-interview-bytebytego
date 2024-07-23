@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1565 7962 475.896 204.5" width="475.896" height="204.5">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 3 L 0 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="12_digital_wallet" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>12.digital wallet</title>
+    <g id="12_digital_wallet_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_463">
+        <rect x="1565.5" y="8004.5" width="89.5" height="32" fill="white"/>
+        <rect x="1565.5" y="8004.5" width="89.5" height="32" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1570.5 8011.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.246" y="15">Command</tspan>
+        </text>
+      </g>
+      <g id="Graphic_464">
+        <rect x="1826.5" y="8004.5" width="89.5" height="32" fill="white"/>
+        <rect x="1826.5" y="8004.5" width="89.5" height="32" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1831.5 8011.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.598" y="15">Event</tspan>
+        </text>
+      </g>
+      <g id="Graphic_465">
+        <path d="M 1734.0577 8018.526 L 1737.5 8020.5 L 1734.0577 8022.474 L 1737.0408 8025.09 L 1733.3 8026.375 L 1735.7098 8029.496 L 1731.7857 8030.001 L 1733.53 8033.535 L 1729.5824 8033.306 L 1730.6154 8037.115 L 1726.7826 8036.105 L 1727.035 8040.053 L 1723.501 8038.309 L 1722.9732 8042.21 L 1719.852 8039.823 L 1718.567 8043.541 L 1715.9735 8040.558 L 1714 8044 L 1712.0034 8040.558 L 1709.41 8043.541 L 1708.148 8039.823 L 1705.0037 8042.21 L 1704.476 8038.309 L 1700.942 8040.053 L 1701.1944 8036.105 L 1697.362 8037.115 L 1698.3946 8033.306 L 1694.447 8033.535 L 1696.1912 8030.001 L 1692.2672 8029.496 L 1694.6769 8026.375 L 1690.9362 8025.09 L 1693.9192 8022.474 L 1690.5 8020.5 L 1693.9192 8018.526 L 1690.9362 8015.91 L 1694.6769 8014.625 L 1692.2672 8011.504 L 1696.1912 8010.999 L 1694.447 8007.465 L 1698.3946 8007.694 L 1697.362 8003.885 L 1701.1944 8004.895 L 1700.942 8000.947 L 1704.476 8002.691 L 1705.0037 7998.79 L 1708.148 8001.177 L 1709.41 7997.459 L 1712.0034 8000.397 L 1713.977 7997 L 1715.9735 8000.397 L 1718.567 7997.459 L 1719.852 8001.177 L 1722.9732 7998.79 L 1723.501 8002.691 L 1727.035 8000.947 L 1726.7826 8004.895 L 1730.6154 8003.885 L 1729.5824 8007.694 L 1733.53 8007.465 L 1731.7857 8010.999 L 1735.7098 8011.504 L 1733.3 8014.625 L 1737.0408 8015.91 L 1734.0577 8018.526 Z" fill="white"/>
+        <path d="M 1734.0577 8018.526 L 1737.5 8020.5 L 1734.0577 8022.474 L 1737.0408 8025.09 L 1733.3 8026.375 L 1735.7098 8029.496 L 1731.7857 8030.001 L 1733.53 8033.535 L 1729.5824 8033.306 L 1730.6154 8037.115 L 1726.7826 8036.105 L 1727.035 8040.053 L 1723.501 8038.309 L 1722.9732 8042.21 L 1719.852 8039.823 L 1718.567 8043.541 L 1715.9735 8040.558 L 1714 8044 L 1712.0034 8040.558 L 1709.41 8043.541 L 1708.148 8039.823 L 1705.0037 8042.21 L 1704.476 8038.309 L 1700.942 8040.053 L 1701.1944 8036.105 L 1697.362 8037.115 L 1698.3946 8033.306 L 1694.447 8033.535 L 1696.1912 8030.001 L 1692.2672 8029.496 L 1694.6769 8026.375 L 1690.9362 8025.09 L 1693.9192 8022.474 L 1690.5 8020.5 L 1693.9192 8018.526 L 1690.9362 8015.91 L 1694.6769 8014.625 L 1692.2672 8011.504 L 1696.1912 8010.999 L 1694.447 8007.465 L 1698.3946 8007.694 L 1697.362 8003.885 L 1701.1944 8004.895 L 1700.942 8000.947 L 1704.476 8002.691 L 1705.0037 7998.79 L 1708.148 8001.177 L 1709.41 7997.459 L 1712.0034 8000.397 L 1713.977 7997 L 1715.9735 8000.397 L 1718.567 7997.459 L 1719.852 8001.177 L 1722.9732 7998.79 L 1723.501 8002.691 L 1727.035 8000.947 L 1726.7826 8004.895 L 1730.6154 8003.885 L 1729.5824 8007.694 L 1733.53 8007.465 L 1731.7857 8010.999 L 1735.7098 8011.504 L 1733.3 8014.625 L 1737.0408 8015.91 L 1734.0577 8018.526 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_466">
+        <line x1="1655" y1="8020.5" x2="1680.6" y2="8020.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_467">
+        <line x1="1737.5" y1="8020.5" x2="1816.6" y2="8020.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_468">
+        <path d="M 1843.25 8161.3 L 1843.25 8123.7 C 1843.25 8121.106 1855.794 8119 1871.25 8119 C 1886.706 8119 1899.25 8121.106 1899.25 8123.7 L 1899.25 8161.3 C 1899.25 8163.894 1886.706 8166 1871.25 8166 C 1855.794 8166 1843.25 8163.894 1843.25 8161.3" fill="white"/>
+        <path d="M 1843.25 8161.3 L 1843.25 8123.7 C 1843.25 8121.106 1855.794 8119 1871.25 8119 C 1886.706 8119 1899.25 8121.106 1899.25 8123.7 L 1899.25 8161.3 C 1899.25 8163.894 1886.706 8166 1871.25 8166 C 1855.794 8166 1843.25 8163.894 1843.25 8161.3 M 1843.25 8123.7 C 1843.25 8126.294 1855.794 8128.4 1871.25 8128.4 C 1886.706 8128.4 1899.25 8126.294 1899.25 8123.7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1848.25 8135.626)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.184" y="15">State</tspan>
+        </text>
+      </g>
+      <g id="Line_469">
+        <line x1="1837.119" y1="8116.02" x2="1730.5803" y2="8033.364" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_470">
+        <path d="M 2033.0577 8018.526 L 2036.5 8020.5 L 2033.0577 8022.474 L 2036.0408 8025.09 L 2032.3 8026.375 L 2034.7098 8029.496 L 2030.7857 8030.001 L 2032.53 8033.535 L 2028.5824 8033.306 L 2029.6154 8037.115 L 2025.7826 8036.105 L 2026.035 8040.053 L 2022.501 8038.309 L 2021.9732 8042.21 L 2018.852 8039.823 L 2017.567 8043.541 L 2014.9735 8040.558 L 2013 8044 L 2011.0034 8040.558 L 2008.41 8043.541 L 2007.148 8039.823 L 2004.0037 8042.21 L 2003.476 8038.309 L 1999.942 8040.053 L 2000.1944 8036.105 L 1996.362 8037.115 L 1997.3946 8033.306 L 1993.447 8033.535 L 1995.1912 8030.001 L 1991.2672 8029.496 L 1993.677 8026.375 L 1989.9362 8025.09 L 1992.9192 8022.474 L 1989.5 8020.5 L 1992.9192 8018.526 L 1989.9362 8015.91 L 1993.677 8014.625 L 1991.2672 8011.504 L 1995.1912 8010.999 L 1993.447 8007.465 L 1997.3946 8007.694 L 1996.362 8003.885 L 2000.1944 8004.895 L 1999.942 8000.947 L 2003.476 8002.691 L 2004.0037 7998.79 L 2007.148 8001.177 L 2008.41 7997.459 L 2011.0034 8000.397 L 2012.977 7997 L 2014.9735 8000.397 L 2017.567 7997.459 L 2018.852 8001.177 L 2021.9732 7998.79 L 2022.501 8002.691 L 2026.035 8000.947 L 2025.7826 8004.895 L 2029.6154 8003.885 L 2028.5824 8007.694 L 2032.53 8007.465 L 2030.7857 8010.999 L 2034.7098 8011.504 L 2032.3 8014.625 L 2036.0408 8015.91 L 2033.0577 8018.526 Z" fill="white"/>
+        <path d="M 2033.0577 8018.526 L 2036.5 8020.5 L 2033.0577 8022.474 L 2036.0408 8025.09 L 2032.3 8026.375 L 2034.7098 8029.496 L 2030.7857 8030.001 L 2032.53 8033.535 L 2028.5824 8033.306 L 2029.6154 8037.115 L 2025.7826 8036.105 L 2026.035 8040.053 L 2022.501 8038.309 L 2021.9732 8042.21 L 2018.852 8039.823 L 2017.567 8043.541 L 2014.9735 8040.558 L 2013 8044 L 2011.0034 8040.558 L 2008.41 8043.541 L 2007.148 8039.823 L 2004.0037 8042.21 L 2003.476 8038.309 L 1999.942 8040.053 L 2000.1944 8036.105 L 1996.362 8037.115 L 1997.3946 8033.306 L 1993.447 8033.535 L 1995.1912 8030.001 L 1991.2672 8029.496 L 1993.677 8026.375 L 1989.9362 8025.09 L 1992.9192 8022.474 L 1989.5 8020.5 L 1992.9192 8018.526 L 1989.9362 8015.91 L 1993.677 8014.625 L 1991.2672 8011.504 L 1995.1912 8010.999 L 1993.447 8007.465 L 1997.3946 8007.694 L 1996.362 8003.885 L 2000.1944 8004.895 L 1999.942 8000.947 L 2003.476 8002.691 L 2004.0037 7998.79 L 2007.148 8001.177 L 2008.41 7997.459 L 2011.0034 8000.397 L 2012.977 7997 L 2014.9735 8000.397 L 2017.567 7997.459 L 2018.852 8001.177 L 2021.9732 7998.79 L 2022.501 8002.691 L 2026.035 8000.947 L 2025.7826 8004.895 L 2029.6154 8003.885 L 2028.5824 8007.694 L 2032.53 8007.465 L 2030.7857 8010.999 L 2034.7098 8011.504 L 2032.3 8014.625 L 2036.0408 8015.91 L 2033.0577 8018.526 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_471">
+        <line x1="1916" y1="8020.5" x2="1979.6" y2="8020.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_472">
+        <line x1="1997.1735" y1="8034.121" x2="1903.2446" y2="8114.963" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_473">
+        <rect x="1930.4385" y="8061.888" width="40.672" height="24.335999" fill="white"/>
+        <text transform="translate(1935.4385 8066.888)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Apply</tspan>
+        </text>
+      </g>
+      <g id="Graphic_474">
+        <rect x="1753.494" y="8008.332" width="52.228" height="24.335999" fill="white"/>
+        <text transform="translate(1758.494 8013.332)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Validate</tspan>
+        </text>
+      </g>
+      <g id="Graphic_476">
+        <text transform="translate(1691.104 7967)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="8.784" y="11">State</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="6394885e-19" y="25.336">Machine</tspan>
+        </text>
+      </g>
+      <g id="Graphic_477">
+        <text transform="translate(1990.104 7967)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="8.784" y="11">State</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="6394885e-19" y="25.336">Machine</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1223">
+        <rect x="1771.5174" y="8067.784" width="38.224" height="24.335999" fill="white"/>
+        <text transform="translate(1776.5174 8072.784)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Read</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

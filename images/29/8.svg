@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2213.044 7885.7 273 175" width="273" height="175">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="13_stock" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>13.stock</title>
+    <g id="13_stock_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_366">
+        <rect x="2213.544" y="7886.2" width="272" height="174" fill="white"/>
+        <path d="M 2213.544 7886.2 L 2485.544 7886.2 L 2485.544 8060.2 L 2213.544 8060.2 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_359">
+        <rect x="2225.8" y="8016" width="117.2" height="30.5" fill="white"/>
+        <rect x="2225.8" y="8016" width="117.2" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2230.8 8022.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.336002" y="15">FIXT Support</tspan>
+        </text>
+      </g>
+      <g id="Graphic_360">
+        <rect x="2225.8" y="7974" width="117.2" height="30.5" fill="white"/>
+        <rect x="2225.8" y="7974" width="117.2" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2230.8 7980.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="17.440002" y="15">Rate Limit</tspan>
+        </text>
+      </g>
+      <g id="Graphic_361">
+        <rect x="2225.8" y="7932" width="117.2" height="30.5" fill="white"/>
+        <rect x="2225.8" y="7932" width="117.2" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2230.8 7938.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="37.000002" y="15">Auth</tspan>
+        </text>
+      </g>
+      <g id="Graphic_363">
+        <rect x="2355.4" y="7974" width="117.2" height="30.5" fill="white"/>
+        <rect x="2355.4" y="7974" width="117.2" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2360.4 7980.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.4240023" y="15">Normalization</tspan>
+        </text>
+      </g>
+      <g id="Graphic_362">
+        <rect x="2355.4" y="7932" width="117.2" height="30.5" fill="white"/>
+        <rect x="2355.4" y="7932" width="117.2" height="30.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2360.4 7938.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.928002" y="15">Validation</tspan>
+        </text>
+      </g>
+      <g id="Graphic_365">
+        <text transform="translate(2318 7891)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Gateway</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

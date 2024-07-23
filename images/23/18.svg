@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1373 8269.191 530.384 457.948" width="530.384" height="457.948">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 3 L 0 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="07_hotel" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>07.hotel</title>
+    <g id="07_hotel_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_601">
+        <title>Person</title>
+        <path d="M 1390.486 8305.639 C 1394.906 8305.639 1398.486 8302.059 1398.486 8297.639 C 1398.486 8293.219 1394.906 8289.639 1390.486 8289.639 C 1386.066 8289.639 1382.486 8293.219 1382.486 8297.639 C 1382.486 8302.059 1386.066 8305.639 1390.486 8305.639 Z M 1390.486 8309.639 C 1385.146 8309.639 1374.486 8312.319 1374.486 8317.639 L 1374.486 8321.639 L 1406.486 8321.639 L 1406.486 8317.639 C 1406.486 8312.319 1395.826 8309.639 1390.486 8309.639 Z" fill="black"/>
+      </g>
+      <g id="Graphic_599">
+        <rect x="1385.986" y="8360.639" width="9.5" height="366" fill="white"/>
+        <rect x="1385.986" y="8360.639" width="9.5" height="366" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_596">
+        <line x1="1395.486" y1="8412.639" x2="1759.7151" y2="8412.639" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_595">
+        <rect x="1503.6645" y="8398.415" width="179.232" height="28.447998" fill="white"/>
+        <text transform="translate(1508.6645 8403.415)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Manage room inventory</tspan>
+        </text>
+      </g>
+      <g id="Line_591">
+        <line x1="1769.6151" y1="8479.986" x2="1405.386" y2="8479.986" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_586">
+        <line x1="1395.486" y1="8579.117" x2="1759.7151" y2="8579.117" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_585">
+        <rect x="1526.544" y="8564.893" width="109.568" height="28.447998" fill="white"/>
+        <text transform="translate(1531.544 8569.893)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Reserve room</tspan>
+        </text>
+      </g>
+      <g id="Line_581">
+        <line x1="1769.6151" y1="8639.334" x2="1405.386" y2="8639.334" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_576">
+        <line x1="1774.3459" y1="8344.603" x2="1774.0792" y2="8724.961" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_575">
+        <line x1="1391.0284" y1="8317.333" x2="1390.9724" y2="8360.639" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_571">
+        <text transform="translate(1374 8270.191)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7851497e-19" y="15">User</tspan>
+        </text>
+      </g>
+      <g id="Graphic_602">
+        <path d="M 1746.8829 8339.107 L 1746.8829 8295.135 C 1746.8829 8292.101 1759.195 8289.639 1774.3651 8289.639 C 1789.5353 8289.639 1801.8474 8292.101 1801.8474 8295.135 L 1801.8474 8339.107 C 1801.8474 8342.141 1789.5353 8344.603 1774.3651 8344.603 C 1759.195 8344.603 1746.8829 8342.141 1746.8829 8339.107" fill="white"/>
+        <path d="M 1746.8829 8339.107 L 1746.8829 8295.135 C 1746.8829 8292.101 1759.195 8289.639 1774.3651 8289.639 C 1789.5353 8289.639 1801.8474 8292.101 1801.8474 8295.135 L 1801.8474 8339.107 C 1801.8474 8342.141 1789.5353 8344.603 1774.3651 8344.603 C 1759.195 8344.603 1746.8829 8342.141 1746.8829 8339.107 M 1746.8829 8295.135 C 1746.8829 8298.169 1759.195 8300.631 1774.3651 8300.631 C 1789.5353 8300.631 1801.8474 8298.169 1801.8474 8295.135" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_603">
+        <text transform="translate(1740.2851 8270.191)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Database</tspan>
+        </text>
+      </g>
+      <g id="Line_607">
+        <line x1="1785.5" y1="8412.639" x2="1844.4975" y2="8412.639" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_606">
+        <line x1="1785.5" y1="8639.334" x2="1844.4975" y2="8639.334" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_605">
+        <line x1="1815.9117" y1="8422.539" x2="1816.1552" y2="8629.434" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_604">
+        <text transform="translate(1820 8508.038)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.12" y="15">Single</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9094947e-19" y="33.448">Transaction</tspan>
+        </text>
+      </g>
+      <g id="Graphic_598">
+        <rect x="1769.6151" y="8400.139" width="9.5" height="91.5" fill="white"/>
+        <rect x="1769.6151" y="8400.139" width="9.5" height="91.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_597">
+        <rect x="1769.6151" y="8562.639" width="9.5" height="91.5" fill="white"/>
+        <rect x="1769.6151" y="8562.639" width="9.5" height="91.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

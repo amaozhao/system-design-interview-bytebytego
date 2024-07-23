@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1939.5 12283.5 859 297" width="859" height="297">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="04_message_queue" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>04.message queue</title>
+    <g id="04_message_queue_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_698">
+        <rect x="1940" y="12284" width="147" height="63" fill="white"/>
+        <rect x="1940" y="12284" width="147" height="63" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1945 12297.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.332" y="15">Consumer-1</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="38.564" y="33.448">Group-1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_697">
+        <rect x="2088.5" y="12482" width="206" height="98" fill="white"/>
+        <rect x="2088.5" y="12482" width="206" height="98" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2093.5 12512.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-1</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.992" y="33.448">(Coordinator of Group-1)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_696">
+        <rect x="2177" y="12284" width="147" height="63" fill="white"/>
+        <rect x="2177" y="12284" width="147" height="63" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2182 12297.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.332" y="15">Consumer-2</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="38.564" y="33.448">Group-1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_695">
+        <rect x="2414" y="12284" width="147" height="63" fill="white"/>
+        <rect x="2414" y="12284" width="147" height="63" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2419 12297.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.332" y="15">Consumer-3</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="38.564" y="33.448">Group-1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_694">
+        <rect x="2651" y="12284" width="147" height="63" fill="white"/>
+        <rect x="2651" y="12284" width="147" height="63" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2656 12297.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.332" y="15">Consumer-4</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="38.564" y="33.448">Group-2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_693">
+        <rect x="2446.5" y="12482" width="206" height="98" fill="white"/>
+        <rect x="2446.5" y="12482" width="206" height="98" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2451.5 12512.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="67.176" y="15">Broker-2</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.992" y="33.448">(Coordinator of Group-2)</tspan>
+        </text>
+      </g>
+      <g id="Line_692">
+        <line x1="2039.5186" y1="12347" x2="2144.722" y2="12474.367" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_691">
+        <line x1="2241.876" y1="12347" x2="2207.5295" y2="12472.451" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_690">
+        <line x1="2444.2332" y1="12347" x2="2266.8075" y2="12476.173" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_689">
+        <line x1="2698.92" y1="12347" x2="2595.532" y2="12474.315" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

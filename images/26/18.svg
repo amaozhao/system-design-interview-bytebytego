@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="726 8828 815.754 62.974" width="815.754" height="62.974">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="10_gaming_leaderboard" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>10.gaming leaderboard</title>
+    <g id="10_gaming_leaderboard_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_143">
+        <rect x="726.5" y="8828.5" width="111.008" height="61.974" fill="white"/>
+        <rect x="726.5" y="8828.5" width="111.008" height="61.974" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(731.5 8841.039)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.120002" y="15">[1, 100]</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.464002" y="33.448">Sorted set</tspan>
+        </text>
+      </g>
+      <g id="Graphic_144">
+        <rect x="924" y="8828.5" width="111.008" height="61.974" fill="white"/>
+        <rect x="924" y="8828.5" width="111.008" height="61.974" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(929 8841.039)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="15.224002" y="15">[101, 200]</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.464002" y="33.448">Sorted set</tspan>
+        </text>
+      </g>
+      <g id="Graphic_145">
+        <rect x="1121.5" y="8828.5" width="111.008" height="61.974" fill="white"/>
+        <rect x="1121.5" y="8828.5" width="111.008" height="61.974" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1126.5 8841.039)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="15.224002" y="15">[201, 300]</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.464002" y="33.448">Sorted set</tspan>
+        </text>
+      </g>
+      <g id="Graphic_146">
+        <rect x="1430.246" y="8828.5" width="111.008" height="61.974" fill="white"/>
+        <rect x="1430.246" y="8828.5" width="111.008" height="61.974" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1435.246 8841.039)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.776002" y="15">[901, 1000]</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.464002" y="33.448">Sorted set</tspan>
+        </text>
+      </g>
+      <g id="Line_147">
+        <line x1="837.508" y1="8859.487" x2="924" y2="8859.487" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_148">
+        <line x1="1035.008" y1="8859.487" x2="1121.5" y2="8859.487" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_149">
+        <line x1="1232.508" y1="8859.487" x2="1430.246" y2="8859.487" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_151">
+        <rect x="1312.364" y="8845.263" width="42" height="28.447998" fill="white"/>
+        <text transform="translate(1317.364 8850.263)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">……</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

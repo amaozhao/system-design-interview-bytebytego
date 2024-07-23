@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2795.4396 5700.5 968 246.948" width="968" height="246.948">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="07_hotel" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>07.hotel</title>
+    <g id="07_hotel_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_519">
+        <rect x="3308.9396" y="5701" width="454" height="226" fill="white"/>
+        <rect x="3308.9396" y="5701" width="454" height="226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_518">
+        <rect x="2795.9396" y="5701" width="454" height="226" fill="white"/>
+        <rect x="2795.9396" y="5701" width="454" height="226" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_502">
+        <rect x="3327" y="5720.5" width="115.75827" height="47" fill="white"/>
+        <rect x="3327" y="5720.5" width="115.75827" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3332 5725.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.511135" y="15">Reservation </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.367135" y="33.448">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_501">
+        <rect x="3478.0604" y="5720.5" width="115.75827" height="47" fill="white"/>
+        <rect x="3478.0604" y="5720.5" width="115.75827" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3483.0604 5725.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.839135" y="15">Inventory </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.367135" y="33.448">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_500">
+        <rect x="3629.121" y="5720.5" width="115.75827" height="47" fill="white"/>
+        <rect x="3629.121" y="5720.5" width="115.75827" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3634.121 5725.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21.311135" y="15">Payment </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.367135" y="33.448">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_496">
+        <path d="M 3357.397 5879.968 L 3357.397 5835.9965 C 3357.397 5832.9624 3369.709 5830.5 3384.879 5830.5 C 3400.0493 5830.5 3412.3614 5832.9624 3412.3614 5835.9965 L 3412.3614 5879.968 C 3412.3614 5883.002 3400.0493 5885.4645 3384.879 5885.4645 C 3369.709 5885.4645 3357.397 5883.002 3357.397 5879.968" fill="white"/>
+        <path d="M 3357.397 5879.968 L 3357.397 5835.9965 C 3357.397 5832.9624 3369.709 5830.5 3384.879 5830.5 C 3400.0493 5830.5 3412.3614 5832.9624 3412.3614 5835.9965 L 3412.3614 5879.968 C 3412.3614 5883.002 3400.0493 5885.4645 3384.879 5885.4645 C 3369.709 5885.4645 3357.397 5883.002 3357.397 5879.968 M 3357.397 5835.9965 C 3357.397 5839.0305 3369.709 5841.493 3384.879 5841.493 C 3400.0493 5841.493 3412.3614 5839.0305 3412.3614 5835.9965" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_495">
+        <path d="M 3508.4573 5879.968 L 3508.4573 5835.9965 C 3508.4573 5832.9624 3520.7694 5830.5 3535.9396 5830.5 C 3551.1098 5830.5 3563.422 5832.9624 3563.422 5835.9965 L 3563.422 5879.968 C 3563.422 5883.002 3551.1098 5885.4645 3535.9396 5885.4645 C 3520.7694 5885.4645 3508.4573 5883.002 3508.4573 5879.968" fill="white"/>
+        <path d="M 3508.4573 5879.968 L 3508.4573 5835.9965 C 3508.4573 5832.9624 3520.7694 5830.5 3535.9396 5830.5 C 3551.1098 5830.5 3563.422 5832.9624 3563.422 5835.9965 L 3563.422 5879.968 C 3563.422 5883.002 3551.1098 5885.4645 3535.9396 5885.4645 C 3520.7694 5885.4645 3508.4573 5883.002 3508.4573 5879.968 M 3508.4573 5835.9965 C 3508.4573 5839.0305 3520.7694 5841.493 3535.9396 5841.493 C 3551.1098 5841.493 3563.422 5839.0305 3563.422 5835.9965" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_494">
+        <path d="M 3659.5177 5879.968 L 3659.5177 5835.9965 C 3659.5177 5832.9624 3671.83 5830.5 3687 5830.5 C 3702.17 5830.5 3714.4823 5832.9624 3714.4823 5835.9965 L 3714.4823 5879.968 C 3714.4823 5883.002 3702.17 5885.4645 3687 5885.4645 C 3671.83 5885.4645 3659.5177 5883.002 3659.5177 5879.968" fill="white"/>
+        <path d="M 3659.5177 5879.968 L 3659.5177 5835.9965 C 3659.5177 5832.9624 3671.83 5830.5 3687 5830.5 C 3702.17 5830.5 3714.4823 5832.9624 3714.4823 5835.9965 L 3714.4823 5879.968 C 3714.4823 5883.002 3702.17 5885.4645 3687 5885.4645 C 3671.83 5885.4645 3659.5177 5883.002 3659.5177 5879.968 M 3659.5177 5835.9965 C 3659.5177 5839.0305 3671.83 5841.493 3687 5841.493 C 3702.17 5841.493 3714.4823 5839.0305 3714.4823 5835.9965" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_493">
+        <line x1="3384.879" y1="5767.5" x2="3384.879" y2="5820.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_492">
+        <line x1="3535.9396" y1="5767.5" x2="3535.9396" y2="5820.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_491">
+        <line x1="3687" y1="5767.5" x2="3687" y2="5820.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_490">
+        <text transform="translate(3329.175 5886.4645)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Reservation DB</tspan>
+        </text>
+      </g>
+      <g id="Graphic_489">
+        <text transform="translate(3489.5636 5886.4645)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19895197e-20" y="15">Inventory DB</tspan>
+        </text>
+      </g>
+      <g id="Graphic_488">
+        <text transform="translate(3642.096 5886.4645)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="45474735e-20" y="15">Payment DB</tspan>
+        </text>
+      </g>
+      <g id="Graphic_514">
+        <rect x="2814" y="5720.5" width="115.75827" height="47" fill="white"/>
+        <rect x="2814" y="5720.5" width="115.75827" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2819 5725.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.511135" y="15">Reservation </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.367135" y="33.448">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_513">
+        <rect x="2965.0604" y="5720.5" width="115.75827" height="47" fill="white"/>
+        <rect x="2965.0604" y="5720.5" width="115.75827" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2970.0604 5725.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.839135" y="15">Inventory </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.367135" y="33.448">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_512">
+        <rect x="3116.121" y="5720.5" width="115.75827" height="47" fill="white"/>
+        <rect x="3116.121" y="5720.5" width="115.75827" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3121.121 5725.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21.311135" y="15">Payment </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.367135" y="33.448">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_510">
+        <path d="M 2995.4573 5879.968 L 2995.4573 5835.9965 C 2995.4573 5832.9624 3007.7694 5830.5 3022.9396 5830.5 C 3038.1098 5830.5 3050.422 5832.9624 3050.422 5835.9965 L 3050.422 5879.968 C 3050.422 5883.002 3038.1098 5885.4645 3022.9396 5885.4645 C 3007.7694 5885.4645 2995.4573 5883.002 2995.4573 5879.968" fill="white"/>
+        <path d="M 2995.4573 5879.968 L 2995.4573 5835.9965 C 2995.4573 5832.9624 3007.7694 5830.5 3022.9396 5830.5 C 3038.1098 5830.5 3050.422 5832.9624 3050.422 5835.9965 L 3050.422 5879.968 C 3050.422 5883.002 3038.1098 5885.4645 3022.9396 5885.4645 C 3007.7694 5885.4645 2995.4573 5883.002 2995.4573 5879.968 M 2995.4573 5835.9965 C 2995.4573 5839.0305 3007.7694 5841.493 3022.9396 5841.493 C 3038.1098 5841.493 3050.422 5839.0305 3050.422 5835.9965" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_507">
+        <line x1="3022.9396" y1="5767.5" x2="3022.9396" y2="5820.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_504">
+        <text transform="translate(2990.6436 5886.4645)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="27711167e-20" y="15">Hotel DB</tspan>
+        </text>
+      </g>
+      <g id="Line_515">
+        <line x1="2903.0236" y1="5767.5" x2="2987.5546" y2="5831.2826" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_516">
+        <line x1="3142.8555" y1="5767.5" x2="3058.3245" y2="5831.2826" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_520">
+        <text transform="translate(2940.4036 5928)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5684342e-20" y="15">Monolithic Architecture</tspan>
+        </text>
+      </g>
+      <g id="Graphic_521">
+        <text transform="translate(3445.1156 5928)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5258016e-19" y="15">Microservice Architecture</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

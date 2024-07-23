@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2382.5 9151.5 592.948 246.5" width="592.948" height="246.5">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="02_nearby_friends" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>02.nearby friends</title>
+    <g id="02_nearby_friends_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_66">
+        <g id="Graphic_68">
+          <circle cx="2413.25" cy="9274.75" r="30.2500483365332" fill="white"/>
+          <circle cx="2413.25" cy="9274.75" r="30.2500483365332" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_67">
+          <title>Phone iPhone</title>
+          <path d="M 2421.25 9252.25 L 2405.25 9252.25 C 2402.49 9252.25 2400.25 9254.49 2400.25 9257.25 L 2400.25 9291.25 C 2400.25 9294.01 2402.49 9296.25 2405.25 9296.25 L 2421.25 9296.25 C 2424.01 9296.25 2426.25 9294.01 2426.25 9291.25 L 2426.25 9257.25 C 2426.25 9254.49 2424.01 9252.25 2421.25 9252.25 Z M 2413.25 9294.25 C 2411.59 9294.25 2410.25 9292.91 2410.25 9291.25 C 2410.25 9289.59 2411.59 9288.25 2413.25 9288.25 C 2414.91 9288.25 2416.25 9289.59 2416.25 9291.25 C 2416.25 9292.91 2414.91 9294.25 2413.25 9294.25 Z M 2422.25 9286.25 L 2404.25 9286.25 L 2404.25 9258.25 L 2422.25 9258.25 L 2422.25 9286.25 Z" fill="black"/>
+        </g>
+      </g>
+      <g id="Graphic_69">
+        <path d="M 2597.0405 9279.584 C 2576.0703 9274.75 2584.4327 9234.056 2617.885 9241 C 2620.9885 9227.465 2659.8888 9229.662 2659.6345 9241 C 2684.0262 9226.498 2715.1973 9255.414 2694.2894 9269.916 C 2719.378 9276.947 2693.973 9314.828 2673.3828 9308.5 C 2671.735 9319.047 2634.9262 9322.738 2631.6954 9308.5 C 2610.8524 9323.706 2567.3913 9300.326 2597.0405 9279.584 Z" fill="white"/>
+        <path d="M 2597.0405 9279.584 C 2576.0703 9274.75 2584.4327 9234.056 2617.885 9241 C 2620.9885 9227.465 2659.8888 9229.662 2659.6345 9241 C 2684.0262 9226.498 2715.1973 9255.414 2694.2894 9269.916 C 2719.378 9276.947 2693.973 9314.828 2673.3828 9308.5 C 2671.735 9319.047 2634.9262 9322.738 2631.6954 9308.5 C 2610.8524 9323.706 2567.3913 9300.326 2597.0405 9279.584 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2604.5875 9265.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.700498" y="15">Backend</tspan>
+        </text>
+      </g>
+      <g id="Group_70">
+        <g id="Graphic_72">
+          <circle cx="2876.75" cy="9182.25" r="30.250048336533" fill="white"/>
+          <circle cx="2876.75" cy="9182.25" r="30.250048336533" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_71">
+          <title>Phone iPhone</title>
+          <path d="M 2884.75 9159.75 L 2868.75 9159.75 C 2865.99 9159.75 2863.75 9161.99 2863.75 9164.75 L 2863.75 9198.75 C 2863.75 9201.51 2865.99 9203.75 2868.75 9203.75 L 2884.75 9203.75 C 2887.51 9203.75 2889.75 9201.51 2889.75 9198.75 L 2889.75 9164.75 C 2889.75 9161.99 2887.51 9159.75 2884.75 9159.75 Z M 2876.75 9201.75 C 2875.09 9201.75 2873.75 9200.41 2873.75 9198.75 C 2873.75 9197.09 2875.09 9195.75 2876.75 9195.75 C 2878.41 9195.75 2879.75 9197.09 2879.75 9198.75 C 2879.75 9200.41 2878.41 9201.75 2876.75 9201.75 Z M 2885.75 9193.75 L 2867.75 9193.75 L 2867.75 9165.75 L 2885.75 9165.75 L 2885.75 9193.75 Z" fill="black"/>
+        </g>
+      </g>
+      <g id="Group_73">
+        <g id="Graphic_75">
+          <circle cx="2876.75" cy="9274.75" r="30.2500483365333" fill="white"/>
+          <circle cx="2876.75" cy="9274.75" r="30.2500483365333" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_74">
+          <title>Phone iPhone</title>
+          <path d="M 2884.75 9252.25 L 2868.75 9252.25 C 2865.99 9252.25 2863.75 9254.49 2863.75 9257.25 L 2863.75 9291.25 C 2863.75 9294.01 2865.99 9296.25 2868.75 9296.25 L 2884.75 9296.25 C 2887.51 9296.25 2889.75 9294.01 2889.75 9291.25 L 2889.75 9257.25 C 2889.75 9254.49 2887.51 9252.25 2884.75 9252.25 Z M 2876.75 9294.25 C 2875.09 9294.25 2873.75 9292.91 2873.75 9291.25 C 2873.75 9289.59 2875.09 9288.25 2876.75 9288.25 C 2878.41 9288.25 2879.75 9289.59 2879.75 9291.25 C 2879.75 9292.91 2878.41 9294.25 2876.75 9294.25 Z M 2885.75 9286.25 L 2867.75 9286.25 L 2867.75 9258.25 L 2885.75 9258.25 L 2885.75 9286.25 Z" fill="black"/>
+        </g>
+      </g>
+      <g id="Group_76">
+        <g id="Graphic_78">
+          <circle cx="2876.75" cy="9367.25" r="30.2500483365333" fill="white"/>
+          <circle cx="2876.75" cy="9367.25" r="30.2500483365333" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_77">
+          <title>Phone iPhone</title>
+          <path d="M 2884.75 9344.75 L 2868.75 9344.75 C 2865.99 9344.75 2863.75 9346.99 2863.75 9349.75 L 2863.75 9383.75 C 2863.75 9386.51 2865.99 9388.75 2868.75 9388.75 L 2884.75 9388.75 C 2887.51 9388.75 2889.75 9386.51 2889.75 9383.75 L 2889.75 9349.75 C 2889.75 9346.99 2887.51 9344.75 2884.75 9344.75 Z M 2876.75 9386.75 C 2875.09 9386.75 2873.75 9385.41 2873.75 9383.75 C 2873.75 9382.09 2875.09 9380.75 2876.75 9380.75 C 2878.41 9380.75 2879.75 9382.09 2879.75 9383.75 C 2879.75 9385.41 2878.41 9386.75 2876.75 9386.75 Z M 2885.75 9378.75 L 2867.75 9378.75 L 2867.75 9350.75 L 2885.75 9350.75 L 2885.75 9378.75 Z" fill="black"/>
+        </g>
+      </g>
+      <g id="Line_79">
+        <line x1="2443.5" y1="9274.75" x2="2579.227" y2="9274.75" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_80">
+        <line x1="2700.0313" y1="9252.785" x2="2839.4534" y2="9197.136" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_81">
+        <line x1="2702.2334" y1="9274.75" x2="2836.6" y2="9274.75" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_82">
+        <line x1="2699.461" y1="9296.487" x2="2839.4534" y2="9352.364" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_83">
+        <text transform="translate(2396.514 9306)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7851497e-19" y="15">User</tspan>
+        </text>
+      </g>
+      <g id="Graphic_84">
+        <text transform="translate(2914 9173.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Friend A</tspan>
+        </text>
+      </g>
+      <g id="Graphic_85">
+        <text transform="translate(2913.704 9265.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="15987212e-20" y="15">Friend B</tspan>
+        </text>
+      </g>
+      <g id="Graphic_86">
+        <text transform="translate(2913.408 9358.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4369838e-19" y="15">Friend C</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="4696.5 12973.4 991.5 100.5" width="991.5" height="100.5">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="06_ads_aggregation" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>06.ads aggregation</title>
+    <g id="06_ads_aggregation_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_14">
+        <rect x="5293" y="12973.9" width="394.5" height="99.5" fill="white"/>
+        <path d="M 5293 12973.9 L 5687.5 12973.9 L 5687.5 13073.4 L 5293 13073.4 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_13">
+        <text transform="translate(5447.13 12974.9)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7958079e-19" y="15">Supply Side</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <rect x="4697" y="12973.9" width="386" height="99.5" fill="white"/>
+        <path d="M 4697 12973.9 L 5083 12973.9 L 5083 13073.4 L 4697 13073.4 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2">
+        <rect x="4711.5" y="13014.9" width="107" height="44" fill="white"/>
+        <rect x="4711.5" y="13014.9" width="107" height="44" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(4716.5 13027.676)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.356" y="15">Advertiser</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <rect x="4874" y="13014.9" width="195" height="44" fill="white"/>
+        <rect x="4874" y="13014.9" width="195" height="44" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(4879 13018.452)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="76.5" y="15">DSP</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.444" y="33.448">(Demand Side Platform)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <rect x="5123.5" y="13014.9" width="129" height="44" fill="white"/>
+        <rect x="5123.5" y="13014.9" width="129" height="44" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5128.5 13027.676)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11.94" y="15">Ad Exchange</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <rect x="5305" y="13014.9" width="195" height="44" fill="white"/>
+        <rect x="5305" y="13014.9" width="195" height="44" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5310 13018.452)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="76.948" y="15">SSP</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.788" y="33.448">(Supply Side Platform)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <rect x="5565.5" y="13014.9" width="107" height="44" fill="white"/>
+        <rect x="5565.5" y="13014.9" width="107" height="44" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5570.5 13027.676)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="15.164" y="15">Publisher</tspan>
+        </text>
+      </g>
+      <g id="Line_7">
+        <line x1="4818.5" y1="13036.9" x2="4864.1" y2="13036.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_8">
+        <line x1="5069" y1="13036.9" x2="5113.6" y2="13036.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_9">
+        <line x1="5565.5" y1="13036.9" x2="5509.9" y2="13036.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_10">
+        <line x1="5305" y1="13036.9" x2="5262.4" y2="13036.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(4841.536 12974.9)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Demand Side</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

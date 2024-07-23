@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="14.822 8163.5 637.508 494.84186" width="637.508" height="494.84186">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica" font-size="16" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="09_s3" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>09.s3</title>
+    <g id="09_s3_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_5111">
+        <rect x="15.322" y="8164" width="239.678" height="29" fill="white"/>
+        <rect x="15.322" y="8164" width="239.678" height="29" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5031">
+        <rect x="15.322" y="8510.948" width="452" height="124.224" fill="white"/>
+        <rect x="15.322" y="8510.948" width="452" height="124.224" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5030">
+        <rect x="15.322" y="8361.698" width="452" height="124.224" fill="white"/>
+        <rect x="15.322" y="8361.698" width="452" height="124.224" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5029">
+        <rect x="15.322" y="8212.448" width="452" height="124.224" fill="white"/>
+        <rect x="15.322" y="8212.448" width="452" height="124.224" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5028">
+        <line x1="271.86254" y1="8204.948" x2="271.86254" y2="8658.092" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width=".5"/>
+      </g>
+      <g id="Line_5027">
+        <line x1="362.70038" y1="8204.948" x2="362.70038" y2="8658.092" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width=".5"/>
+      </g>
+      <g id="Line_5026">
+        <line x1="392.7409" y1="8204.948" x2="392.7409" y2="8658.092" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width=".5"/>
+      </g>
+      <g id="Line_5025">
+        <line x1="228.31692" y1="8204.948" x2="228.31692" y2="8647.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_4475">
+        <text transform="translate(61.498 8249.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Primary data node</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4474">
+        <text transform="translate(25.929996 8281.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Secondary data node 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4473">
+        <text transform="translate(25.929996 8313.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Secondary data node 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4472">
+        <text transform="translate(47.642 8218.724)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Data routing service</tspan>
+        </text>
+      </g>
+      <g id="Line_4471">
+        <line x1="211.322" y1="8227.448" x2="445.922" y2="8227.448" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4470">
+        <circle cx="228.322" cy="8227.948" r="3.50000559265619" fill="white"/>
+        <circle cx="228.322" cy="8227.948" r="3.50000559265619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4469">
+        <line x1="211.322" y1="8258.672" x2="445.922" y2="8258.672" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4468">
+        <line x1="211.322" y1="8290.672" x2="445.922" y2="8290.672" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4467">
+        <line x1="211.322" y1="8322.672" x2="445.922" y2="8322.672" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4466">
+        <circle cx="242.952" cy="8259.172" r="3.50000559265595" fill="white"/>
+        <circle cx="242.952" cy="8259.172" r="3.50000559265595" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4465">
+        <circle cx="309.322" cy="8290.396" r="3.50000559265594" fill="white"/>
+        <circle cx="309.322" cy="8290.396" r="3.50000559265594" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4464">
+        <path d="M 311.79687 8320.697 C 313.1637 8322.064 313.1637 8324.28 311.79687 8325.647 C 310.43004 8327.014 308.21396 8327.014 306.84713 8325.647 C 305.4803 8324.28 305.4803 8322.064 306.84713 8320.697 C 308.21396 8319.33 310.43004 8319.33 311.79687 8320.697" fill="white"/>
+        <path d="M 311.79687 8320.697 C 313.1637 8322.064 313.1637 8324.28 311.79687 8325.647 C 310.43004 8327.014 308.21396 8327.014 306.84713 8325.647 C 305.4803 8324.28 305.4803 8322.064 306.84713 8320.697 C 308.21396 8319.33 310.43004 8319.33 311.79687 8320.697" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4463">
+        <line x1="229.8074" y1="8231.118" x2="237.26617" y2="8247.037" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4462">
+        <line x1="274.51186" y1="8261.412" x2="299.02415" y2="8281.822" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4461">
+        <line x1="273.59184" y1="8262.193" x2="302.54725" y2="8311.61" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4460">
+        <circle cx="333.822" cy="8290.396" r="3.50000559265594" fill="white"/>
+        <circle cx="333.822" cy="8290.396" r="3.50000559265594" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4459">
+        <path d="M 373.29687 8320.697 C 374.6637 8322.064 374.6637 8324.28 373.29687 8325.647 C 371.93004 8327.014 369.71396 8327.014 368.34713 8325.647 C 366.9803 8324.28 366.9803 8322.064 368.34713 8320.697 C 369.71396 8319.33 371.93004 8319.33 373.29687 8320.697" fill="white"/>
+        <path d="M 373.29687 8320.697 C 374.6637 8322.064 374.6637 8324.28 373.29687 8325.647 C 371.93004 8327.014 369.71396 8327.014 368.34713 8325.647 C 366.9803 8324.28 366.9803 8322.064 368.34713 8320.697 C 369.71396 8319.33 371.93004 8319.33 373.29687 8320.697" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4458">
+        <circle cx="362.322" cy="8259.56" r="3.50000559265594" fill="white"/>
+        <circle cx="362.322" cy="8259.56" r="3.50000559265594" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4457">
+        <circle cx="426.822" cy="8227.948" r="3.50000559265619" fill="white"/>
+        <circle cx="426.822" cy="8227.948" r="3.50000559265619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4456">
+        <line x1="312.822" y1="8290.396" x2="320.422" y2="8290.396" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4455">
+        <line x1="312.822" y1="8323.172" x2="357.422" y2="8323.172" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4454">
+        <line x1="336.19763" y1="8287.826" x2="353.2268" y2="8269.401" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4453">
+        <circle cx="392.822" cy="8259.56" r="3.50000559265594" fill="white"/>
+        <circle cx="392.822" cy="8259.56" r="3.50000559265594" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4452">
+        <line x1="395.3853" y1="8257.177" x2="417.0084" y2="8237.072" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4451">
+        <line x1="371.96624" y1="8319.863" x2="388.44193" y2="8272.225" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4450">
+        <circle cx="271.822" cy="8259.172" r="3.50000559265594" fill="white"/>
+        <circle cx="271.822" cy="8259.172" r="3.50000559265594" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4449">
+        <line x1="246.452" y1="8259.172" x2="258.422" y2="8259.172" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4448">
+        <text transform="translate(61.498 8396.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Primary data node</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4447">
+        <text transform="translate(25.929996 8428.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Secondary data node 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4446">
+        <text transform="translate(25.929996 8460.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Secondary data node 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4445">
+        <text transform="translate(47.642 8364.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Data routing service</tspan>
+        </text>
+      </g>
+      <g id="Line_4444">
+        <line x1="211.322" y1="8373" x2="445.922" y2="8373" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4443">
+        <path d="M 230.79687 8371.025 C 232.1637 8372.392 232.1637 8374.608 230.79687 8375.975 C 229.43004 8377.342 227.21396 8377.342 225.84713 8375.975 C 224.4803 8374.608 224.4803 8372.392 225.84713 8371.025 C 227.21396 8369.658 229.43004 8369.658 230.79687 8371.025" fill="white"/>
+        <path d="M 230.79687 8371.025 C 232.1637 8372.392 232.1637 8374.608 230.79687 8375.975 C 229.43004 8377.342 227.21396 8377.342 225.84713 8375.975 C 224.4803 8374.608 224.4803 8372.392 225.84713 8371.025 C 227.21396 8369.658 229.43004 8369.658 230.79687 8371.025" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4442">
+        <line x1="211.322" y1="8404.224" x2="445.922" y2="8404.224" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4441">
+        <line x1="211.322" y1="8436.224" x2="445.922" y2="8436.224" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4440">
+        <line x1="211.322" y1="8468.224" x2="445.922" y2="8468.224" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4439">
+        <circle cx="242.952" cy="8404.724" r="3.50000559265619" fill="white"/>
+        <circle cx="242.952" cy="8404.724" r="3.50000559265619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4438">
+        <circle cx="309.322" cy="8435.948" r="3.5000055926563" fill="white"/>
+        <circle cx="309.322" cy="8435.948" r="3.5000055926563" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4437">
+        <path d="M 311.79687 8466.249 C 313.1637 8467.616 313.1637 8469.832 311.79687 8471.199 C 310.43004 8472.566 308.21396 8472.566 306.84713 8471.199 C 305.4803 8469.832 305.4803 8467.616 306.84713 8466.249 C 308.21396 8464.882 310.43004 8464.882 311.79687 8466.249" fill="white"/>
+        <path d="M 311.79687 8466.249 C 313.1637 8467.616 313.1637 8469.832 311.79687 8471.199 C 310.43004 8472.566 308.21396 8472.566 306.84713 8471.199 C 305.4803 8469.832 305.4803 8467.616 306.84713 8466.249 C 308.21396 8464.882 310.43004 8464.882 311.79687 8466.249" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4436">
+        <line x1="229.8074" y1="8376.67" x2="237.26617" y2="8392.589" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4435">
+        <line x1="274.51186" y1="8406.964" x2="299.02415" y2="8427.374" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4434">
+        <line x1="273.59184" y1="8407.745" x2="302.54725" y2="8457.162" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4433">
+        <circle cx="333.822" cy="8435.948" r="3.5000055926563" fill="white"/>
+        <circle cx="333.822" cy="8435.948" r="3.5000055926563" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4432">
+        <path d="M 373.29687 8466.249 C 374.6637 8467.616 374.6637 8469.832 373.29687 8471.199 C 371.93004 8472.566 369.71396 8472.566 368.34713 8471.199 C 366.9803 8469.832 366.9803 8467.616 368.34713 8466.249 C 369.71396 8464.882 371.93004 8464.882 373.29687 8466.249" fill="white"/>
+        <path d="M 373.29687 8466.249 C 374.6637 8467.616 374.6637 8469.832 373.29687 8471.199 C 371.93004 8472.566 369.71396 8472.566 368.34713 8471.199 C 366.9803 8469.832 366.9803 8467.616 368.34713 8466.249 C 369.71396 8464.882 371.93004 8464.882 373.29687 8466.249" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4431">
+        <circle cx="362.322" cy="8405.112" r="3.50000559265642" fill="white"/>
+        <circle cx="362.322" cy="8405.112" r="3.50000559265642" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4430">
+        <path d="M 384.79687 8371.025 C 386.1637 8372.392 386.1637 8374.608 384.79687 8375.975 C 383.43004 8377.342 381.21396 8377.342 379.84713 8375.975 C 378.4803 8374.608 378.4803 8372.392 379.84713 8371.025 C 381.21396 8369.658 383.43004 8369.658 384.79687 8371.025" fill="white"/>
+        <path d="M 384.79687 8371.025 C 386.1637 8372.392 386.1637 8374.608 384.79687 8375.975 C 383.43004 8377.342 381.21396 8377.342 379.84713 8375.975 C 378.4803 8374.608 378.4803 8372.392 379.84713 8371.025 C 381.21396 8369.658 383.43004 8369.658 384.79687 8371.025" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4429">
+        <line x1="312.822" y1="8435.948" x2="320.422" y2="8435.948" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4428">
+        <line x1="312.822" y1="8468.724" x2="357.422" y2="8468.724" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4427">
+        <line x1="336.19763" y1="8433.378" x2="353.2268" y2="8414.953" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4426">
+        <circle cx="392.822" cy="8405.112" r="3.50000559265643" fill="white"/>
+        <circle cx="392.822" cy="8405.112" r="3.50000559265643" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4425">
+        <line x1="371.96624" y1="8465.415" x2="388.44193" y2="8417.777" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4424">
+        <circle cx="271.822" cy="8404.724" r="3.50000559265618" fill="white"/>
+        <circle cx="271.822" cy="8404.724" r="3.50000559265618" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4423">
+        <line x1="246.452" y1="8404.724" x2="258.422" y2="8404.724" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4422">
+        <text transform="translate(58.89 8546.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Primary data node</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4421">
+        <text transform="translate(23.321996 8578.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Secondary data node 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4420">
+        <text transform="translate(23.321996 8610.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Secondary data node 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4419">
+        <text transform="translate(47.642 8515.224)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Data routing service</tspan>
+        </text>
+      </g>
+      <g id="Line_4418">
+        <line x1="211.322" y1="8525.224" x2="445.922" y2="8525.224" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4417">
+        <path d="M 230.79687 8523.249 C 232.1637 8524.616 232.1637 8526.832 230.79687 8528.199 C 229.43004 8529.566 227.21396 8529.566 225.84713 8528.199 C 224.4803 8526.832 224.4803 8524.616 225.84713 8523.249 C 227.21396 8521.882 229.43004 8521.882 230.79687 8523.249" fill="white"/>
+        <path d="M 230.79687 8523.249 C 232.1637 8524.616 232.1637 8526.832 230.79687 8528.199 C 229.43004 8529.566 227.21396 8529.566 225.84713 8528.199 C 224.4803 8526.832 224.4803 8524.616 225.84713 8523.249 C 227.21396 8521.882 229.43004 8521.882 230.79687 8523.249" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4416">
+        <line x1="211.322" y1="8556.448" x2="445.922" y2="8556.448" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4415">
+        <line x1="211.322" y1="8588.448" x2="445.922" y2="8588.448" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4414">
+        <line x1="211.322" y1="8620.448" x2="445.922" y2="8620.448" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4413">
+        <path d="M 245.42687 8554.473 C 246.7937 8555.84 246.7937 8558.056 245.42687 8559.423 C 244.06004 8560.79 241.84396 8560.79 240.47713 8559.423 C 239.1103 8558.056 239.1103 8555.84 240.47713 8554.473 C 241.84396 8553.106 244.06004 8553.106 245.42687 8554.473" fill="white"/>
+        <path d="M 245.42687 8554.473 C 246.7937 8555.84 246.7937 8558.056 245.42687 8559.423 C 244.06004 8560.79 241.84396 8560.79 240.47713 8559.423 C 239.1103 8558.056 239.1103 8555.84 240.47713 8554.473 C 241.84396 8553.106 244.06004 8553.106 245.42687 8554.473" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4412">
+        <circle cx="309.322" cy="8588.172" r="3.5000055926563" fill="white"/>
+        <circle cx="309.322" cy="8588.172" r="3.5000055926563" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4411">
+        <path d="M 311.79687 8618.473 C 313.1637 8619.84 313.1637 8622.056 311.79687 8623.423 C 310.43004 8624.79 308.21396 8624.79 306.84713 8623.423 C 305.4803 8622.056 305.4803 8619.84 306.84713 8618.473 C 308.21396 8617.106 310.43004 8617.106 311.79687 8618.473" fill="white"/>
+        <path d="M 311.79687 8618.473 C 313.1637 8619.84 313.1637 8622.056 311.79687 8623.423 C 310.43004 8624.79 308.21396 8624.79 306.84713 8623.423 C 305.4803 8622.056 305.4803 8619.84 306.84713 8618.473 C 308.21396 8617.106 310.43004 8617.106 311.79687 8618.473" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4410">
+        <line x1="229.8074" y1="8528.894" x2="237.26617" y2="8544.813" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4409">
+        <line x1="274.51186" y1="8559.188" x2="299.02415" y2="8579.598" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4408">
+        <line x1="273.59184" y1="8559.969" x2="302.54725" y2="8609.386" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4407">
+        <circle cx="333.822" cy="8588.172" r="3.5000055926563" fill="white"/>
+        <circle cx="333.822" cy="8588.172" r="3.5000055926563" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4406">
+        <path d="M 373.29687 8618.473 C 374.6637 8619.84 374.6637 8622.056 373.29687 8623.423 C 371.93004 8624.79 369.71396 8624.79 368.34713 8623.423 C 366.9803 8622.056 366.9803 8619.84 368.34713 8618.473 C 369.71396 8617.106 371.93004 8617.106 373.29687 8618.473" fill="white"/>
+        <path d="M 373.29687 8618.473 C 374.6637 8619.84 374.6637 8622.056 373.29687 8623.423 C 371.93004 8624.79 369.71396 8624.79 368.34713 8623.423 C 366.9803 8622.056 366.9803 8619.84 368.34713 8618.473 C 369.71396 8617.106 371.93004 8617.106 373.29687 8618.473" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4405">
+        <circle cx="362.322" cy="8557.336" r="3.50000559265618" fill="white"/>
+        <circle cx="362.322" cy="8557.336" r="3.50000559265618" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4404">
+        <path d="M 295.90487 8523.249 C 297.2717 8524.616 297.2717 8526.832 295.90487 8528.199 C 294.53804 8529.566 292.32196 8529.566 290.95513 8528.199 C 289.5883 8526.832 289.5883 8524.616 290.95513 8523.249 C 292.32196 8521.882 294.53804 8521.882 295.90487 8523.249" fill="white"/>
+        <path d="M 295.90487 8523.249 C 297.2717 8524.616 297.2717 8526.832 295.90487 8528.199 C 294.53804 8529.566 292.32196 8529.566 290.95513 8528.199 C 289.5883 8526.832 289.5883 8524.616 290.95513 8523.249 C 292.32196 8521.882 294.53804 8521.882 295.90487 8523.249" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4403">
+        <line x1="312.822" y1="8588.172" x2="320.422" y2="8588.172" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4402">
+        <line x1="312.822" y1="8620.948" x2="357.422" y2="8620.948" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4401">
+        <line x1="336.19763" y1="8585.602" x2="353.2268" y2="8567.177" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4400">
+        <circle cx="392.822" cy="8557.336" r="3.50000559265619" fill="white"/>
+        <circle cx="392.822" cy="8557.336" r="3.50000559265619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4399">
+        <line x1="371.96624" y1="8617.639" x2="388.44193" y2="8570.001" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4398">
+        <path d="M 274.29687 8554.473 C 275.6637 8555.84 275.6637 8558.056 274.29687 8559.423 C 272.93004 8560.79 270.71396 8560.79 269.34713 8559.423 C 267.9803 8558.056 267.9803 8555.84 269.34713 8554.473 C 270.71396 8553.106 272.93004 8553.106 274.29687 8554.473" fill="white"/>
+        <path d="M 274.29687 8554.473 C 275.6637 8555.84 275.6637 8558.056 274.29687 8559.423 C 272.93004 8560.79 270.71396 8560.79 269.34713 8559.423 C 267.9803 8558.056 267.9803 8555.84 269.34713 8554.473 C 270.71396 8553.106 272.93004 8553.106 274.29687 8554.473" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4397">
+        <line x1="246.452" y1="8556.948" x2="258.422" y2="8556.948" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4396">
+        <line x1="364.1937" y1="8402.154" x2="375.15725" y2="8384.825" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4395">
+        <line x1="273.81404" y1="8554.069" x2="285.8043" y2="8536.743" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_4394">
+        <line x1="231.822" y1="8227.948" x2="423.322" y2="8227.948" stroke="#0432ff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_4393">
+        <line x1="231.822" y1="8373.5" x2="378.822" y2="8373.5" stroke="#0432ff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_4392">
+        <line x1="231.822" y1="8525.724" x2="289.93" y2="8525.724" stroke="#0432ff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Group_4389">
+        <g id="Graphic_4391">
+          <text transform="translate(490.822 8266.336)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Best consistency </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Highest latency</tspan>
+          </text>
+        </g>
+        <g id="Graphic_4390">
+          <text transform="translate(478.354 8245.888)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="48316906e-20" y="15">First option:</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_4386">
+        <g id="Graphic_4388">
+          <text transform="translate(497.98524 8417.474)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Medium consistency </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Medium latency</tspan>
+          </text>
+        </g>
+        <g id="Graphic_4387">
+          <text transform="translate(478.59235 8397.026)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2842171e-19" y="15">Second option:</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_4385">
+        <text transform="translate(497.98524 8564.836)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Worst consistency </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Lowest latency</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4384">
+        <text transform="translate(478.354 8544.388)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7176482e-19" y="15">Third option:</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3729">
+        <text transform="translate(101.51562 8169)" fill="#3c4043">
+          <tspan font-family="Helvetica" font-size="16" font-weight="400" fill="#3c4043" x="0" y="15">API service wait time</tspan>
+        </text>
+      </g>
+      <g id="Line_3728">
+        <line x1="27" y1="8178" x2="92.08108" y2="8178" stroke="#0432ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

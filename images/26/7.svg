@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1583.5684 6864 494.00004 58" width="494.00004" height="58">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="10_gaming_leaderboard" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>10.gaming leaderboard</title>
+    <g id="10_gaming_leaderboard_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_679">
+        <path d="M 2023.0684 6915.8 L 2023.0684 6870.2 C 2023.0684 6867.054 2035.1644 6864.5 2050.0684 6864.5 C 2064.9724 6864.5 2077.0684 6867.054 2077.0684 6870.2 L 2077.0684 6915.8 C 2077.0684 6918.946 2064.9724 6921.5 2050.0684 6921.5 C 2035.1644 6921.5 2023.0684 6918.946 2023.0684 6915.8" fill="white"/>
+        <path d="M 2023.0684 6915.8 L 2023.0684 6870.2 C 2023.0684 6867.054 2035.1644 6864.5 2050.0684 6864.5 C 2064.9724 6864.5 2077.0684 6867.054 2077.0684 6870.2 L 2077.0684 6915.8 C 2077.0684 6918.946 2064.9724 6921.5 2050.0684 6921.5 C 2035.1644 6921.5 2023.0684 6918.946 2023.0684 6915.8 M 2023.0684 6870.2 C 2023.0684 6873.346 2035.1644 6875.9 2050.0684 6875.9 C 2064.9724 6875.9 2077.0684 6873.346 2077.0684 6870.2" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_678">
+        <line x1="1724.0684" y1="6893" x2="2013.1684" y2="6893" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_677">
+        <rect x="1758.6023" y="6878.776" width="226.064" height="28.447998" fill="white"/>
+        <text transform="translate(1763.6023 6883.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Fetch from DB, sorted by rank</tspan>
+        </text>
+      </g>
+      <g id="Graphic_690">
+        <rect x="1584.0684" y="6868.75" width="140.00004" height="48.5" fill="white"/>
+        <rect x="1584.0684" y="6868.75" width="140.00004" height="48.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1589.0684 6874.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.360023" y="15">Leaderboard </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="39.672023" y="33.448">service</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

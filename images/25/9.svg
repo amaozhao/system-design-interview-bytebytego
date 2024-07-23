@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2957.75 8007.75 1144.5 340.08915" width="1144.5" height="340.08915">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="09_s3" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>09.s3</title>
+    <g id="09_s3_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_5107">
+        <rect x="2958" y="8227" width="1144" height="120.58915" fill="white"/>
+        <rect x="2958" y="8227" width="1144" height="120.58915" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_5106">
+        <rect x="2958" y="8154" width="1144" height="73" fill="white"/>
+        <rect x="2958" y="8154" width="1144" height="73" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_5105">
+        <rect x="2958" y="8081" width="1144" height="73" fill="white"/>
+        <rect x="2958" y="8081" width="1144" height="73" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_5104">
+        <rect x="2958" y="8008" width="1144" height="73" fill="white"/>
+        <rect x="2958" y="8008" width="1144" height="73" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_5103">
+        <rect x="3535.5" y="8024.661" width="77.68562" height="28.678295" fill="white"/>
+        <rect x="3535.5" y="8024.661" width="77.68562" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3540.5 8029.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.506812" y="15">Default</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5102">
+        <rect x="3286" y="8104.161" width="77.68562" height="28.678295" fill="white"/>
+        <rect x="3286" y="8104.161" width="77.68562" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3291 8109.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="14.874812" y="15">DC-1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5101">
+        <rect x="3799.5" y="8104.161" width="77.68562" height="28.678295" fill="white"/>
+        <rect x="3799.5" y="8104.161" width="77.68562" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3804.5 8109.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="14.874812" y="15">DC-2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5100">
+        <rect x="3156.657" y="8176.161" width="77.68562" height="28.678295" fill="white"/>
+        <rect x="3156.657" y="8176.161" width="77.68562" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3161.657 8181.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.394812" y="15">Host-1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5099">
+        <rect x="3411.657" y="8176.161" width="77.68562" height="28.678295" fill="white"/>
+        <rect x="3411.657" y="8176.161" width="77.68562" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3416.657 8181.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.394812" y="15">Host-2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5098">
+        <rect x="3672.657" y="8176.161" width="77.68562" height="28.678295" fill="white"/>
+        <rect x="3672.657" y="8176.161" width="77.68562" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3677.657 8181.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.394812" y="15">Host-3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5097">
+        <rect x="3083.5" y="8257.661" width="95" height="28.678295" fill="white"/>
+        <rect x="3083.5" y="8257.661" width="95" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3088.5 8262.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.164" y="15">Partition-1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5096">
+        <rect x="3148" y="8300.161" width="95" height="28.678295" fill="white"/>
+        <rect x="3148" y="8300.161" width="95" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3153 8305.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.164" y="15">Partition-2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5095">
+        <rect x="3214.5" y="8257.661" width="95" height="28.678295" fill="white"/>
+        <rect x="3214.5" y="8257.661" width="95" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3219.5 8262.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.164" y="15">Partition-3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5094">
+        <rect x="3342" y="8257.661" width="95" height="28.678295" fill="white"/>
+        <rect x="3342" y="8257.661" width="95" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3347 8262.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.164" y="15">Partition-4</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5093">
+        <rect x="3403" y="8300.161" width="95" height="28.678295" fill="white"/>
+        <rect x="3403" y="8300.161" width="95" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3408 8305.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.164" y="15">Partition-5</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5092">
+        <rect x="3469.5" y="8257.661" width="95" height="28.678295" fill="white"/>
+        <rect x="3469.5" y="8257.661" width="95" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3474.5 8262.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.164" y="15">Partition-6</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5091">
+        <rect x="3599.5" y="8257.851" width="95" height="28.678295" fill="white"/>
+        <rect x="3599.5" y="8257.851" width="95" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3604.5 8262.966)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.164" y="15">Partition-7</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5090">
+        <rect x="3664" y="8300.161" width="95" height="28.678295" fill="white"/>
+        <rect x="3664" y="8300.161" width="95" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3669 8305.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.164" y="15">Partition-8</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5089">
+        <rect x="3729.5" y="8257.661" width="95" height="28.678295" fill="white"/>
+        <rect x="3729.5" y="8257.661" width="95" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3734.5 8262.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.164" y="15">Partition-9</tspan>
+        </text>
+      </g>
+      <g id="Line_5088">
+        <line x1="3184.152" y1="8204.839" x2="3148.492" y2="8249.898" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5087">
+        <line x1="3195.5" y1="8204.839" x2="3195.5" y2="8290.261" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5086">
+        <line x1="3207.2" y1="8204.839" x2="3244.041" y2="8249.99" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5085">
+        <line x1="3439.7676" y1="8204.839" x2="3406.1646" y2="8249.735" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5084">
+        <line x1="3450.5" y1="8204.839" x2="3450.5" y2="8290.261" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5083">
+        <line x1="3462.2" y1="8204.839" x2="3499.041" y2="8249.99" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5082">
+        <line x1="3700.1782" y1="8204.839" x2="3664.4567" y2="8250.081" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5081">
+        <line x1="3711.5" y1="8204.839" x2="3711.5" y2="8290.261" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5080">
+        <line x1="3723.024" y1="8204.839" x2="3759.274" y2="8249.944" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5079">
+        <rect x="3928.157" y="8176.161" width="77.68562" height="28.678295" fill="white"/>
+        <rect x="3928.157" y="8176.161" width="77.68562" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3933.157 8181.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.394812" y="15">Host-4</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5078">
+        <rect x="3855" y="8257.851" width="95" height="28.678295" fill="white"/>
+        <rect x="3855" y="8257.851" width="95" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3860 8262.966)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".716" y="15">Partition-10</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5077">
+        <rect x="3919.5" y="8300.161" width="95" height="28.678295" fill="white"/>
+        <rect x="3919.5" y="8300.161" width="95" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3924.5 8305.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".716" y="15">Partition-11</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5076">
+        <rect x="3985" y="8257.661" width="95" height="28.678295" fill="white"/>
+        <rect x="3985" y="8257.661" width="95" height="28.678295" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3990 8262.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".716" y="15">Partition-12</tspan>
+        </text>
+      </g>
+      <g id="Line_5075">
+        <line x1="3955.678" y1="8204.839" x2="3919.9567" y2="8250.081" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5074">
+        <line x1="3967" y1="8204.839" x2="3967" y2="8290.261" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5073">
+        <line x1="3978.524" y1="8204.839" x2="4014.774" y2="8249.944" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5072">
+        <line x1="3813.0815" y1="8132.839" x2="3745.371" y2="8171.274" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5071">
+        <line x1="3863.9655" y1="8132.839" x2="3932.738" y2="8171.326" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5070">
+        <line x1="3299.0836" y1="8132.839" x2="3229.9093" y2="8171.346" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5069">
+        <line x1="3349.868" y1="8132.839" x2="3416.885" y2="8171.239" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5068">
+        <line x1="3535.5" y1="8051.377" x2="3373.1183" y2="8103.118" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5067">
+        <line x1="3613.1856" y1="8050.697" x2="3790.0205" y2="8103.948" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5066">
+        <text transform="translate(2974.5 8278.071)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Partition</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5065">
+        <text transform="translate(2974.5 8181.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="831335e-18" y="15">Host</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5064">
+        <text transform="translate(2974.5 8108.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Datacenter</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5063">
+        <text transform="translate(2974.5 8035.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Root</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

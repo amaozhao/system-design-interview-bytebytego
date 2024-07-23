@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2213 6735.5 403 452.396" width="403" height="452.396">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="10_gaming_leaderboard" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>10.gaming leaderboard</title>
+    <g id="10_gaming_leaderboard_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_582">
+        <g id="Graphic_574">
+          <rect x="2348" y="6736" width="105" height="96" fill="white"/>
+          <rect x="2348" y="6736" width="105" height="96" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_573">
+          <title>Phone iPhone</title>
+          <path d="M 2426.75 6762 L 2410.75 6762 C 2407.99 6762 2405.75 6764.24 2405.75 6767 L 2405.75 6801 C 2405.75 6803.76 2407.99 6806 2410.75 6806 L 2426.75 6806 C 2429.51 6806 2431.75 6803.76 2431.75 6801 L 2431.75 6767 C 2431.75 6764.24 2429.51 6762 2426.75 6762 Z M 2418.75 6804 C 2417.09 6804 2415.75 6802.66 2415.75 6801 C 2415.75 6799.34 2417.09 6798 2418.75 6798 C 2420.41 6798 2421.75 6799.34 2421.75 6801 C 2421.75 6802.66 2420.41 6804 2418.75 6804 Z M 2427.75 6796 L 2409.75 6796 L 2409.75 6768 L 2427.75 6768 L 2427.75 6796 Z" fill="black"/>
+        </g>
+        <g id="Graphic_572">
+          <title>Person</title>
+          <path d="M 2385.25 6784 C 2389.67 6784 2393.25 6780.42 2393.25 6776 C 2393.25 6771.58 2389.67 6768 2385.25 6768 C 2380.83 6768 2377.25 6771.58 2377.25 6776 C 2377.25 6780.42 2380.83 6784 2385.25 6784 Z M 2385.25 6788 C 2379.91 6788 2369.25 6790.68 2369.25 6796 L 2369.25 6800 L 2401.25 6800 L 2401.25 6796 C 2401.25 6790.68 2390.59 6788 2385.25 6788 Z" fill="black"/>
+        </g>
+      </g>
+      <g id="Graphic_575">
+        <rect x="2213.5" y="6964" width="85.5" height="48.5" fill="white"/>
+        <rect x="2213.5" y="6964" width="85.5" height="48.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2218.5 6969.802)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.262" y="15">Game </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.422" y="33.448">service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_576">
+        <rect x="2489" y="6964" width="126.5" height="48.5" fill="white"/>
+        <rect x="2489" y="6964" width="126.5" height="48.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2494 6969.802)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.61" y="15">Leaderboard </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="32.922" y="33.448">service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_577">
+        <path d="M 2525.25 7143.3 L 2525.25 7097.7 C 2525.25 7094.554 2537.346 7092 2552.25 7092 C 2567.154 7092 2579.25 7094.554 2579.25 7097.7 L 2579.25 7143.3 C 2579.25 7146.446 2567.154 7149 2552.25 7149 C 2537.346 7149 2525.25 7146.446 2525.25 7143.3" fill="white"/>
+        <path d="M 2525.25 7143.3 L 2525.25 7097.7 C 2525.25 7094.554 2537.346 7092 2552.25 7092 C 2567.154 7092 2579.25 7094.554 2579.25 7097.7 L 2579.25 7143.3 C 2579.25 7146.446 2567.154 7149 2552.25 7149 C 2537.346 7149 2525.25 7146.446 2525.25 7143.3 M 2525.25 7097.7 C 2525.25 7100.846 2537.346 7103.4 2552.25 7103.4 C 2567.154 7103.4 2579.25 7100.846 2579.25 7097.7" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_578">
+        <line x1="2552.25" y1="7012.5" x2="2552.25" y2="7082.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_579">
+        <line x1="2366.6004" y1="6832" x2="2279.0875" y2="6955.913" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_580">
+        <line x1="2436.1622" y1="6832" x2="2528.329" y2="6956.053" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_581">
+        <line x1="2299" y1="6988.25" x2="2479.1" y2="6988.25" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_583">
+        <rect x="2268.6368" y="6889.394" width="94.768" height="28.447998" fill="white"/>
+        <text transform="translate(2273.6368 6894.394)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="14210855e-21" y="15">Win a game</tspan>
+        </text>
+      </g>
+      <g id="Group_584">
+        <g id="Graphic_586">
+          <circle cx="2256.25" cy="6903.395" r="11.1971878701502" fill="white"/>
+          <circle cx="2256.25" cy="6903.395" r="11.1971878701502" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_585">
+          <text transform="translate(2251.802 6894.171)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31974423e-20" y="15">1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_587">
+        <rect x="2347.7463" y="6974.026" width="106.608" height="28.447998" fill="white"/>
+        <text transform="translate(2352.7463 6979.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9237056e-20" y="15">Update score</tspan>
+        </text>
+      </g>
+      <g id="Group_588">
+        <g id="Graphic_590">
+          <circle cx="2337.6972" cy="6988.25" r="11.1971878701501" fill="white"/>
+          <circle cx="2337.6972" cy="6988.25" r="11.1971878701501" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_589">
+          <text transform="translate(2333.2492 6979.026)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31974423e-20" y="15">2</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_591">
+        <rect x="2498.946" y="7034.357" width="106.608" height="28.447998" fill="white"/>
+        <text transform="translate(2503.946 7039.357)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9237056e-20" y="15">Update score</tspan>
+        </text>
+      </g>
+      <g id="Group_592">
+        <g id="Graphic_594">
+          <circle cx="2487.7488" cy="7048.581" r="11.1971878701504" fill="white"/>
+          <circle cx="2487.7488" cy="7048.581" r="11.1971878701504" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_593">
+          <text transform="translate(2483.3008 7039.357)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31974423e-20" y="15">3</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_595">
+        <rect x="2418.877" y="6881.9594" width="143.648" height="46.895996" fill="white"/>
+        <text transform="translate(2423.877 6886.9594)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">a. Get leaderboard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">b. Get player_rank</tspan>
+        </text>
+      </g>
+      <g id="Group_596">
+        <g id="Graphic_598">
+          <circle cx="2404.72" cy="6905.4074" r="11.1971878701502" fill="white"/>
+          <circle cx="2404.72" cy="6905.4074" r="11.1971878701502" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_597">
+          <text transform="translate(2400.272 6896.1834)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31974423e-20" y="15">4</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_599">
+        <text transform="translate(2506.61 7150)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Leaderboard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.528" y="33.448">Store</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

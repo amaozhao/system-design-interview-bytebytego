@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="6218 9376 506 273" width="506" height="273">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="05_metrics" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>05.metrics</title>
+    <g id="05_metrics_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_350">
+        <rect x="6218.5" y="9376.5" width="163.5" height="72" fill="white"/>
+        <rect x="6218.5" y="9376.5" width="163.5" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(6223.5 9384.828)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="49.926" y="15">Event 1</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="39.702" y="33.448">Instance 1</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.302" y="51.895996">disk_usage &gt; 90%</tspan>
+        </text>
+      </g>
+      <g id="Graphic_351">
+        <rect x="6218.5" y="9476.5" width="163.5" height="72" fill="white"/>
+        <rect x="6218.5" y="9476.5" width="163.5" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(6223.5 9484.828)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="49.926" y="15">Event 2</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="39.702" y="33.448">Instance 1</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.302" y="51.895996">disk_usage &gt; 90%</tspan>
+        </text>
+      </g>
+      <g id="Graphic_352">
+        <rect x="6218.5" y="9576.5" width="163.5" height="72" fill="white"/>
+        <rect x="6218.5" y="9576.5" width="163.5" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(6223.5 9584.828)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="49.926" y="15">Event 3</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="39.702" y="33.448">Instance 1</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.302" y="51.895996">disk_usage &gt; 90%</tspan>
+        </text>
+      </g>
+      <g id="Graphic_353">
+        <rect x="6547" y="9486.75" width="176.5" height="51.5" fill="white"/>
+        <rect x="6547" y="9486.75" width="176.5" height="51.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(6552 9503.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.49" y="15">1 alert on Instance 1</tspan>
+        </text>
+      </g>
+      <g id="Line_354">
+        <path d="M 6382 9412.5 L 6426.9235 9412.5 L 6426.9235 9512.5 L 6537.1 9512.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_355">
+        <line x1="6382" y1="9512.5" x2="6537.1" y2="9512.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_356">
+        <path d="M 6382 9612.5 L 6426.777 9612.5 L 6426.777 9512.5 L 6537.1 9512.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_357">
+        <rect x="6460.485" y="9498.276" width="55.184" height="28.447998" fill="white"/>
+        <text transform="translate(6465.485 9503.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="55422333e-20" y="15">Merge</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

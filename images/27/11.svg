@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1381 9881 503.416 435.0034" width="503.416" height="435.0034">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Lucida Grande" font-size="16" panose-1="2 11 6 0 4 5 2 2 2 4" units-per-em="1000" underline-position="-97.65625" underline-thickness="48.828125" slope="0" x-height="530.27344" cap-height="722.65625" ascent="966.7969" descent="-210.9375" font-weight="400">
+      <font-face-src>
+        <font-face-name name="LucidaGrande"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="22" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="11_payment" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>11.payment</title>
+    <g id="11_payment_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_202">
+        <rect x="1390" y="9881.5" width="83.93443" height="40" fill="white"/>
+        <rect x="1390" y="9881.5" width="83.93443" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1395 9892.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.375213" y="15">Client</tspan>
+        </text>
+      </g>
+      <g id="Graphic_201">
+        <rect x="1688.5" y="9881.5" width="83.93443" height="40" fill="white"/>
+        <rect x="1688.5" y="9881.5" width="83.93443" height="40" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1693.5 9883.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5.3992127" y="15">Payment </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.143213" y="33.448">System</tspan>
+        </text>
+      </g>
+      <g id="Line_203">
+        <line x1="1431.9672" y1="9921.5" x2="1431.9672" y2="10315.503" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_205">
+        <line x1="1730.4672" y1="9921.5" x2="1730.4672" y2="10314.402" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_207">
+        <line x1="1431.9672" y1="9987" x2="1720.5672" y2="9986.952" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_208">
+        <rect x="1547.0927" y="9972.751" width="68.096" height="28.447998" fill="white"/>
+        <text transform="translate(1552.0927 9977.751)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="682121e-18" y="15">Pay $10</tspan>
+        </text>
+      </g>
+      <g id="Line_209">
+        <line x1="1730.4672" y1="10014.5" x2="1441.8672" y2="10014.48" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_210">
+        <line x1="1431.9672" y1="10054" x2="1720.5672" y2="10053.955" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_211">
+        <line x1="1730.4672" y1="10078.5" x2="1441.8672" y2="10078.383" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_212">
+        <line x1="1431.9672" y1="10118" x2="1720.5672" y2="10118.145" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_213">
+        <line x1="1730.4672" y1="10142" x2="1441.8672" y2="10141.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_214">
+        <line x1="1431.9672" y1="10190.5" x2="1720.5672" y2="10189.73" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_215">
+        <line x1="1730.4672" y1="10213.5" x2="1441.8672" y2="10213.231" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_216">
+        <rect x="1547.3983" y="10039.752" width="68.096" height="28.447998" fill="white"/>
+        <text transform="translate(1552.3983 10044.752)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="682121e-18" y="15">Pay $10</tspan>
+        </text>
+      </g>
+      <g id="Graphic_217">
+        <rect x="1546.5236" y="10103.851" width="68.096" height="28.447998" fill="white"/>
+        <text transform="translate(1551.5236 10108.851)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="682121e-18" y="15">Pay $10</tspan>
+        </text>
+      </g>
+      <g id="Graphic_218">
+        <rect x="1546.6075" y="10175.879" width="68.096" height="28.447998" fill="white"/>
+        <text transform="translate(1551.6075 10180.879)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="682121e-18" y="15">Pay $10</tspan>
+        </text>
+      </g>
+      <g id="Graphic_220">
+        <rect x="1573.4583" y="10204.327" width="14.226562" height="20" fill="white"/>
+        <text transform="translate(1574.4583 10205.327)" fill="#0096ff">
+          <tspan font-family="Lucida Grande" font-size="16" font-weight="400" fill="#0096ff" x="0" y="15">✓</tspan>
+        </text>
+      </g>
+      <g id="Graphic_219">
+        <rect x="1574.7483" y="9998" width="13.396" height="28.615997" fill="white"/>
+        <text transform="translate(1575.7483 9999)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-size="22" font-weight="400" fill="#ff2600" x="3206324e-19" y="21">x</tspan>
+        </text>
+      </g>
+      <g id="Graphic_221">
+        <rect x="1574.7483" y="10062.25" width="13.396" height="28.615997" fill="white"/>
+        <text transform="translate(1575.7483 10063.25)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-size="22" font-weight="400" fill="#ff2600" x="3206324e-19" y="21">x</tspan>
+        </text>
+      </g>
+      <g id="Graphic_222">
+        <rect x="1574.7483" y="10126.5" width="13.396" height="28.615997" fill="white"/>
+        <text transform="translate(1575.7483 10127.5)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-size="22" font-weight="400" fill="#ff2600" x="3206324e-19" y="21">x</tspan>
+        </text>
+      </g>
+      <g id="Graphic_223">
+        <text transform="translate(1737 10003.084)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="68922645e-20" y="15">Payment failed</tspan>
+        </text>
+      </g>
+      <g id="Graphic_224">
+        <text transform="translate(1737 10067.334)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="68922645e-20" y="15">Payment failed</tspan>
+        </text>
+      </g>
+      <g id="Graphic_225">
+        <text transform="translate(1737 10131.584)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="68922645e-20" y="15">Payment failed</tspan>
+        </text>
+      </g>
+      <g id="Graphic_226">
+        <text transform="translate(1737 10202.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5400125e-19" y="15">Payment succeeded</tspan>
+        </text>
+      </g>
+      <g id="Graphic_229">
+        <text transform="translate(1382 10057)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Retry</tspan>
+        </text>
+      </g>
+      <g id="Graphic_230">
+        <text transform="translate(1382 10119.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Retry</tspan>
+        </text>
+      </g>
+      <g id="Graphic_231">
+        <text transform="translate(1382 10192)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Retry</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

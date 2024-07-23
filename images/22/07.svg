@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="638 10910 611.5 279.57754" width="611.5" height="279.57754">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="06_ads_aggregation" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>06.ads aggregation</title>
+    <g id="06_ads_aggregation_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_1399">
+        <g id="Graphic_1406">
+          <rect x="775.5" y="11117.971" width="76.5" height="71.10676" fill="white"/>
+          <rect x="775.5" y="11117.971" width="76.5" height="71.10676" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_1405">
+          <text transform="translate(784 11163.865)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad15:</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1404">
+          <text transform="translate(835.216 11163.865)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6394885e-19" y="15">3</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1403">
+          <text transform="translate(784 11123.852)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad13:</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1402">
+          <text transform="translate(835.216 11123.852)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6394885e-19" y="15">8</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1401">
+          <text transform="translate(784 11144.3)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad11:</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1400">
+          <text transform="translate(835.216 11144.3)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6394885e-19" y="15">4</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1391">
+        <g id="Graphic_1398">
+          <rect x="775.5" y="10947.708" width="76.5" height="71.10676" fill="white"/>
+          <rect x="775.5" y="10947.708" width="76.5" height="71.10676" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_1397">
+          <text transform="translate(784 10974.037)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad3:</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1396">
+          <text transform="translate(835.216 10974.037)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6394885e-19" y="15">5</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1395">
+          <text transform="translate(784 10953.59)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad1:</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1394">
+          <text transform="translate(826.32 10953.59)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1278977e-18" y="15">12</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1393">
+          <text transform="translate(784 10994.485)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad2:</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1392">
+          <text transform="translate(835.216 10994.485)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6394885e-19" y="15">3</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1383">
+        <g id="Graphic_1390">
+          <rect x="775.5" y="11036.075" width="76.5" height="71.10676" fill="white"/>
+          <rect x="775.5" y="11036.075" width="76.5" height="71.10676" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_1389">
+          <text transform="translate(784 11062.404)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad10:</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1388">
+          <text transform="translate(835.216 11062.404)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6394885e-19" y="15">4</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1387">
+          <text transform="translate(784 11041.956)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad7:</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1386">
+          <text transform="translate(835.216 11041.956)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6394885e-19" y="15">9</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1385">
+          <text transform="translate(784 11082.904)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad8:</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1384">
+          <text transform="translate(835.216 11082.904)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6394885e-19" y="15">3</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_1375">
+        <g id="Graphic_1382">
+          <rect x="923" y="11036.075" width="76.5" height="71.10676" fill="white"/>
+          <rect x="923" y="11036.075" width="76.5" height="71.10676" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_1381">
+          <text transform="translate(930 11041.956)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad1:</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1380">
+          <text transform="translate(972.32 11041.956)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1278977e-18" y="15">12</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1379">
+          <text transform="translate(930 11062.404)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad7:</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1378">
+          <text transform="translate(981.216 11062.404)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6394885e-19" y="15">9</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1377">
+          <text transform="translate(930 11082.852)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad13:</tspan>
+          </text>
+        </g>
+        <g id="Graphic_1376">
+          <text transform="translate(981.216 11082.852)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6394885e-19" y="15">8</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_1374">
+        <line x1="852" y1="11071.628" x2="913.1" y2="11071.628" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_1373">
+        <line x1="852" y1="11006.177" x2="914.5074" y2="11043.625" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_1372">
+        <line x1="852" y1="11132.287" x2="914.3446" y2="11097.671" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1371">
+        <text transform="translate(639 11062.404)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21316282e-20" y="15">Task: get top 3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1370">
+        <text transform="translate(1083.5 11034.732)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="15.068" y="15">Top 3 most clicked </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.628" y="33.448">ads from the last </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11.204" y="51.895996">minute are ad1, ad7 </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="48.852" y="70.34399">and ad13</tspan>
+        </text>
+      </g>
+      <g id="Line_1369">
+        <line x1="999.5" y1="11071.628" x2="1072.6" y2="11071.628" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1368">
+        <text transform="translate(777.224 10911)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8242296e-19" y="15">Aggregate</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1367">
+        <text transform="translate(933.69 10911)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Reduce</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1366">
+        <text transform="translate(1141.24 10911)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21671553e-20" y="15">Output</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

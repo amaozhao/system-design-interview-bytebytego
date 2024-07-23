@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1496 8407.5 660.444 165.948" width="660.444" height="165.948">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="PingFang SC" font-size="16" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="PingFang SC" font-size="12" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="12_digital_wallet" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>12.digital wallet</title>
+    <g id="12_digital_wallet_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_505">
+        <line x1="1496.5" y1="8423" x2="2059.6" y2="8423" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_504">
+        <line x1="1496.5" y1="8482.5" x2="2059.6" y2="8482.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_503">
+        <line x1="1496.5" y1="8541.635" x2="2059.6" y2="8541.635" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_502">
+        <circle cx="1532.8075" cy="8541.757" r="8.80751407352472" fill="#ffc0ff"/>
+        <circle cx="1532.8075" cy="8541.757" r="8.80751407352472" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_501">
+        <circle cx="1595.8075" cy="8423.5" r="8.80751407352475" fill="#c0ffff"/>
+        <circle cx="1595.8075" cy="8423.5" r="8.80751407352475" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_500">
+        <circle cx="1639.8075" cy="8482.817" r="8.80751407352451" fill="#ffffc0"/>
+        <circle cx="1639.8075" cy="8482.817" r="8.80751407352451" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_499">
+        <path d="M 1690.5353 8535.907 C 1693.9749 8539.347 1693.9749 8544.923 1690.5353 8548.363 C 1687.0958 8551.802 1681.5192 8551.802 1678.0797 8548.363 C 1674.6401 8544.923 1674.6401 8539.347 1678.0797 8535.907 C 1681.5192 8532.468 1687.0958 8532.468 1690.5353 8535.907" fill="#ffc0ff"/>
+        <path d="M 1690.5353 8535.907 C 1693.9749 8539.347 1693.9749 8544.923 1690.5353 8548.363 C 1687.0958 8551.802 1681.5192 8551.802 1678.0797 8548.363 C 1674.6401 8544.923 1674.6401 8539.347 1678.0797 8535.907 C 1681.5192 8532.468 1687.0958 8532.468 1690.5353 8535.907" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_498">
+        <line x1="1536.9497" y1="8533.982" x2="1587.0105" y2="8440.013" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_497">
+        <line x1="1601.0554" y1="8430.575" x2="1628.6616" y2="8467.791" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_496">
+        <line x1="1645.0936" y1="8489.864" x2="1673.0804" y2="8527.17" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_495">
+        <circle cx="1759.5366" cy="8423.683" r="8.80751407352469" fill="#c0ffff"/>
+        <circle cx="1759.5366" cy="8423.683" r="8.80751407352469" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_494">
+        <circle cx="1803.5366" cy="8483" r="8.80751407352457" fill="#ffffc0"/>
+        <circle cx="1803.5366" cy="8483" r="8.80751407352457" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_493">
+        <circle cx="1848.0366" cy="8542.317" r="8.80751407352457" fill="#ffc0ff"/>
+        <circle cx="1848.0366" cy="8542.317" r="8.80751407352457" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_492">
+        <circle cx="1928.3075" cy="8423.5" r="8.80751407352469" fill="#c0ffff"/>
+        <circle cx="1928.3075" cy="8423.5" r="8.80751407352469" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_491">
+        <circle cx="1972.3075" cy="8482.817" r="8.80751407352439" fill="#ffffc0"/>
+        <circle cx="1972.3075" cy="8482.817" r="8.80751407352439" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_490">
+        <path d="M 2023.0353 8535.907 C 2026.475 8539.347 2026.475 8544.923 2023.0353 8548.363 C 2019.5958 8551.802 2014.0192 8551.802 2010.5797 8548.363 C 2007.14 8544.923 2007.14 8539.347 2010.5797 8535.907 C 2014.0192 8532.468 2019.5958 8532.468 2023.0353 8535.907" fill="#ffc0ff"/>
+        <path d="M 2023.0353 8535.907 C 2026.475 8539.347 2026.475 8544.923 2023.0353 8548.363 C 2019.5958 8551.802 2014.0192 8551.802 2010.5797 8548.363 C 2007.14 8544.923 2007.14 8539.347 2010.5797 8535.907 C 2014.0192 8532.468 2019.5958 8532.468 2023.0353 8535.907" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_489">
+        <line x1="1689.0303" y1="8534.699" x2="1749.5062" y2="8439.476" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_488">
+        <line x1="1764.7844" y1="8430.757" x2="1792.3907" y2="8467.974" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_487">
+        <line x1="1808.8226" y1="8490.046" x2="1836.8095" y2="8527.352" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_486">
+        <line x1="1852.968" y1="8535.018" x2="1917.834" y2="8439.003" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_485">
+        <line x1="1933.5554" y1="8430.575" x2="1961.1616" y2="8467.791" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_484">
+        <line x1="1977.5936" y1="8489.864" x2="2005.5804" y2="8527.17" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_483">
+        <text transform="translate(2075.796 8412.5)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="5186962e-19" y="17">Command</tspan>
+        </text>
+      </g>
+      <g id="Graphic_482">
+        <text transform="translate(2075.796 8471.817)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="17">Event</tspan>
+        </text>
+      </g>
+      <g id="Graphic_481">
+        <text transform="translate(2075.796 8530.757)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="17">State</tspan>
+        </text>
+      </g>
+      <g id="Graphic_479">
+        <rect x="1593.5774" y="8442.278" width="44.928" height="17" fill="white"/>
+        <text transform="translate(1593.5774 8442.278)" fill="black">
+          <tspan font-family="PingFang SC" font-size="12" font-weight="400" fill="black" x="0" y="13">Validate</tspan>
+        </text>
+      </g>
+      <g id="Graphic_478">
+        <rect x="1644.8174" y="8501.47" width="30.72" height="17" fill="white"/>
+        <text transform="translate(1644.8174 8501.47)" fill="black">
+          <tspan font-family="PingFang SC" font-size="12" font-weight="400" fill="black" x="58264504e-20" y="13">Apply</tspan>
+        </text>
+      </g>
+      <g id="Graphic_506">
+        <text transform="translate(2048 8550)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.1600007" y="15">Time</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

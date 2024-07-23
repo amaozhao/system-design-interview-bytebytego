@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="3497.5 7859.5 556 372.1" width="556" height="372.1">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="13_stock" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>13.stock</title>
+    <g id="13_stock_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_391">
+        <rect x="3836" y="7860" width="217" height="268.5" fill="white"/>
+        <rect x="3836" y="7860" width="217" height="268.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_383">
+        <rect x="3498" y="7970.7" width="117.2" height="47.1" fill="white"/>
+        <rect x="3498" y="7970.7" width="117.2" height="47.1" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3503 7975.802)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="20.256002" y="15">Matching </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="29.152002" y="33.448">Engine</tspan>
+        </text>
+      </g>
+      <g id="Graphic_384">
+        <rect x="3852.5" y="7896" width="56" height="47.1" fill="white"/>
+        <rect x="3852.5" y="7896" width="56" height="47.1" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3857.5 7901.102)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.696" y="15">Order </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.92" y="33.448">book</tspan>
+        </text>
+      </g>
+      <g id="Graphic_385">
+        <rect x="3916.5" y="7896" width="56" height="47.1" fill="white"/>
+        <rect x="3916.5" y="7896" width="56" height="47.1" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3921.5 7901.102)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.696" y="15">Order </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.92" y="33.448">book</tspan>
+        </text>
+      </g>
+      <g id="Graphic_386">
+        <rect x="3980.5" y="7896" width="56" height="47.1" fill="white"/>
+        <rect x="3980.5" y="7896" width="56" height="47.1" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3985.5 7901.102)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="2.696" y="15">Order </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.92" y="33.448">book</tspan>
+        </text>
+      </g>
+      <g id="Graphic_387">
+        <rect x="3885.9" y="7980.5" width="117.2" height="47.1" fill="white"/>
+        <rect x="3885.9" y="7980.5" width="117.2" height="47.1" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3890.9 7985.602)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11.520002" y="15">Candlestick </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="29.896002" y="33.448">Charts</tspan>
+        </text>
+      </g>
+      <g id="Graphic_388">
+        <rect x="3885.9" y="8065" width="117.2" height="47.1" fill="white"/>
+        <rect x="3885.9" y="8065" width="117.2" height="47.1" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3890.9 8079.326)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11.824002" y="15">Persistence</tspan>
+        </text>
+      </g>
+      <g id="Graphic_389">
+        <rect x="3885.9" y="8184" width="117.2" height="47.1" fill="white"/>
+        <rect x="3885.9" y="8184" width="117.2" height="47.1" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(3890.9 8198.326)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.120002" y="15">Data Service</tspan>
+        </text>
+      </g>
+      <g id="Line_390">
+        <line x1="3944.5" y1="8027.6" x2="3944.5" y2="8055.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_392">
+        <text transform="translate(3926.716 7866.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">MDP</tspan>
+        </text>
+      </g>
+      <g id="Line_393">
+        <line x1="3944.5" y1="8128.5" x2="3944.5" y2="8174.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_394">
+        <line x1="3615.2" y1="7994.25" x2="3826.1" y2="7994.25" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_395">
+        <rect x="3629.342" y="7980.026" width="181.95694" height="28.447998" fill="white"/>
+        <text transform="translate(3634.342 7985.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".018469849" y="15">Orders, matched results</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

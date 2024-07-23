@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="-229.32007 10292.784 457.3201 354.5" width="457.3201" height="354.5">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="06_ads_aggregation" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>06.ads aggregation</title>
+    <g id="06_ads_aggregation_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_1055">
+        <g id="Graphic_1057">
+          <path d="M -22.181787 10436.623 C -3.7294336 10455.076 -3.7294336 10484.992 -22.181787 10503.445 C -40.634046 10521.897 -70.551045 10521.897 -89.0033 10503.445 C -107.45566 10484.992 -107.45566 10455.076 -89.0033 10436.623 C -70.551045 10418.171 -40.634046 10418.171 -22.181787 10436.623" fill="white"/>
+          <path d="M -22.181787 10436.623 C -3.7294336 10455.076 -3.7294336 10484.992 -22.181787 10503.445 C -40.634046 10521.897 -70.551045 10521.897 -89.0033 10503.445 C -107.45566 10484.992 -107.45566 10455.076 -89.0033 10436.623 C -70.551045 10418.171 -40.634046 10418.171 -22.181787 10436.623" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_1056">
+          <text transform="translate(-71.60055 10460.81)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Map</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_1060">
+        <path d="M 213.66076 10307.123 C 232.1131 10325.576 232.1131 10355.492 213.66076 10373.945 C 195.2085 10392.397 165.2915 10392.397 146.83924 10373.945 C 128.38689 10355.492 128.38689 10325.576 146.83924 10307.123 C 165.2915 10288.671 195.2085 10288.671 213.66076 10307.123" fill="white"/>
+        <path d="M 213.66076 10307.123 C 232.1131 10325.576 232.1131 10355.492 213.66076 10373.945 C 195.2085 10392.397 165.2915 10392.397 146.83924 10373.945 C 128.38689 10355.492 128.38689 10325.576 146.83924 10307.123 C 165.2915 10288.671 195.2085 10288.671 213.66076 10307.123" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1059">
+        <text transform="translate(143.362 10322.086)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8242296e-19" y="15">Aggregate</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.808" y="33.448">Node 1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1063">
+        <path d="M 213.66076 10566.123 C 232.1131 10584.576 232.1131 10614.492 213.66076 10632.945 C 195.2085 10651.397 165.2915 10651.397 146.83924 10632.945 C 128.38689 10614.492 128.38689 10584.576 146.83924 10566.123 C 165.2915 10547.671 195.2085 10547.671 213.66076 10566.123" fill="white"/>
+        <path d="M 213.66076 10566.123 C 232.1131 10584.576 232.1131 10614.492 213.66076 10632.945 C 195.2085 10651.397 165.2915 10651.397 146.83924 10632.945 C 128.38689 10614.492 128.38689 10584.576 146.83924 10566.123 C 165.2915 10547.671 195.2085 10547.671 213.66076 10566.123" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1062">
+        <text transform="translate(143.362 10581.086)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8242296e-19" y="15">Aggregate</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.808" y="33.448">Node 2</tspan>
+        </text>
+      </g>
+      <g id="Line_1064">
+        <line x1="-14.164785" y1="10447.286" x2="130.14439" y2="10368.047" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_1065">
+        <line x1="-14.164785" y1="10492.782" x2="130.14439" y2="10572.021" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_1067">
+        <line x1="-228.82007" y1="10470.034" x2="-112.74257" y2="10470.034" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1068">
+        <rect x="-197.55701" y="10446.586" width="46.464" height="46.895996" fill="white"/>
+        <text transform="translate(-192.55701 10451.586)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.488" y="15">Data</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">Input</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1069">
+        <rect x="-.14751426" y="10396.303" width="105.856" height="28.447998" fill="white"/>
+        <text transform="translate(4.852487 10401.303)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad_id %2 = 0</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1070">
+        <rect x="-.20508103" y="10515.285" width="105.856" height="28.447998" fill="white"/>
+        <text transform="translate(4.7949204 10520.285)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">ad_id %2 = 1</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

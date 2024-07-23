@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2068.2533 5690.14 624.44 262.11278" width="624.44" height="262.11278">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="PingFang SC" font-size="16" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="PingFang SC" font-size="12" panose-1="2 11 4 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="58" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="400">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="22" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="12_digital_wallet" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>12.digital wallet</title>
+    <g id="12_digital_wallet_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_1187">
+        <line x1="2169.3693" y1="5738.98" x2="2667.5" y2="5738.98" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1186">
+        <text transform="translate(2073.2533 5727.48)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="17">Coordinator</tspan>
+          <tspan font-family="PingFang SC" font-size="12" font-weight="400" fill="black" x=".688" y="35">(Wallet Service)</tspan>
+        </text>
+      </g>
+      <g id="Line_1185">
+        <line x1="2169.3693" y1="5809.48" x2="2667.5" y2="5809.48" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1184">
+        <text transform="translate(2075.7653 5797.98)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="18474111e-20" y="17">Database A</tspan>
+        </text>
+      </g>
+      <g id="Line_1183">
+        <line x1="2169.3693" y1="5879.98" x2="2667.5" y2="5879.98" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1182">
+        <text transform="translate(2074.6293 5868.48)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="17">Database C</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1181">
+        <circle cx="2196.6993" cy="5739.48" r="5.75000918793547" fill="white"/>
+        <circle cx="2196.6993" cy="5739.48" r="5.75000918793547" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1180">
+        <circle cx="2280.6693" cy="5809.98" r="5.75000918793565" fill="white"/>
+        <circle cx="2280.6693" cy="5809.98" r="5.75000918793565" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1179">
+        <circle cx="2607.75" cy="5880.48" r="5.7500091879359" fill="white"/>
+        <circle cx="2607.75" cy="5880.48" r="5.7500091879359" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_1178">
+        <line x1="2201.1033" y1="5743.177" x2="2268.6833" y2="5799.9165" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_1177">
+        <line x1="2202.1394" y1="5741.346" x2="2592.9455" y2="5875.4014" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1176">
+        <circle cx="2347.5134" cy="5809.98" r="5.75000918793553" fill="white"/>
+        <circle cx="2347.5134" cy="5809.98" r="5.75000918793553" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1175">
+        <circle cx="2387.2433" cy="5739.48" r="5.75000918793553" fill="white"/>
+        <circle cx="2387.2433" cy="5739.48" r="5.75000918793553" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_1174">
+        <line x1="2286.4193" y1="5809.98" x2="2331.8634" y2="5809.98" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_1173">
+        <line x1="2350.337" y1="5804.969" x2="2379.5592" y2="5753.115" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1168">
+        <rect x="2336.7774" y="5870.98" width="27.536" height="19" fill="white"/>
+        <text transform="translate(2337.7774 5871.98)" fill="black">
+          <tspan font-family="PingFang SC" font-size="12" font-weight="400" fill="black" x="2842171e-20" y="13">NOP</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1165">
+        <rect x="2249.0293" y="5690.64" width="93.328" height="32" fill="white"/>
+        <text transform="translate(2254.0293 5695.64)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="6750156e-19" y="17">First Phase</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1162">
+        <rect x="2530.84" y="5847" width="19.76" height="19" fill="white"/>
+        <text transform="translate(2531.84 5848)" fill="black">
+          <tspan font-family="PingFang SC" font-size="12" font-weight="400" fill="black" x="0" y="13">Try</tspan>
+        </text>
+      </g>
+      <g id="Line_1157">
+        <line x1="2183.2413" y1="5692.771" x2="2183.2413" y2="5914.327" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1156">
+        <rect x="2232.5333" y="5768.788" width="19.76" height="19" fill="white"/>
+        <text transform="translate(2233.5333 5769.788)" fill="black">
+          <tspan font-family="PingFang SC" font-size="12" font-weight="400" fill="black" x="0" y="13">Try</tspan>
+        </text>
+      </g>
+      <g id="Line_1146">
+        <line x1="2413.8954" y1="5692.771" x2="2413.8954" y2="5914.327" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1145">
+        <circle cx="2441.5475" cy="5739.48" r="5.75000918793547" fill="white"/>
+        <circle cx="2441.5475" cy="5739.48" r="5.75000918793547" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1144">
+        <circle cx="2519.4534" cy="5809.98" r="5.75000918793529" fill="white"/>
+        <circle cx="2519.4534" cy="5809.98" r="5.75000918793529" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1143">
+        <circle cx="2501.911" cy="5880.48" r="5.75000918793559" fill="white"/>
+        <circle cx="2501.911" cy="5880.48" r="5.75000918793559" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_1138">
+        <line x1="2443.811" y1="5744.767" x2="2495.751" y2="5866.091" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_1137">
+        <line x1="2445.811" y1="5743.338" x2="2507.8493" y2="5799.479" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1136">
+        <rect x="2464.4774" y="5762.605" width="40.196" height="19" fill="white"/>
+        <text transform="translate(2465.4774 5763.605)" fill="black">
+          <tspan font-family="PingFang SC" font-size="12" font-weight="400" fill="black" x="0" y="13">Cancel</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1118">
+        <rect x="2439.9197" y="5690.64" width="176.32" height="32" fill="white"/>
+        <text transform="translate(2444.9197 5695.64)" fill="black">
+          <tspan font-family="PingFang SC" font-size="16" font-weight="400" fill="black" x="0" y="17">Second Phase: Cancel</tspan>
+        </text>
+      </g>
+      <g id="Line_1117">
+        <line x1="2641.264" y1="5690.64" x2="2641.264" y2="5912.196" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_1189">
+        <rect x="2357.7773" y="5759.4983" width="35.216" height="19" fill="white"/>
+        <text transform="translate(2358.7773 5760.4983)" fill="#ff2600">
+          <tspan font-family="PingFang SC" font-size="12" font-weight="400" fill="#ff2600" x="17408297e-20" y="13">Failed</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1188">
+        <text transform="translate(2345.3813 5753.989)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-size="22" font-weight="400" fill="#ff2600" x="3206324e-19" y="21">x</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1191">
+        <rect x="2441.992" y="5786.042" width="40.196" height="19" fill="white"/>
+        <text transform="translate(2442.992 5787.042)" fill="black">
+          <tspan font-family="PingFang SC" font-size="12" font-weight="400" fill="black" x="0" y="13">Cancel</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1193">
+        <rect x="2380.4868" y="5935.9165" width="72.908" height="16.335999" fill="white"/>
+        <text transform="translate(2381.4868 5936.9165)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Out-of-order:</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2302">
+        <text transform="translate(2546.8013 5936.9165)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="5755396e-19" y="11">arrived before</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2303">
+        <text transform="translate(2493.7268 5936.9165)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">operation</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2304">
+        <text transform="translate(2640.8013 5936.9165)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">operation</tspan>
+        </text>
+      </g>
+      <g id="Line_2305">
+        <line x1="2476.7656" y1="5935.9165" x2="2497.387" y2="5890.453" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width=".5"/>
+      </g>
+      <g id="Line_2306">
+        <line x1="2627.937" y1="5935.9165" x2="2611.4972" y2="5890.77" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_2307">
+        <text transform="translate(2454.3948 5936.9165)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="#ff2600" x="0" y="11">Cancel</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2308">
+        <text transform="translate(2623.0213 5936.9165)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="#ff2600" x="0" y="11">Try</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

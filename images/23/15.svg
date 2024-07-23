@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="4895.887 9741.5 820.8257 469.4645" width="820.8257" height="469.4645">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="07_hotel" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>07.hotel</title>
+    <g id="07_hotel_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_441">
+        <rect x="5248.421" y="9742" width="115.75827" height="47" fill="white"/>
+        <rect x="5248.421" y="9742" width="115.75827" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5253.421 9747.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.511135" y="15">Reservation </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.367135" y="33.448">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_442">
+        <path d="M 5306.3 9872 L 5379.1 9907.8 L 5306.3 9943.6 L 5233.5 9907.8 Z" fill="white"/>
+        <path d="M 5306.3 9872 L 5379.1 9907.8 L 5306.3 9943.6 L 5233.5 9907.8 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5258.156 9897.86)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".10400229" y="15">hotel_id % 16</tspan>
+        </text>
+      </g>
+      <g id="Graphic_443">
+        <path d="M 4896.387 9929.786 L 4896.387 9885.814 C 4896.387 9882.78 4908.699 9880.318 4923.8694 9880.318 C 4939.0396 9880.318 4951.3516 9882.78 4951.3516 9885.814 L 4951.3516 9929.786 C 4951.3516 9932.82 4939.0396 9935.282 4923.8694 9935.282 C 4908.699 9935.282 4896.387 9932.82 4896.387 9929.786" fill="white"/>
+        <path d="M 4896.387 9929.786 L 4896.387 9885.814 C 4896.387 9882.78 4908.699 9880.318 4923.8694 9880.318 C 4939.0396 9880.318 4951.3516 9882.78 4951.3516 9885.814 L 4951.3516 9929.786 C 4951.3516 9932.82 4939.0396 9935.282 4923.8694 9935.282 C 4908.699 9935.282 4896.387 9932.82 4896.387 9929.786 M 4896.387 9885.814 C 4896.387 9888.848 4908.699 9891.311 4923.8694 9891.311 C 4939.0396 9891.311 4951.3516 9888.848 4951.3516 9885.814" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(4901.387 9892.1)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.03426" y="33.448">0</tspan>
+        </text>
+      </g>
+      <g id="Graphic_444">
+        <path d="M 4906.1355 9992.877 L 4906.1355 9948.905 C 4906.1355 9945.871 4918.4475 9943.409 4933.618 9943.409 C 4948.788 9943.409 4961.1 9945.871 4961.1 9948.905 L 4961.1 9992.877 C 4961.1 9995.911 4948.788 9998.373 4933.618 9998.373 C 4918.4475 9998.373 4906.1355 9995.911 4906.1355 9992.877" fill="white"/>
+        <path d="M 4906.1355 9992.877 L 4906.1355 9948.905 C 4906.1355 9945.871 4918.4475 9943.409 4933.618 9943.409 C 4948.788 9943.409 4961.1 9945.871 4961.1 9948.905 L 4961.1 9992.877 C 4961.1 9995.911 4948.788 9998.373 4933.618 9998.373 C 4918.4475 9998.373 4906.1355 9995.911 4906.1355 9992.877 M 4906.1355 9948.905 C 4906.1355 9951.939 4918.4475 9954.402 4933.618 9954.402 C 4948.788 9954.402 4961.1 9951.939 4961.1 9948.905" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(4911.1355 9955.191)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.03426" y="33.448">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_446">
+        <path d="M 4954 10051.968 L 4954 10007.996 C 4954 10004.962 4966.312 10002.5 4981.482 10002.5 C 4996.6525 10002.5 5008.9645 10004.962 5008.9645 10007.996 L 5008.9645 10051.968 C 5008.9645 10055.002 4996.6525 10057.465 4981.482 10057.465 C 4966.312 10057.465 4954 10055.002 4954 10051.968" fill="white"/>
+        <path d="M 4954 10051.968 L 4954 10007.996 C 4954 10004.962 4966.312 10002.5 4981.482 10002.5 C 4996.6525 10002.5 5008.9645 10004.962 5008.9645 10007.996 L 5008.9645 10051.968 C 5008.9645 10055.002 4996.6525 10057.465 4981.482 10057.465 C 4966.312 10057.465 4954 10055.002 4954 10051.968 M 4954 10007.996 C 4954 10011.03 4966.312 10013.493 4981.482 10013.493 C 4996.6525 10013.493 5008.9645 10011.03 5008.9645 10007.996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(4959 10014.282)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.03426" y="33.448">2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_445">
+        <path d="M 5011.858 10106.968 L 5011.858 10062.996 C 5011.858 10059.962 5024.17 10057.5 5039.3403 10057.5 C 5054.5106 10057.5 5066.8226 10059.962 5066.8226 10062.996 L 5066.8226 10106.968 C 5066.8226 10110.002 5054.5106 10112.465 5039.3403 10112.465 C 5024.17 10112.465 5011.858 10110.002 5011.858 10106.968" fill="white"/>
+        <path d="M 5011.858 10106.968 L 5011.858 10062.996 C 5011.858 10059.962 5024.17 10057.5 5039.3403 10057.5 C 5054.5106 10057.5 5066.8226 10059.962 5066.8226 10062.996 L 5066.8226 10106.968 C 5066.8226 10110.002 5054.5106 10112.465 5039.3403 10112.465 C 5024.17 10112.465 5011.858 10110.002 5011.858 10106.968 M 5011.858 10062.996 C 5011.858 10066.03 5024.17 10068.493 5039.3403 10068.493 C 5054.5106 10068.493 5066.8226 10066.03 5066.8226 10062.996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5016.858 10069.282)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.03426" y="33.448">3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_450">
+        <path d="M 5070.8936 10138.968 L 5070.8936 10094.996 C 5070.8936 10091.962 5083.2056 10089.5 5098.376 10089.5 C 5113.546 10089.5 5125.858 10091.962 5125.858 10094.996 L 5125.858 10138.968 C 5125.858 10142.002 5113.546 10144.465 5098.376 10144.465 C 5083.2056 10144.465 5070.8936 10142.002 5070.8936 10138.968" fill="white"/>
+        <path d="M 5070.8936 10138.968 L 5070.8936 10094.996 C 5070.8936 10091.962 5083.2056 10089.5 5098.376 10089.5 C 5113.546 10089.5 5125.858 10091.962 5125.858 10094.996 L 5125.858 10138.968 C 5125.858 10142.002 5113.546 10144.465 5098.376 10144.465 C 5083.2056 10144.465 5070.8936 10142.002 5070.8936 10138.968 M 5070.8936 10094.996 C 5070.8936 10098.03 5083.2056 10100.493 5098.376 10100.493 C 5113.546 10100.493 5125.858 10098.03 5125.858 10094.996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5075.8936 10101.282)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.03426" y="33.448">4</tspan>
+        </text>
+      </g>
+      <g id="Graphic_449">
+        <path d="M 5129.929 10164.968 L 5129.929 10120.996 C 5129.929 10117.962 5142.241 10115.5 5157.411 10115.5 C 5172.5815 10115.5 5184.8936 10117.962 5184.8936 10120.996 L 5184.8936 10164.968 C 5184.8936 10168.002 5172.5815 10170.465 5157.411 10170.465 C 5142.241 10170.465 5129.929 10168.002 5129.929 10164.968" fill="white"/>
+        <path d="M 5129.929 10164.968 L 5129.929 10120.996 C 5129.929 10117.962 5142.241 10115.5 5157.411 10115.5 C 5172.5815 10115.5 5184.8936 10117.962 5184.8936 10120.996 L 5184.8936 10164.968 C 5184.8936 10168.002 5172.5815 10170.465 5157.411 10170.465 C 5142.241 10170.465 5129.929 10168.002 5129.929 10164.968 M 5129.929 10120.996 C 5129.929 10124.03 5142.241 10126.493 5157.411 10126.493 C 5172.5815 10126.493 5184.8936 10124.03 5184.8936 10120.996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5134.929 10127.282)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.03426" y="33.448">5</tspan>
+        </text>
+      </g>
+      <g id="Graphic_448">
+        <path d="M 5188.9645 10193.968 L 5188.9645 10149.996 C 5188.9645 10146.962 5201.2766 10144.5 5216.447 10144.5 C 5231.617 10144.5 5243.929 10146.962 5243.929 10149.996 L 5243.929 10193.968 C 5243.929 10197.002 5231.617 10199.465 5216.447 10199.465 C 5201.2766 10199.465 5188.9645 10197.002 5188.9645 10193.968" fill="white"/>
+        <path d="M 5188.9645 10193.968 L 5188.9645 10149.996 C 5188.9645 10146.962 5201.2766 10144.5 5216.447 10144.5 C 5231.617 10144.5 5243.929 10146.962 5243.929 10149.996 L 5243.929 10193.968 C 5243.929 10197.002 5231.617 10199.465 5216.447 10199.465 C 5201.2766 10199.465 5188.9645 10197.002 5188.9645 10193.968 M 5188.9645 10149.996 C 5188.9645 10153.03 5201.2766 10155.493 5216.447 10155.493 C 5231.617 10155.493 5243.929 10153.03 5243.929 10149.996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5193.9645 10156.282)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.03426" y="33.448">6</tspan>
+        </text>
+      </g>
+      <g id="Graphic_447">
+        <path d="M 5248 10204.968 L 5248 10160.996 C 5248 10157.962 5260.312 10155.5 5275.482 10155.5 C 5290.6525 10155.5 5302.9645 10157.962 5302.9645 10160.996 L 5302.9645 10204.968 C 5302.9645 10208.002 5290.6525 10210.465 5275.482 10210.465 C 5260.312 10210.465 5248 10208.002 5248 10204.968" fill="white"/>
+        <path d="M 5248 10204.968 L 5248 10160.996 C 5248 10157.962 5260.312 10155.5 5275.482 10155.5 C 5290.6525 10155.5 5302.9645 10157.962 5302.9645 10160.996 L 5302.9645 10204.968 C 5302.9645 10208.002 5290.6525 10210.465 5275.482 10210.465 C 5260.312 10210.465 5248 10208.002 5248 10204.968 M 5248 10160.996 C 5248 10164.03 5260.312 10166.493 5275.482 10166.493 C 5290.6525 10166.493 5302.9645 10164.03 5302.9645 10160.996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5253 10167.282)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.03426" y="33.448">7</tspan>
+        </text>
+      </g>
+      <g id="Graphic_454">
+        <path d="M 5307.0355 10204.968 L 5307.0355 10160.996 C 5307.0355 10157.962 5319.3475 10155.5 5334.518 10155.5 C 5349.688 10155.5 5362 10157.962 5362 10160.996 L 5362 10204.968 C 5362 10208.002 5349.688 10210.465 5334.518 10210.465 C 5319.3475 10210.465 5307.0355 10208.002 5307.0355 10204.968" fill="white"/>
+        <path d="M 5307.0355 10204.968 L 5307.0355 10160.996 C 5307.0355 10157.962 5319.3475 10155.5 5334.518 10155.5 C 5349.688 10155.5 5362 10157.962 5362 10160.996 L 5362 10204.968 C 5362 10208.002 5349.688 10210.465 5334.518 10210.465 C 5319.3475 10210.465 5307.0355 10208.002 5307.0355 10204.968 M 5307.0355 10160.996 C 5307.0355 10164.03 5319.3475 10166.493 5334.518 10166.493 C 5349.688 10166.493 5362 10164.03 5362 10160.996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5312.0355 10167.282)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.03426" y="33.448">8</tspan>
+        </text>
+      </g>
+      <g id="Graphic_453">
+        <path d="M 5366.071 10193.968 L 5366.071 10149.996 C 5366.071 10146.962 5378.383 10144.5 5393.553 10144.5 C 5408.7234 10144.5 5421.0355 10146.962 5421.0355 10149.996 L 5421.0355 10193.968 C 5421.0355 10197.002 5408.7234 10199.465 5393.553 10199.465 C 5378.383 10199.465 5366.071 10197.002 5366.071 10193.968" fill="white"/>
+        <path d="M 5366.071 10193.968 L 5366.071 10149.996 C 5366.071 10146.962 5378.383 10144.5 5393.553 10144.5 C 5408.7234 10144.5 5421.0355 10146.962 5421.0355 10149.996 L 5421.0355 10193.968 C 5421.0355 10197.002 5408.7234 10199.465 5393.553 10199.465 C 5378.383 10199.465 5366.071 10197.002 5366.071 10193.968 M 5366.071 10149.996 C 5366.071 10153.03 5378.383 10155.493 5393.553 10155.493 C 5408.7234 10155.493 5421.0355 10153.03 5421.0355 10149.996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5371.071 10156.282)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.03426" y="33.448">9</tspan>
+        </text>
+      </g>
+      <g id="Graphic_452">
+        <path d="M 5425.1064 10164.968 L 5425.1064 10120.996 C 5425.1064 10117.962 5437.4185 10115.5 5452.589 10115.5 C 5467.759 10115.5 5480.071 10117.962 5480.071 10120.996 L 5480.071 10164.968 C 5480.071 10168.002 5467.759 10170.465 5452.589 10170.465 C 5437.4185 10170.465 5425.1064 10168.002 5425.1064 10164.968" fill="white"/>
+        <path d="M 5425.1064 10164.968 L 5425.1064 10120.996 C 5425.1064 10117.962 5437.4185 10115.5 5452.589 10115.5 C 5467.759 10115.5 5480.071 10117.962 5480.071 10120.996 L 5480.071 10164.968 C 5480.071 10168.002 5467.759 10170.465 5452.589 10170.465 C 5437.4185 10170.465 5425.1064 10168.002 5425.1064 10164.968 M 5425.1064 10120.996 C 5425.1064 10124.03 5437.4185 10126.493 5452.589 10126.493 C 5467.759 10126.493 5480.071 10124.03 5480.071 10120.996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5430.1064 10127.282)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.58626" y="33.448">10</tspan>
+        </text>
+      </g>
+      <g id="Graphic_451">
+        <path d="M 5484.142 10138.968 L 5484.142 10094.996 C 5484.142 10091.962 5496.454 10089.5 5511.624 10089.5 C 5526.7944 10089.5 5539.1064 10091.962 5539.1064 10094.996 L 5539.1064 10138.968 C 5539.1064 10142.002 5526.7944 10144.465 5511.624 10144.465 C 5496.454 10144.465 5484.142 10142.002 5484.142 10138.968" fill="white"/>
+        <path d="M 5484.142 10138.968 L 5484.142 10094.996 C 5484.142 10091.962 5496.454 10089.5 5511.624 10089.5 C 5526.7944 10089.5 5539.1064 10091.962 5539.1064 10094.996 L 5539.1064 10138.968 C 5539.1064 10142.002 5526.7944 10144.465 5511.624 10144.465 C 5496.454 10144.465 5484.142 10142.002 5484.142 10138.968 M 5484.142 10094.996 C 5484.142 10098.03 5496.454 10100.493 5511.624 10100.493 C 5526.7944 10100.493 5539.1064 10098.03 5539.1064 10094.996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5489.142 10101.282)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.58626" y="33.448">11</tspan>
+        </text>
+      </g>
+      <g id="Graphic_458">
+        <path d="M 5543.1774 10106.968 L 5543.1774 10062.996 C 5543.1774 10059.962 5555.4894 10057.5 5570.6597 10057.5 C 5585.83 10057.5 5598.142 10059.962 5598.142 10062.996 L 5598.142 10106.968 C 5598.142 10110.002 5585.83 10112.465 5570.6597 10112.465 C 5555.4894 10112.465 5543.1774 10110.002 5543.1774 10106.968" fill="white"/>
+        <path d="M 5543.1774 10106.968 L 5543.1774 10062.996 C 5543.1774 10059.962 5555.4894 10057.5 5570.6597 10057.5 C 5585.83 10057.5 5598.142 10059.962 5598.142 10062.996 L 5598.142 10106.968 C 5598.142 10110.002 5585.83 10112.465 5570.6597 10112.465 C 5555.4894 10112.465 5543.1774 10110.002 5543.1774 10106.968 M 5543.1774 10062.996 C 5543.1774 10066.03 5555.4894 10068.493 5570.6597 10068.493 C 5585.83 10068.493 5598.142 10066.03 5598.142 10062.996" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5548.1774 10069.282)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.58626" y="33.448">12</tspan>
+        </text>
+      </g>
+      <g id="Graphic_457">
+        <path d="M 5602.213 10047.841 L 5602.213 10003.87 C 5602.213 10000.836 5614.525 9998.373 5629.695 9998.373 C 5644.8653 9998.373 5657.1774 10000.836 5657.1774 10003.87 L 5657.1774 10047.841 C 5657.1774 10050.876 5644.8653 10053.338 5629.695 10053.338 C 5614.525 10053.338 5602.213 10050.876 5602.213 10047.841" fill="white"/>
+        <path d="M 5602.213 10047.841 L 5602.213 10003.87 C 5602.213 10000.836 5614.525 9998.373 5629.695 9998.373 C 5644.8653 9998.373 5657.1774 10000.836 5657.1774 10003.87 L 5657.1774 10047.841 C 5657.1774 10050.876 5644.8653 10053.338 5629.695 10053.338 C 5614.525 10053.338 5602.213 10050.876 5602.213 10047.841 M 5602.213 10003.87 C 5602.213 10006.904 5614.525 10009.366 5629.695 10009.366 C 5644.8653 10009.366 5657.1774 10006.904 5657.1774 10003.87" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5607.213 10010.156)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.58626" y="33.448">13</tspan>
+        </text>
+      </g>
+      <g id="Graphic_456">
+        <path d="M 5651.5 9992.877 L 5651.5 9948.905 C 5651.5 9945.871 5663.812 9943.409 5678.982 9943.409 C 5694.1525 9943.409 5706.4645 9945.871 5706.4645 9948.905 L 5706.4645 9992.877 C 5706.4645 9995.911 5694.1525 9998.373 5678.982 9998.373 C 5663.812 9998.373 5651.5 9995.911 5651.5 9992.877" fill="white"/>
+        <path d="M 5651.5 9992.877 L 5651.5 9948.905 C 5651.5 9945.871 5663.812 9943.409 5678.982 9943.409 C 5694.1525 9943.409 5706.4645 9945.871 5706.4645 9948.905 L 5706.4645 9992.877 C 5706.4645 9995.911 5694.1525 9998.373 5678.982 9998.373 C 5663.812 9998.373 5651.5 9995.911 5651.5 9992.877 M 5651.5 9948.905 C 5651.5 9951.939 5663.812 9954.402 5678.982 9954.402 C 5694.1525 9954.402 5706.4645 9951.939 5706.4645 9948.905" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5656.5 9955.191)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.58626" y="33.448">14</tspan>
+        </text>
+      </g>
+      <g id="Graphic_455">
+        <path d="M 5661.2484 9929.786 L 5661.2484 9885.814 C 5661.2484 9882.78 5673.5604 9880.318 5688.7306 9880.318 C 5703.901 9880.318 5716.213 9882.78 5716.213 9885.814 L 5716.213 9929.786 C 5716.213 9932.82 5703.901 9935.282 5688.7306 9935.282 C 5673.5604 9935.282 5661.2484 9932.82 5661.2484 9929.786" fill="white"/>
+        <path d="M 5661.2484 9929.786 L 5661.2484 9885.814 C 5661.2484 9882.78 5673.5604 9880.318 5688.7306 9880.318 C 5703.901 9880.318 5716.213 9882.78 5716.213 9885.814 L 5716.213 9929.786 C 5716.213 9932.82 5703.901 9935.282 5688.7306 9935.282 C 5673.5604 9935.282 5661.2484 9932.82 5661.2484 9929.786 M 5661.2484 9885.814 C 5661.2484 9888.848 5673.5604 9891.311 5688.7306 9891.311 C 5703.901 9891.311 5716.213 9888.848 5716.213 9885.814" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5666.2484 9892.1)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.2902598" y="15">Shard</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.58626" y="33.448">15</tspan>
+        </text>
+      </g>
+      <g id="Line_459">
+        <line x1="5306.3" y1="9789" x2="5306.3" y2="9862.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_460">
+        <line x1="5233.5" y1="9907.8" x2="4961.2516" y2="9907.8" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_461">
+        <line x1="5252.1435" y1="9916.968" x2="4970.861" y2="9964.586" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_462">
+        <line x1="5265.052" y1="9923.316" x2="5018.2307" y2="10016.159" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_463">
+        <line x1="5275.317" y1="9928.364" x2="5075.071" y2="10061.268" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_464">
+        <line x1="5282.3984" y1="9931.846" x2="5129.7324" y2="10085.436" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_465">
+        <line x1="5289.0165" y1="9935.101" x2="5179.39" y2="10108.265" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_466">
+        <line x1="5295.8685" y1="9938.47" x2="5228.8734" y2="10135.446" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_467">
+        <line x1="5302.5" y1="9941.731" x2="5279.658" y2="10145.696" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_468">
+        <line x1="5309.795" y1="9941.881" x2="5330.693" y2="10145.68" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_469">
+        <line x1="5316.472" y1="9938.598" x2="5381.471" y2="10135.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_470">
+        <line x1="5323.3524" y1="9935.214" x2="5430.9425" y2="10108.183" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_471">
+        <line x1="5330" y1="9931.945" x2="5480.535" y2="10085.309" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_472">
+        <line x1="5337.109" y1="9928.449" x2="5534.9537" y2="10061.051" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_473">
+        <line x1="5348.083" y1="9923.053" x2="5592.913" y2="10012.428" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_474">
+        <line x1="5360.4565" y1="9916.968" x2="5641.739" y2="9964.586" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_475">
+        <line x1="5379.1" y1="9907.8" x2="5651.3484" y2="9907.8" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

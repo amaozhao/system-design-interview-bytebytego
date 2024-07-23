@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1120.5 6930 743.46 127.448" width="743.46" height="127.448">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="12_digital_wallet" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>12.digital wallet</title>
+    <g id="12_digital_wallet_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2336">
+        <rect x="1733.428" y="6936.7005" width="130.032" height="98.0495" fill="white"/>
+        <rect x="1733.428" y="6936.7005" width="130.032" height="98.0495" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2327">
+        <rect x="1417.164" y="6936.7005" width="137.09998" height="98.0495" fill="white"/>
+        <rect x="1417.164" y="6936.7005" width="137.09998" height="98.0495" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2330">
+        <rect x="1456" y="6955.125" width="59.428" height="53.75" fill="white"/>
+        <rect x="1456" y="6955.125" width="59.428" height="53.75" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2326">
+        <path d="M 1121 7029.323 L 1121 6963.408 L 1179.5 6930.5 L 1238 6963.408 L 1238 7029.323 Z" fill="white"/>
+        <path d="M 1121 7029.323 L 1121 6963.408 L 1179.5 6930.5 L 1238 6963.408 L 1238 7029.323 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2324">
+        <title>Payment</title>
+        <path d="M 1195.5 6966 L 1163.5 6966 C 1161.28 6966 1159.52 6967.78 1159.52 6970 L 1159.5 6994 C 1159.5 6996.22 1161.28 6998 1163.5 6998 L 1195.5 6998 C 1197.72 6998 1199.5 6996.22 1199.5 6994 L 1199.5 6970 C 1199.5 6967.78 1197.72 6966 1195.5 6966 Z M 1195.5 6994 L 1163.5 6994 L 1163.5 6982 L 1195.5 6982 L 1195.5 6994 Z M 1195.5 6974 L 1163.5 6974 L 1163.5 6970 L 1195.5 6970 L 1195.5 6974 Z" fill="black"/>
+      </g>
+      <g id="Graphic_2325">
+        <text transform="translate(1142.494 7003)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1278977e-19" y="15">Bank card</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2328">
+        <title>Local Grocery Store</title>
+        <path d="M 1790.444 6994 C 1788.244 6994 1786.464 6995.8 1786.464 6998 C 1786.464 7000.2 1788.244 7002 1790.444 7002 C 1792.644 7002 1794.444 7000.2 1794.444 6998 C 1794.444 6995.8 1792.644 6994 1790.444 6994 Z M 1778.444 6962 L 1778.444 6966 L 1782.444 6966 L 1789.644 6981.18 L 1786.944 6986.08 C 1786.624 6986.64 1786.444 6987.3 1786.444 6988 C 1786.444 6990.2 1788.244 6992 1790.444 6992 L 1814.444 6992 L 1814.444 6988 L 1791.284 6988 C 1791.004 6988 1790.784 6987.78 1790.784 6987.5 L 1790.844 6987.26 L 1792.644 6984 L 1807.544 6984 C 1809.044 6984 1810.364 6983.18 1811.044 6981.94 L 1818.204 6968.96 C 1818.364 6968.68 1818.444 6968.34 1818.444 6968 C 1818.444 6966.9 1817.544 6966 1816.444 6966 L 1786.864 6966 L 1784.984 6962 L 1778.444 6962 Z M 1810.444 6994 C 1808.244 6994 1806.464 6995.8 1806.464 6998 C 1806.464 7000.2 1808.244 7002 1810.444 7002 C 1812.644 7002 1814.444 7000.2 1814.444 6998 C 1814.444 6995.8 1812.644 6994 1810.444 6994 Z" fill="black"/>
+      </g>
+      <g id="Graphic_2329">
+        <title>Attach Money</title>
+        <path d="M 1486.494 6979.8 C 1481.954 6978.62 1480.494 6977.4 1480.494 6975.5 C 1480.494 6973.32 1482.514 6971.8 1485.894 6971.8 C 1489.454 6971.8 1490.774 6973.5 1490.894 6976 L 1495.314 6976 C 1495.174 6972.56 1493.074 6969.4 1488.894 6968.38 L 1488.894 6964 L 1482.894 6964 L 1482.894 6968.32 C 1479.014 6969.16 1475.894 6971.68 1475.894 6975.54 C 1475.894 6980.16 1479.714 6982.46 1485.294 6983.8 C 1490.294 6985 1491.294 6986.76 1491.294 6988.62 C 1491.294 6990 1490.314 6992.2 1485.894 6992.2 C 1481.774 6992.2 1480.154 6990.36 1479.934 6988 L 1475.534 6988 C 1475.774 6992.38 1479.054 6994.84 1482.894 6995.66 L 1482.894 7e3 L 1488.894 7e3 L 1488.894 6995.7 C 1492.794 6994.96 1495.894 6992.7 1495.894 6988.6 C 1495.894 6982.92 1491.034 6980.98 1486.494 6979.8 Z" fill="black"/>
+      </g>
+      <g id="Line_2331">
+        <line x1="1199.5" y1="6982" x2="1446.1" y2="6982" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_2332">
+        <line x1="1515.428" y1="6982" x2="1768.544" y2="6982" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2333">
+        <rect x="1295.1113" y="6967.776" width="65.12" height="28.447998" fill="white"/>
+        <text transform="translate(1300.1113 6972.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Deposit</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2334">
+        <text transform="translate(1160.574 7038)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="20250468e-20" y="15">Bank</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2335">
+        <text transform="translate(1425.098 7038)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Payment System</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2337">
+        <text transform="translate(1741.24 7038)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21316282e-20" y="15">E-commerce site</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2338">
+        <text transform="translate(1440.394 7009.875)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Digital wallet</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

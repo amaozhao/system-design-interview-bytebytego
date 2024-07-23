@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1426.8768 7287.1 331.802 136.35" width="331.802" height="136.35">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-04-18 04:30:54 +0000</metadata>
+  <g id="12_digital_wallet" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>12.digital wallet</title>
+    <g id="12_digital_wallet_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2346">
+        <rect x="1427.3768" y="7287.6" width="330.802" height="135.35" fill="white"/>
+        <rect x="1427.3768" y="7287.6" width="330.802" height="135.35" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2345">
+        <rect x="1458.5" y="7337.5" width="59.428" height="53.75" fill="white"/>
+        <rect x="1458.5" y="7337.5" width="59.428" height="53.75" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2344">
+        <title>Attach Money</title>
+        <path d="M 1488.994 7362.175 C 1484.454 7360.995 1482.994 7359.775 1482.994 7357.875 C 1482.994 7355.695 1485.014 7354.175 1488.394 7354.175 C 1491.954 7354.175 1493.274 7355.875 1493.394 7358.375 L 1497.814 7358.375 C 1497.674 7354.935 1495.574 7351.775 1491.394 7350.755 L 1491.394 7346.375 L 1485.394 7346.375 L 1485.394 7350.695 C 1481.514 7351.535 1478.394 7354.055 1478.394 7357.915 C 1478.394 7362.535 1482.214 7364.835 1487.794 7366.175 C 1492.794 7367.375 1493.794 7369.135 1493.794 7370.995 C 1493.794 7372.375 1492.814 7374.575 1488.394 7374.575 C 1484.274 7374.575 1482.654 7372.735 1482.434 7370.375 L 1478.034 7370.375 C 1478.274 7374.755 1481.554 7377.215 1485.394 7378.035 L 1485.394 7382.375 L 1491.394 7382.375 L 1491.394 7378.075 C 1495.294 7377.335 1498.394 7375.075 1498.394 7370.975 C 1498.394 7365.295 1493.534 7363.355 1488.994 7362.175 Z" fill="black"/>
+      </g>
+      <g id="Graphic_2340">
+        <text transform="translate(1528.7618 7297.8)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Payment Platform</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2339">
+        <text transform="translate(1442.894 7392.25)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Digital wallet</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2349">
+        <rect x="1659.106" y="7337.5" width="59.428" height="53.75" fill="white"/>
+        <rect x="1659.106" y="7337.5" width="59.428" height="53.75" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2348">
+        <title>Attach Money</title>
+        <path d="M 1689.6 7362.175 C 1685.06 7360.995 1683.6 7359.775 1683.6 7357.875 C 1683.6 7355.695 1685.62 7354.175 1689 7354.175 C 1692.56 7354.175 1693.88 7355.875 1694 7358.375 L 1698.42 7358.375 C 1698.28 7354.935 1696.18 7351.775 1692 7350.755 L 1692 7346.375 L 1686 7346.375 L 1686 7350.695 C 1682.12 7351.535 1679 7354.055 1679 7357.915 C 1679 7362.535 1682.82 7364.835 1688.4 7366.175 C 1693.4 7367.375 1694.4 7369.135 1694.4 7370.995 C 1694.4 7372.375 1693.42 7374.575 1689 7374.575 C 1684.88 7374.575 1683.26 7372.735 1683.04 7370.375 L 1678.64 7370.375 C 1678.88 7374.755 1682.16 7377.215 1686 7378.035 L 1686 7382.375 L 1692 7382.375 L 1692 7378.075 C 1695.9 7377.335 1699 7375.075 1699 7370.975 C 1699 7365.295 1694.14 7363.355 1689.6 7362.175 Z" fill="black"/>
+      </g>
+      <g id="Graphic_2347">
+        <text transform="translate(1643.5 7392.25)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Digital wallet</tspan>
+        </text>
+      </g>
+      <g id="Line_2350">
+        <line x1="1517.928" y1="7364.375" x2="1649.206" y2="7364.375" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2351">
+        <rect x="1554.2676" y="7350.151" width="67.184" height="28.447998" fill="white"/>
+        <text transform="translate(1559.2676 7355.151)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="5506706e-19" y="15">Transfer</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

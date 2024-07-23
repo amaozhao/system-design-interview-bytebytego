@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1791.536 4576.1 466.5009 219.89993" width="466.5009" height="219.89993">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="07_hotel" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>07.hotel</title>
+    <g id="07_hotel_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_7">
+        <path d="M 1792.036 4576.6 L 2024.7865 4795.5 L 2257.537 4576.6 Z" fill="white"/>
+        <path d="M 1792.036 4576.6 L 2024.7865 4795.5 L 2257.537 4576.6 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 1863.2176 4643.6 L 2024.7865 4795.5 L 2186.3554 4643.6 Z" fill="white"/>
+        <path d="M 1863.2176 4643.6 L 2024.7865 4795.5 L 2186.3554 4643.6 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2">
+        <path d="M 1938.5241 4714.5 L 2024.7865 4795.5 L 2111.049 4714.5 Z" fill="white"/>
+        <path d="M 1938.5241 4714.5 L 2024.7865 4795.5 L 2111.049 4714.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_3">
+        <text transform="translate(1947.6012 4588.8)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">View hotel/room detail</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="40.824" y="33.448">(QPS=300)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(1953.2105 4656.102)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Order booking page</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="37.288" y="33.448">(QPS=30)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(1971.0025 4719.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Reserve rooms</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="23.944" y="33.448">(QPS=3)</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

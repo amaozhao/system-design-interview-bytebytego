@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2498 9233 584.5 333" width="584.5" height="333">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="05_metrics" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>05.metrics</title>
+    <g id="05_metrics_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_159">
+        <rect x="2498.5" y="9233.5" width="183.5" height="332" fill="white"/>
+        <path d="M 2498.5 9233.5 L 2682 9233.5 L 2682 9565.5 L 2498.5 9565.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_158">
+        <rect x="2517" y="9269.5" width="145.5" height="51.5" fill="white"/>
+        <rect x="2517" y="9269.5" width="145.5" height="51.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2522 9286.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.43" y="15">Web Servers</tspan>
+        </text>
+      </g>
+      <g id="Graphic_157">
+        <rect x="2517" y="9344.5" width="145.5" height="51.5" fill="white"/>
+        <rect x="2517" y="9344.5" width="145.5" height="51.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2522 9361.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.934" y="15">DB Clusters</tspan>
+        </text>
+      </g>
+      <g id="Graphic_156">
+        <rect x="2517" y="9419.5" width="145.5" height="51.5" fill="white"/>
+        <rect x="2517" y="9419.5" width="145.5" height="51.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2522 9436.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.478" y="15">Queue Clusters</tspan>
+        </text>
+      </g>
+      <g id="Graphic_155">
+        <rect x="2517" y="9494.5" width="145.5" height="51.5" fill="white"/>
+        <rect x="2517" y="9494.5" width="145.5" height="51.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2522 9511.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.934" y="15">Cache Clusters</tspan>
+        </text>
+      </g>
+      <g id="Graphic_154">
+        <rect x="2936.5" y="9379.5" width="145.5" height="51.5" fill="white"/>
+        <rect x="2936.5" y="9379.5" width="145.5" height="51.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2941.5 9396.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.718" y="15">Metrics Collector</tspan>
+        </text>
+      </g>
+      <g id="Line_153">
+        <line x1="2662.5" y1="9314.326" x2="2926.9237" y2="9383.663" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_152">
+        <line x1="2662.5" y1="9376.32" x2="2926.6343" y2="9398.357" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_151">
+        <line x1="2662.5" y1="9438.313" x2="2926.6447" y2="9413.127" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_150">
+        <line x1="2662.5" y1="9500.307" x2="2926.9523" y2="9427.811" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_149">
+        <rect x="2737.3186" y="9336.224" width="95.36" height="20.447998" fill="white"/>
+        <text transform="translate(2738.3186 9337.224)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="29132252e-20" y="15">Push metrics</tspan>
+        </text>
+      </g>
+      <g id="Graphic_148">
+        <rect x="2737.903" y="9376.365" width="95.36" height="20.447998" fill="white"/>
+        <text transform="translate(2738.903 9377.365)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="29132252e-20" y="15">Push metrics</tspan>
+        </text>
+      </g>
+      <g id="Graphic_147">
+        <rect x="2737.206" y="9416.42" width="95.36" height="20.447998" fill="white"/>
+        <text transform="translate(2738.206 9417.42)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="29132252e-20" y="15">Push metrics</tspan>
+        </text>
+      </g>
+      <g id="Graphic_146">
+        <rect x="2737.2184" y="9456.529" width="95.36" height="20.447998" fill="white"/>
+        <text transform="translate(2738.2184 9457.529)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="29132252e-20" y="15">Push metrics</tspan>
+        </text>
+      </g>
+      <g id="Graphic_145">
+        <text transform="translate(2536.17 9238)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Metrics Source</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

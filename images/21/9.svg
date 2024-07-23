@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2381.5 9643.965 439.24837 117.47114" width="439.24837" height="117.47114">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="13" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="05_metrics" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>05.metrics</title>
+    <g id="05_metrics_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_103">
+        <rect x="2382" y="9670.2" width="231.5" height="65" fill="white"/>
+        <rect x="2382" y="9670.2" width="231.5" height="65" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_102">
+        <rect x="2394.5" y="9702.7" width="99.1539" height="20.447998" fill="white"/>
+        <rect x="2394.5" y="9702.7" width="99.1539" height="20.447998" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2399.5 9703.7)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="28.720954" y="15">etcd</tspan>
+        </text>
+      </g>
+      <g id="Graphic_101">
+        <rect x="2502.5" y="9702.7" width="99.1539" height="20.447998" fill="white"/>
+        <rect x="2502.5" y="9702.7" width="99.1539" height="20.447998" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2507.5 9703.7)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.056954" y="15">Zookeeper</tspan>
+        </text>
+      </g>
+      <g id="Graphic_100">
+        <text transform="translate(2433.758 9675.7)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19184654e-20" y="15">Service Discovery</tspan>
+        </text>
+      </g>
+      <g id="Graphic_104">
+        <path d="M 2778.973 9663.077 C 2778.973 9657.118 2777.5104 9656.381 2766.8258 9650.484 L 2766.713 9650.423 C 2755.972 9644.465 2755.86 9644.465 2744.837 9644.465 C 2730.1593 9644.465 2663.8 9644.465 2663.8 9644.465 L 2663.8 9707.365 L 2778.973 9707.365 L 2778.973 9663.077 Z" fill="white"/>
+        <path d="M 2778.973 9663.077 C 2778.973 9657.118 2777.5104 9656.381 2766.8258 9650.484 L 2766.713 9650.423 C 2755.972 9644.465 2755.86 9644.465 2744.837 9644.465 C 2730.1593 9644.465 2663.8 9644.465 2663.8 9644.465 L 2663.8 9707.365 L 2778.973 9707.365 L 2778.973 9663.077 Z M 2778.973 9662.77 C 2778.973 9657.118 2778.8602 9657.118 2755.86 9657.118 L 2755.86 9657.118 C 2755.86 9644.526 2755.86 9644.465 2745.512 9644.465" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_105">
+        <text transform="translate(2672.8096 9657.565)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="12">region: us-west</tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="27.364">type: mysql</tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="42.727997">host: 10.10.11.1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_107">
+        <path d="M 2799.746 9690.289 C 2799.746 9684.33 2798.2834 9683.593 2787.599 9677.696 L 2787.486 9677.635 C 2776.745 9671.676 2776.6332 9671.676 2765.61 9671.676 C 2750.9323 9671.676 2684.573 9671.676 2684.573 9671.676 L 2684.573 9734.577 L 2799.746 9734.577 L 2799.746 9690.289 Z" fill="white"/>
+        <path d="M 2799.746 9690.289 C 2799.746 9684.33 2798.2834 9683.593 2787.599 9677.696 L 2787.486 9677.635 C 2776.745 9671.676 2776.6332 9671.676 2765.61 9671.676 C 2750.9323 9671.676 2684.573 9671.676 2684.573 9671.676 L 2684.573 9734.577 L 2799.746 9734.577 L 2799.746 9690.289 Z M 2799.746 9689.982 C 2799.746 9684.33 2799.6333 9684.33 2776.6332 9684.33 L 2776.6332 9684.33 C 2776.6332 9671.738 2776.6332 9671.676 2766.285 9671.676" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_106">
+        <text transform="translate(2693.5827 9684.777)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="12">region: us-south</tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="27.364">type: mysql</tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="42.727997">host: 10.10.11.1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_109">
+        <path d="M 2820.2484 9716.648 C 2820.2484 9710.689 2818.7857 9709.952 2808.101 9704.055 L 2807.9882 9703.994 C 2797.2472 9698.036 2797.1355 9698.036 2786.1123 9698.036 C 2771.4346 9698.036 2705.0754 9698.036 2705.0754 9698.036 L 2705.0754 9760.936 L 2820.2484 9760.936 L 2820.2484 9716.648 Z" fill="white"/>
+        <path d="M 2820.2484 9716.648 C 2820.2484 9710.689 2818.7857 9709.952 2808.101 9704.055 L 2807.9882 9703.994 C 2797.2472 9698.036 2797.1355 9698.036 2786.1123 9698.036 C 2771.4346 9698.036 2705.0754 9698.036 2705.0754 9698.036 L 2705.0754 9760.936 L 2820.2484 9760.936 L 2820.2484 9716.648 Z M 2820.2484 9716.341 C 2820.2484 9710.689 2820.1355 9710.689 2797.1355 9710.689 L 2797.1355 9710.689 C 2797.1355 9698.097 2797.1355 9698.036 2786.7872 9698.036" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_108">
+        <text transform="translate(2714.085 9711.136)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="12">region: us-east</tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="27.364">type: mysql</tspan>
+          <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="42.727997">host: 10.10.11.1</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

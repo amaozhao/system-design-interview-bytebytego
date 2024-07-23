@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="653.5 6226.5 736.8037 194.85427" width="736.8037" height="194.85427">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="07_hotel" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>07.hotel</title>
+    <g id="07_hotel_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_609">
+        <rect x="654" y="6250.559" width="108.23412" height="43.66701" fill="white"/>
+        <rect x="654" y="6250.559" width="108.23412" height="43.66701" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(659 6253.9446)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.749062" y="15">Reservation </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.605062" y="33.448">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_610">
+        <rect x="654" y="6358.333" width="108.23412" height="43.66701" fill="white"/>
+        <rect x="654" y="6358.333" width="108.23412" height="43.66701" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(659 6370.9425)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.7890616" y="15">Rate Service</tspan>
+        </text>
+      </g>
+      <g id="Line_611">
+        <line x1="708.1171" y1="6294.226" x2="708.1171" y2="6348.433" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_612">
+        <rect x="1024" y="6250.559" width="165.49522" height="43.66701" fill="white"/>
+        <rect x="1024" y="6250.559" width="165.49522" height="43.66701" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1029 6253.9446)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="9.579612" y="15">Hotel Management </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="51.23561" y="33.448">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_614">
+        <rect x="830.7152" y="6358.333" width="108.23412" height="43.66701" fill="white"/>
+        <rect x="830.7152" y="6358.333" width="108.23412" height="43.66701" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(835.7152 6370.9425)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="1.4210616" y="15">Hotel Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_613">
+        <rect x="981" y="6358.333" width="108.23412" height="43.66701" fill="white"/>
+        <rect x="981" y="6358.333" width="108.23412" height="43.66701" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(986 6370.9425)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="3.7890616" y="15">Rate Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_615">
+        <rect x="1131.2848" y="6358.333" width="108.23412" height="43.66701" fill="white"/>
+        <rect x="1131.2848" y="6358.333" width="108.23412" height="43.66701" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1136.2848 6361.7185)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.749062" y="15">Reservation </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.605062" y="33.448">Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_616">
+        <rect x="1281.5695" y="6358.333" width="108.23412" height="43.66701" fill="white"/>
+        <rect x="1281.5695" y="6358.333" width="108.23412" height="43.66701" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1286.5695 6370.9425)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="33.11706" y="15">……</tspan>
+        </text>
+      </g>
+      <g id="Line_617">
+        <line x1="1061.7906" y1="6294.226" x2="938.6946" y2="6354.008" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_618">
+        <line x1="1092.2362" y1="6294.226" x2="1055.1084" y2="6350.088" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_619">
+        <line x1="1122.6819" y1="6294.226" x2="1163.6314" y2="6350.336" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_620">
+        <line x1="1153.1275" y1="6294.226" x2="1280.3496" y2="6354.1164" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_621">
+        <line x1="795.9747" y1="6227" x2="795.9747" y2="6420.854" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2320 6569.195 398 402.7355" width="398" height="402.7355">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="03_google_map" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>03.google map</title>
+    <g id="03_google_map_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_176">
+        <title>Phone iPhone</title>
+        <path d="M 2422.5 6589.643 L 2406.5 6589.643 C 2403.74 6589.643 2401.5 6591.883 2401.5 6594.643 L 2401.5 6628.643 C 2401.5 6631.403 2403.74 6633.643 2406.5 6633.643 L 2422.5 6633.643 C 2425.26 6633.643 2427.5 6631.403 2427.5 6628.643 L 2427.5 6594.643 C 2427.5 6591.883 2425.26 6589.643 2422.5 6589.643 Z M 2414.5 6631.643 C 2412.84 6631.643 2411.5 6630.303 2411.5 6628.643 C 2411.5 6626.983 2412.84 6625.643 2414.5 6625.643 C 2416.16 6625.643 2417.5 6626.983 2417.5 6628.643 C 2417.5 6630.303 2416.16 6631.643 2414.5 6631.643 Z M 2423.5 6623.643 L 2405.5 6623.643 L 2405.5 6595.643 L 2423.5 6595.643 L 2423.5 6623.643 Z" fill="black"/>
+      </g>
+      <g id="Graphic_175">
+        <rect x="2344" y="6751.5" width="141" height="47" fill="white"/>
+        <rect x="2344" y="6751.5" width="141" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(2349 6765.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.644" y="15">Load Balancer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_174">
+        <rect x="2344" y="6896.518" width="141" height="54.96452" fill="white"/>
+        <rect x="2344" y="6896.518" width="141" height="54.96452" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_170">
+        <line x1="2414.5" y1="6798.5" x2="2414.5" y2="6886.618" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_169">
+        <line x1="2414.5" y1="6633.643" x2="2414.5" y2="6741.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_168">
+        <text transform="translate(2371.388 6570.195)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Mobile User</tspan>
+        </text>
+      </g>
+      <g id="Graphic_177">
+        <rect x="2341.644" y="6671.802" width="145.712" height="28.447998" fill="white"/>
+        <text transform="translate(2346.644 6676.802)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Fetch URLs of tiles</tspan>
+        </text>
+      </g>
+      <g id="Graphic_178">
+        <rect x="2348.02" y="6827.4834" width="132.96" height="28.447998" fill="white"/>
+        <text transform="translate(2353.02 6832.4834)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Forward Request</tspan>
+        </text>
+      </g>
+      <g id="Graphic_180">
+        <title>Cloud</title>
+        <path d="M 2700.853 6604.415 C 2698.3456 6591.6934 2687.1725 6582.143 2673.75 6582.143 C 2663.093 6582.143 2653.8375 6588.19 2649.228 6597.04 C 2638.1288 6598.22 2629.5 6607.6234 2629.5 6619.018 C 2629.5 6631.2234 2639.4194 6641.143 2651.625 6641.143 L 2699.5625 6641.143 C 2709.74 6641.143 2718 6632.883 2718 6622.705 C 2718 6612.97 2710.4406 6605.079 2700.853 6604.415 Z" fill="black"/>
+      </g>
+      <g id="Line_181">
+        <line x1="2427.5" y1="6611.643" x2="2620.8605" y2="6611.643" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_182">
+        <rect x="2477.323" y="6597.419" width="115.472" height="28.447998" fill="white"/>
+        <text transform="translate(2482.323 6602.419)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7887024e-19" y="15">Download tiles</tspan>
+        </text>
+      </g>
+      <g id="Graphic_183">
+        <text transform="translate(2656.566 6642.143)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">CDN</tspan>
+        </text>
+      </g>
+      <g id="Group_184">
+        <g id="Graphic_186">
+          <circle cx="2331.6972" cy="6686.026" r="11.1971878701505" fill="white"/>
+          <circle cx="2331.6972" cy="6686.026" r="11.1971878701505" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_185">
+          <text transform="translate(2327.2492 6676.802)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31974423e-20" y="15">1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_187">
+        <g id="Graphic_189">
+          <circle cx="2336.8228" cy="6843.463" r="11.1971878701505" fill="white"/>
+          <circle cx="2336.8228" cy="6843.463" r="11.1971878701505" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_188">
+          <text transform="translate(2332.3748 6834.239)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31974423e-20" y="15">2</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_190">
+        <g id="Graphic_192">
+          <circle cx="2363.6972" cy="6924" r="11.1971878701505" fill="white"/>
+          <circle cx="2363.6972" cy="6924" r="11.1971878701505" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_191">
+          <text transform="translate(2359.2492 6914.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31974423e-20" y="15">3</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_193">
+        <g id="Graphic_195">
+          <circle cx="2466.1258" cy="6611.643" r="11.1971878701502" fill="white"/>
+          <circle cx="2466.1258" cy="6611.643" r="11.1971878701502" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_194">
+          <text transform="translate(2461.6778 6602.419)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31974423e-20" y="15">4</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_1151">
+        <text transform="translate(2371.388 6905.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="19.032001" y="15">Construct </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.816001" y="33.448">URLs of tiles</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1152">
+        <text transform="translate(2345 6952.482)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="10.092" y="15">Map Tile Service</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

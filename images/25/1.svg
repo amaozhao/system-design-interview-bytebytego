@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1817.161 4287.796 697.0001 244.70394" width="697.0001" height="244.70394">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="09_s3" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>09.s3</title>
+    <rect fill="white" x="1817.161" y="4287.796" width="697.0001" height="244.70394"/>
+    <g id="09_s3_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_5522">
+        <rect x="2300.261" y="4293.4" width="213.4" height="238.59994" fill="white"/>
+        <rect x="2300.261" y="4293.4" width="213.4" height="238.59994" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5497">
+        <rect x="2062.6" y="4293.4" width="213.4" height="238.59994" fill="white"/>
+        <rect x="2062.6" y="4293.4" width="213.4" height="238.59994" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5482">
+        <path d="M 1817.661 4507.6296 L 1817.661 4312.6665 C 1817.661 4299.214 1867.0929 4288.296 1928 4288.296 C 1988.9071 4288.296 2038.339 4299.214 2038.339 4312.6665 L 2038.339 4507.6296 C 2038.339 4521.082 1988.9071 4532 1928 4532 C 1867.0929 4532 1817.661 4521.082 1817.661 4507.6296" fill="white"/>
+        <path d="M 1817.661 4507.6296 L 1817.661 4312.6665 C 1817.661 4299.214 1867.0929 4288.296 1928 4288.296 C 1988.9071 4288.296 2038.339 4299.214 2038.339 4312.6665 L 2038.339 4507.6296 C 2038.339 4521.082 1988.9071 4532 1928 4532 C 1867.0929 4532 1817.661 4521.082 1817.661 4507.6296 M 1817.661 4312.6665 C 1817.661 4326.119 1867.0929 4337.037 1928 4337.037 C 1988.9071 4337.037 2038.339 4326.119 2038.339 4312.6665" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_5457">
+        <g id="Graphic_5455">
+          <path d="M 1838 4396.796 L 1838 4348.196 L 1843.4 4342.796 L 1892 4342.796 L 1892 4391.396 L 1886.6 4396.796 Z" fill="white"/>
+          <path d="M 1838 4396.796 L 1838 4348.196 L 1843.4 4342.796 L 1892 4342.796 L 1892 4391.396 L 1886.6 4396.796 L 1838 4396.796 M 1838 4348.196 L 1886.6 4348.196 L 1892 4342.796 M 1886.6 4348.196 L 1886.6 4396.796" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5456">
+          <text transform="translate(1842.363 4362.8797)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">block</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_5458">
+        <g id="Graphic_5460">
+          <path d="M 1901 4396.796 L 1901 4348.196 L 1906.4 4342.796 L 1955 4342.796 L 1955 4391.396 L 1949.6 4396.796 Z" fill="white"/>
+          <path d="M 1901 4396.796 L 1901 4348.196 L 1906.4 4342.796 L 1955 4342.796 L 1955 4391.396 L 1949.6 4396.796 L 1901 4396.796 M 1901 4348.196 L 1949.6 4348.196 L 1955 4342.796 M 1949.6 4348.196 L 1949.6 4396.796" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5459">
+          <text transform="translate(1905.363 4362.8797)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">block</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_5461">
+        <g id="Graphic_5463">
+          <path d="M 1964 4396.796 L 1964 4348.196 L 1969.4 4342.796 L 2018 4342.796 L 2018 4391.396 L 2012.6 4396.796 Z" fill="white"/>
+          <path d="M 1964 4396.796 L 1964 4348.196 L 1969.4 4342.796 L 2018 4342.796 L 2018 4391.396 L 2012.6 4396.796 L 1964 4396.796 M 1964 4348.196 L 2012.6 4348.196 L 2018 4342.796 M 2012.6 4348.196 L 2012.6 4396.796" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5462">
+          <text transform="translate(1968.363 4362.8797)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">block</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_5470">
+        <g id="Graphic_5472">
+          <path d="M 1838 4457.296 L 1838 4408.696 L 1843.4 4403.296 L 1892 4403.296 L 1892 4451.896 L 1886.6 4457.296 Z" fill="white"/>
+          <path d="M 1838 4457.296 L 1838 4408.696 L 1843.4 4403.296 L 1892 4403.296 L 1892 4451.896 L 1886.6 4457.296 L 1838 4457.296 M 1838 4408.696 L 1886.6 4408.696 L 1892 4403.296 M 1886.6 4408.696 L 1886.6 4457.296" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5471">
+          <text transform="translate(1842.363 4423.3797)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">block</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_5467">
+        <g id="Graphic_5469">
+          <path d="M 1901 4457.296 L 1901 4408.696 L 1906.4 4403.296 L 1955 4403.296 L 1955 4451.896 L 1949.6 4457.296 Z" fill="white"/>
+          <path d="M 1901 4457.296 L 1901 4408.696 L 1906.4 4403.296 L 1955 4403.296 L 1955 4451.896 L 1949.6 4457.296 L 1901 4457.296 M 1901 4408.696 L 1949.6 4408.696 L 1955 4403.296 M 1949.6 4408.696 L 1949.6 4457.296" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5468">
+          <text transform="translate(1905.363 4423.3797)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">block</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_5464">
+        <g id="Graphic_5466">
+          <path d="M 1964 4457.296 L 1964 4408.696 L 1969.4 4403.296 L 2018 4403.296 L 2018 4451.896 L 2012.6 4457.296 Z" fill="white"/>
+          <path d="M 1964 4457.296 L 1964 4408.696 L 1969.4 4403.296 L 2018 4403.296 L 2018 4451.896 L 2012.6 4457.296 L 1964 4457.296 M 1964 4408.696 L 2012.6 4408.696 L 2018 4403.296 M 2012.6 4408.696 L 2012.6 4457.296" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5465">
+          <text transform="translate(1968.363 4423.3797)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">block</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_5479">
+        <g id="Graphic_5481">
+          <path d="M 1838 4517.796 L 1838 4469.196 L 1843.4 4463.796 L 1892 4463.796 L 1892 4512.396 L 1886.6 4517.796 Z" fill="white"/>
+          <path d="M 1838 4517.796 L 1838 4469.196 L 1843.4 4463.796 L 1892 4463.796 L 1892 4512.396 L 1886.6 4517.796 L 1838 4517.796 M 1838 4469.196 L 1886.6 4469.196 L 1892 4463.796 M 1886.6 4469.196 L 1886.6 4517.796" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5480">
+          <text transform="translate(1842.363 4483.8797)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">block</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_5476">
+        <g id="Graphic_5478">
+          <path d="M 1901 4517.796 L 1901 4469.196 L 1906.4 4463.796 L 1955 4463.796 L 1955 4512.396 L 1949.6 4517.796 Z" fill="white"/>
+          <path d="M 1901 4517.796 L 1901 4469.196 L 1906.4 4463.796 L 1955 4463.796 L 1955 4512.396 L 1949.6 4517.796 L 1901 4517.796 M 1901 4469.196 L 1949.6 4469.196 L 1955 4463.796 M 1949.6 4469.196 L 1949.6 4517.796" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5477">
+          <text transform="translate(1905.363 4483.8797)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">block</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_5473">
+        <g id="Graphic_5475">
+          <path d="M 1964 4517.796 L 1964 4469.196 L 1969.4 4463.796 L 2018 4463.796 L 2018 4512.396 L 2012.6 4517.796 Z" fill="white"/>
+          <path d="M 1964 4517.796 L 1964 4469.196 L 1969.4 4463.796 L 2018 4463.796 L 2018 4512.396 L 2012.6 4517.796 L 1964 4517.796 M 1964 4469.196 L 2012.6 4469.196 L 2018 4463.796 M 2012.6 4469.196 L 2012.6 4517.796" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5474">
+          <text transform="translate(1968.363 4483.8797)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">block</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_5483">
+        <text transform="translate(1877.336 4303.696)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6679102e-19" y="15">Block Storage</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5484">
+        <title>Insert Drive File</title>
+        <path d="M 2159.12 4491.028 C 2157.69 4491.028 2156.533 4492.198 2156.533 4493.628 L 2156.52 4514.428 C 2156.52 4515.858 2157.677 4517.028 2159.107 4517.028 L 2174.72 4517.028 C 2176.15 4517.028 2177.32 4515.858 2177.32 4514.428 L 2177.32 4498.828 L 2169.52 4491.028 L 2159.12 4491.028 Z M 2168.22 4500.128 L 2168.22 4492.978 L 2175.37 4500.128 L 2168.22 4500.128 Z" fill="black"/>
+      </g>
+      <g id="Graphic_5485">
+        <title>Folder</title>
+        <path d="M 2101.744 4325.976 L 2094.076 4325.976 C 2092.6702 4325.976 2091.5328 4327.126 2091.5328 4328.532 L 2091.52 4343.868 C 2091.52 4345.274 2092.6702 4346.424 2094.076 4346.424 L 2114.524 4346.424 C 2115.9298 4346.424 2117.08 4345.274 2117.08 4343.868 L 2117.08 4331.088 C 2117.08 4329.682 2115.9298 4328.532 2114.524 4328.532 L 2104.3 4328.532 L 2101.744 4325.976 Z" fill="black"/>
+      </g>
+      <g id="Graphic_5486">
+        <title>Folder</title>
+        <path d="M 2166.744 4349.976 L 2159.076 4349.976 C 2157.6702 4349.976 2156.5328 4351.126 2156.5328 4352.532 L 2156.52 4367.868 C 2156.52 4369.274 2157.6702 4370.424 2159.076 4370.424 L 2179.524 4370.424 C 2180.9298 4370.424 2182.08 4369.274 2182.08 4367.868 L 2182.08 4355.088 C 2182.08 4353.682 2180.9298 4352.532 2179.524 4352.532 L 2169.3 4352.532 L 2166.744 4349.976 Z" fill="black"/>
+      </g>
+      <g id="Graphic_5487">
+        <title>Folder</title>
+        <path d="M 2167.314 4413.476 L 2159.646 4413.476 C 2158.2402 4413.476 2157.1028 4414.626 2157.1028 4416.032 L 2157.09 4431.368 C 2157.09 4432.774 2158.2402 4433.924 2159.646 4433.924 L 2180.094 4433.924 C 2181.4998 4433.924 2182.65 4432.774 2182.65 4431.368 L 2182.65 4418.588 C 2182.65 4417.182 2181.4998 4416.032 2180.094 4416.032 L 2169.87 4416.032 L 2167.314 4413.476 Z" fill="black"/>
+      </g>
+      <g id="Graphic_5488">
+        <title>Insert Drive File</title>
+        <path d="M 2221.12 4347.2 C 2219.69 4347.2 2218.533 4348.37 2218.533 4349.8 L 2218.52 4370.6 C 2218.52 4372.03 2219.677 4373.2 2221.107 4373.2 L 2236.72 4373.2 C 2238.15 4373.2 2239.32 4372.03 2239.32 4370.6 L 2239.32 4355 L 2231.52 4347.2 L 2221.12 4347.2 Z M 2230.22 4356.3 L 2230.22 4349.15 L 2237.37 4356.3 L 2230.22 4356.3 Z" fill="black"/>
+      </g>
+      <g id="Graphic_5489">
+        <title>Folder</title>
+        <path d="M 2228.744 4384.476 L 2221.076 4384.476 C 2219.6702 4384.476 2218.5328 4385.626 2218.5328 4387.032 L 2218.52 4402.368 C 2218.52 4403.774 2219.6702 4404.924 2221.076 4404.924 L 2241.524 4404.924 C 2242.9298 4404.924 2244.08 4403.774 2244.08 4402.368 L 2244.08 4389.588 C 2244.08 4388.182 2242.9298 4387.032 2241.524 4387.032 L 2231.3 4387.032 L 2228.744 4384.476 Z" fill="black"/>
+      </g>
+      <g id="Graphic_5490">
+        <title>Insert Drive File</title>
+        <path d="M 2159.12 4449.476 C 2157.69 4449.476 2156.533 4450.646 2156.533 4452.076 L 2156.52 4472.876 C 2156.52 4474.306 2157.677 4475.476 2159.107 4475.476 L 2174.72 4475.476 C 2176.15 4475.476 2177.32 4474.306 2177.32 4472.876 L 2177.32 4457.276 L 2169.52 4449.476 L 2159.12 4449.476 Z M 2168.22 4458.576 L 2168.22 4451.426 L 2175.37 4458.576 L 2168.22 4458.576 Z" fill="black"/>
+      </g>
+      <g id="Line_5491">
+        <path d="M 2104.3 4346.424 L 2104.3 4360.2 L 2146.6264 4360.2" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5492">
+        <line x1="2182.08" y1="4360.2" x2="2208.6265" y2="4360.2" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5493">
+        <path d="M 2182.08 4360.2 L 2200.3032 4360.2 L 2200.3032 4394.7 L 2208.6264 4394.7" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5494">
+        <path d="M 2104.3 4346.424 L 2104.3 4423.7 L 2147.1964 4423.7" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5495">
+        <path d="M 2104.3 4346.424 L 2104.3 4462.476 L 2146.6265 4462.476" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5496">
+        <path d="M 2104.3 4346.424 L 2104.3 4504.028 L 2146.6265 4504.028" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5498">
+        <text transform="translate(2124.112 4294.4)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8952838e-19" y="15">File Storage</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5499">
+        <circle cx="2401.229" cy="4397.704" r="21.16803328568" fill="white"/>
+        <circle cx="2401.229" cy="4397.704" r="21.16803328568" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5500">
+        <text transform="translate(2383.445 4390.536)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Object</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5501">
+        <circle cx="2325.861" cy="4345.36" r="10.4000166181796" fill="white"/>
+        <circle cx="2325.861" cy="4345.36" r="10.4000166181796" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5503">
+        <text transform="translate(2320.083 4338.192)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="2469136e-19" y="11">ID</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5505">
+        <circle cx="2334.461" cy="4428.56" r="27.0000431433509" fill="white"/>
+        <circle cx="2334.461" cy="4428.56" r="27.0000431433509" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5504">
+        <text transform="translate(2312.795 4421.56)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Payload</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5507">
+        <circle cx="2469.629" cy="4337.728" r="18.7840300149886" fill="white"/>
+        <circle cx="2469.629" cy="4337.728" r="18.7840300149886" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5506">
+        <text transform="translate(2456.069 4323.856)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Meta</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="1.668" y="25.336">data</tspan>
+        </text>
+      </g>
+      <g id="Line_5508">
+        <line x1="2382.0085" y1="4406.5866" x2="2358.977" y2="4417.2303" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5509">
+        <line x1="2383.84" y1="4385.627" x2="2334.4045" y2="4351.2936" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5510">
+        <line x1="2417.1456" y1="4383.7477" x2="2455.505" y2="4350.1126" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5521">
+        <circle cx="2483.829" cy="4480.32" r="21.16803328568" fill="white"/>
+        <circle cx="2483.829" cy="4480.32" r="21.16803328568" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5520">
+        <text transform="translate(2466.045 4473.152)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Object</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5519">
+        <circle cx="2370.661" cy="4502.76" r="10.40001661818" fill="white"/>
+        <circle cx="2370.661" cy="4502.76" r="10.40001661818" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5518">
+        <text transform="translate(2364.883 4495.592)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="2469136e-19" y="11">ID</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5517">
+        <circle cx="2402.365" cy="4455.616" r="27.0000431433511" fill="white"/>
+        <circle cx="2402.365" cy="4455.616" r="27.0000431433511" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5516">
+        <text transform="translate(2380.699 4448.616)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Payload</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5515">
+        <circle cx="2481.445" cy="4412.7" r="18.7840300149889" fill="white"/>
+        <circle cx="2481.445" cy="4412.7" r="18.7840300149889" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5514">
+        <text transform="translate(2467.885 4398.828)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="0" y="11">Meta</tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" font-weight="400" fill="black" x="1.668" y="25.336">data</tspan>
+        </text>
+      </g>
+      <g id="Line_5513">
+        <line x1="2463.568" y1="4474.176" x2="2428.2082" y2="4463.453" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5512">
+        <line x1="2463.0632" y1="4484.4377" x2="2380.8635" y2="4500.737" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_5511">
+        <line x1="2483.0832" y1="4459.165" x2="2482.107" y2="4431.4725" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_5523">
+        <text transform="translate(2352.881 4294.4)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Object Storage</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="1819.0117 6076.552 142 422.8605" width="142" height="422.8605">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="03_google_map" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>03.google map</title>
+    <g id="03_google_map_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_48">
+        <title>Phone iPhone</title>
+        <path d="M 1898.0117 6097 L 1882.0117 6097 C 1879.2517 6097 1877.0117 6099.24 1877.0117 6102 L 1877.0117 6136 C 1877.0117 6138.76 1879.2517 6141 1882.0117 6141 L 1898.0117 6141 C 1900.7717 6141 1903.0117 6138.76 1903.0117 6136 L 1903.0117 6102 C 1903.0117 6099.24 1900.7717 6097 1898.0117 6097 Z M 1890.0117 6139 C 1888.3517 6139 1887.0117 6137.66 1887.0117 6136 C 1887.0117 6134.34 1888.3517 6133 1890.0117 6133 C 1891.6717 6133 1893.0117 6134.34 1893.0117 6136 C 1893.0117 6137.66 1891.6717 6139 1890.0117 6139 Z M 1899.0117 6131 L 1881.0117 6131 L 1881.0117 6103 L 1899.0117 6103 L 1899.0117 6131 Z" fill="black"/>
+      </g>
+      <g id="Graphic_45">
+        <rect x="1819.5117" y="6204" width="141" height="47" fill="white"/>
+        <rect x="1819.5117" y="6204" width="141" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1824.5117 6218.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.644" y="15">Load Balancer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_43">
+        <rect x="1819.5117" y="6314" width="141" height="47" fill="white"/>
+        <rect x="1819.5117" y="6314" width="141" height="47" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1824.5117 6319.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="34.532" y="15">Location</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="36.764" y="33.448"> Service</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <path d="M 1862.5295 6473.468 L 1862.5295 6429.4965 C 1862.5295 6426.4624 1874.8415 6424 1890.0117 6424 C 1905.182 6424 1917.494 6426.4624 1917.494 6429.4965 L 1917.494 6473.468 C 1917.494 6476.502 1905.182 6478.9645 1890.0117 6478.9645 C 1874.8415 6478.9645 1862.5295 6476.502 1862.5295 6473.468" fill="white"/>
+        <path d="M 1862.5295 6473.468 L 1862.5295 6429.4965 C 1862.5295 6426.4624 1874.8415 6424 1890.0117 6424 C 1905.182 6424 1917.494 6426.4624 1917.494 6429.4965 L 1917.494 6473.468 C 1917.494 6476.502 1905.182 6478.9645 1890.0117 6478.9645 C 1874.8415 6478.9645 1862.5295 6476.502 1862.5295 6473.468 M 1862.5295 6429.4965 C 1862.5295 6432.5305 1874.8415 6434.993 1890.0117 6434.993 C 1905.182 6434.993 1917.494 6432.5305 1917.494 6429.4965" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_37">
+        <text transform="translate(1826.7477 6479.9645)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">User Location DB</tspan>
+        </text>
+      </g>
+      <g id="Line_36">
+        <line x1="1890.0117" y1="6361" x2="1890.0117" y2="6414.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_32">
+        <line x1="1890.0117" y1="6251" x2="1890.0117" y2="6304.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_28">
+        <line x1="1890.0117" y1="6141" x2="1890.0117" y2="6194.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_26">
+        <text transform="translate(1846.8997 6077.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">Mobile User</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

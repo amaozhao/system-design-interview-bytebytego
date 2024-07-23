@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="7237.5 9227.5 507 400.5" width="507" height="400.5">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="44" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="05_metrics" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>05.metrics</title>
+    <g id="05_metrics_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_405">
+        <rect x="7521.5" y="9228" width="222.5" height="399.5" fill="white"/>
+        <path d="M 7521.5 9228 L 7744 9228 L 7744 9627.5 L 7521.5 9627.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_399">
+        <rect x="7238" y="9402" width="145.5" height="51.5" fill="white"/>
+        <rect x="7238" y="9402" width="145.5" height="51.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(7243 9418.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.718" y="15">Metrics Collector</tspan>
+        </text>
+      </g>
+      <g id="Graphic_400">
+        <rect x="7544.5" y="9269" width="176.5" height="51.5" fill="white"/>
+        <rect x="7544.5" y="9269" width="176.5" height="51.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(7549.5 9285.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11.386" y="15">Partition 0 (metric 1)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_401">
+        <rect x="7544.5" y="9358" width="176.5" height="51.5" fill="white"/>
+        <rect x="7544.5" y="9358" width="176.5" height="51.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(7549.5 9374.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11.386" y="15">Partition 1 (metric 2)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_402">
+        <rect x="7544.5" y="9447" width="176.5" height="51.5" fill="white"/>
+        <rect x="7544.5" y="9447" width="176.5" height="51.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(7549.5 9463.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11.386" y="15">Partition 2 (metric 3)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_404">
+        <text transform="translate(7598.25 9499.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="44" font-weight="400" fill="black" x="12.5" y="42">…</tspan>
+          <tspan font-family="Helvetica Neue" font-size="44" font-weight="400" fill="black" x="12.5" y="94.232">…</tspan>
+        </text>
+      </g>
+      <g id="Line_406">
+        <line x1="7383.5" y1="9427.75" x2="7511.6" y2="9427.75" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_407">
+        <text transform="translate(7607.5 9235)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="31974423e-20" y="15">Kafka</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

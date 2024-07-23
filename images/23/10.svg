@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="2991.5 7050.552 760.5 477.896" width="760.5" height="477.896">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="13" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="13" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 3 L 0 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="33" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Lucida Grande" font-size="25" panose-1="2 11 6 0 4 5 2 2 2 4" units-per-em="1000" underline-position="-97.65625" underline-thickness="48.828125" slope="0" x-height="530.27344" cap-height="722.65625" ascent="966.7969" descent="-210.9375" font-weight="400">
+      <font-face-src>
+        <font-face-name name="LucidaGrande"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2022-03-03 23:56:31 +0000</metadata>
+  <g id="07_hotel" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>07.hotel</title>
+    <g id="07_hotel_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_227">
+        <rect x="3032" y="7475" width="492" height="52.948" fill="white"/>
+        <path d="M 3032 7475 L 3524 7475 L 3524 7527.948 L 3032 7527.948 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Group_223">
+        <g id="Graphic_226">
+          <title>Attributes</title>
+          <rect x="3626" y="7074.3915" width="125" height="26.35321" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <text transform="translate(3632 7080.3915)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" font-weight="700" fill="black" x="0" y="13">reservation_id</tspan>
+          </text>
+        </g>
+        <g id="Graphic_225">
+          <title>Class Name</title>
+          <rect x="3626" y="7051.552" width="125" height="22.83945" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <text transform="translate(3632 7054.783)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" font-weight="700" fill="black" x="21.7055" y="13">reservation</tspan>
+          </text>
+        </g>
+        <g id="Graphic_224">
+          <title>Operations</title>
+          <rect x="3626" y="7100.745" width="125" height="142.30734" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <text transform="translate(3632 7106.745)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="12">hotel_id</tspan>
+            <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="31">room_type_id</tspan>
+            <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="50">start_date</tspan>
+            <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="69">end_date</tspan>
+            <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="88">status</tspan>
+            <tspan font-family="Helvetica Neue" font-size="13" font-weight="400" fill="black" x="0" y="107">guest_id</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_222">
+        <title>Person</title>
+        <path d="M 3113 7088 C 3117.42 7088 3121 7084.42 3121 7080 C 3121 7075.58 3117.42 7072 3113 7072 C 3108.58 7072 3105 7075.58 3105 7080 C 3105 7084.42 3108.58 7088 3113 7088 Z M 3113 7092 C 3107.66 7092 3097 7094.68 3097 7100 L 3097 7104 L 3129 7104 L 3129 7100 C 3129 7094.68 3118.34 7092 3113 7092 Z" fill="black"/>
+      </g>
+      <g id="Graphic_221">
+        <title>Person</title>
+        <path d="M 3451.5 7088 C 3455.92 7088 3459.5 7084.42 3459.5 7080 C 3459.5 7075.58 3455.92 7072 3451.5 7072 C 3447.08 7072 3443.5 7075.58 3443.5 7080 C 3443.5 7084.42 3447.08 7088 3451.5 7088 Z M 3451.5 7092 C 3446.16 7092 3435.5 7094.68 3435.5 7100 L 3435.5 7104 L 3467.5 7104 L 3467.5 7100 C 3467.5 7094.68 3456.84 7092 3451.5 7092 Z" fill="black"/>
+      </g>
+      <g id="Graphic_220">
+        <text transform="translate(3051.36 7490.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">row 1: 121, 2, 3, 2021-06-01, 2021-06-04, pending_pay, guest1</tspan>
+        </text>
+      </g>
+      <g id="Line_218">
+        <line x1="3112.5794" y1="7104" x2="3112.9888" y2="7464.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_217">
+        <line x1="3452" y1="7104.404" x2="3451.0267" y2="7464.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_216">
+        <rect x="2992" y="7200.364" width="233" height="178.2716" fill="white"/>
+        <rect x="2992" y="7200.364" width="233" height="178.2716" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_215">
+        <text transform="translate(2999.5 7206.072)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">INSERT INTO RESERVATION (</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">121, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="51.895996">2, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="70.34399">3,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="88.79199">2021-06-01,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="107.23999">2021-06-04,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="125.68799">pending_pay,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="144.13599">guest1</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="162.58398">)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_214">
+        <rect x="3330.25" y="7200.364" width="233" height="178.2716" fill="white"/>
+        <rect x="3330.25" y="7200.364" width="233" height="178.2716" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_213">
+        <text transform="translate(3337.25 7206.072)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">INSERT INTO RESERVATION (</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="33.448">121, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="51.895996">2, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="70.34399">3, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="88.79199">2021-06-01,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="107.23999">2021-06-04,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="125.68799">pending_pay,</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="144.13599">guest1</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="162.58398">)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_212">
+        <text transform="translate(3056.6394 7052.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="50448534e-20" y="15">User’s first click</tspan>
+        </text>
+      </g>
+      <g id="Graphic_211">
+        <text transform="translate(3381.8967 7052.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="0" y="15">User’s second click</tspan>
+        </text>
+      </g>
+      <g id="Graphic_228">
+        <rect x="2997.2654" y="7223.839" width="38.5" height="20.447998" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_229">
+        <rect x="3336.25" y="7223.839" width="38.5" height="20.447998" stroke="#ff2600" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_230">
+        <line x1="3046.6654" y1="7234.063" x2="3325.35" y2="7234.063" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_231">
+        <rect x="3441.8377" y="7403" width="19.094" height="40.923996" fill="white"/>
+        <text transform="translate(3442.8377 7404)" fill="#ff2600">
+          <tspan font-family="Helvetica Neue" font-size="33" font-weight="400" fill="#ff2600" x="47961635e-20" y="31">x</tspan>
+        </text>
+      </g>
+      <g id="Graphic_232">
+        <rect x="3102.5274" y="7412.924" width="21.104004" height="31" fill="white"/>
+        <text transform="translate(3103.5274 7413.924)" fill="#0096ff">
+          <tspan font-family="Lucida Grande" font-size="25" font-weight="400" fill="#0096ff" x="0" y="24">✓</tspan>
+        </text>
+      </g>
+      <g id="Graphic_233">
+        <text transform="translate(3621.75 7299.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="30.952" y="15">Unique </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="20.879999" y="33.448">constraint </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="26.664" y="51.895996">violation</tspan>
+        </text>
+      </g>
+      <g id="Line_234">
+        <line x1="3620.75" y1="7310.598" x2="3385.262" y2="7242.65" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
